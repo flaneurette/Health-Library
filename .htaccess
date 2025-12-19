@@ -1,0 +1,13 @@
+# Enable directory listing (optional)
+Options -Indexes
+
+# Allow markdown files to be served
+<FilesMatch "\.(md)$">
+    Header set Content-Type "text/plain; charset=utf-8"
+</FilesMatch>
+
+# Rewrite rules (optional)
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /
+</IfModule>
