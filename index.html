@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Markdown Reader</title>
+	<link rel="stylesheet" href="Core/css/style.css" />
+</head>
+<body>
+    <header>
+        <h1>Health Library Markdown Reader</h1>
+        <div class="backend-info">Powered by PHP Backend</div>
+    </header>
+
+    <div class="container">
+        <div class="sidebar">
+            <h2><span>📁</span> Documents</h2>
+            <ul class="file-list" id="fileList">
+                <li class="loading">Loading files...</li>
+            </ul>
+        </div>
+
+        <div id="content" class="empty">
+            Select a document from the list above to view its content.
+        </div>
+    </div>
+
+    <script src="Core/js/markdown-reader.js"></script>
+	<script>
+	// Copy code to clipboard
+	function copyCode(codeId) {
+		const codeElement = document.getElementById(codeId);
+		const button = event.target;
+		
+		// Create temporary textarea
+		const textarea = document.createElement('textarea');
+		textarea.value = codeElement.textContent;
+		textarea.style.position = 'fixed';
+		textarea.style.opacity = '0';
+		document.body.appendChild(textarea);
+		
+		// Select and copy
+		textarea.select();
+		document.execCommand('copy');
+		document.body.removeChild(textarea);
+		
+		// Visual feedback
+		const originalText = button.textContent;
+		button.textContent = 'Copied!';
+		button.classList.add('copied');
+		
+		setTimeout(() => {
+			button.textContent = originalText;
+			button.classList.remove('copied');
+		}, 2000);
+	}
+
+	// Add keyboard shortcut for copy (Ctrl/Cmd + Shift + C)
+	document.addEventListener('keydown', (e) => {
+		if ((e.ctrlKey || e.metaKey) && e.shiftKey && e.key === 'C') {
+			const activeCodeBlock = document.querySelector('.code-block-wrapper:hover');
+			if (activeCodeBlock) {
+				const button = activeCodeBlock.querySelector('.copy-button');
+				if (button) button.click();
+			}
+		}
+	});
+</script>
+</body>
+</html>

@@ -1,0 +1,642 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial,
+    sans-serif;
+  line-height: 1.6;
+  color: #24292e;
+  background-color: #f6f8fa;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+header {
+  background-color: #000;
+  color: white;
+  padding: 30px 0;
+  margin-bottom: 30px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+header h1 {
+  text-align: center;
+  font-size: 2em;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.backend-info {
+  text-align: center;
+  font-size: 0.9em;
+  margin-top: 10px;
+  opacity: 0.9;
+}
+
+.sidebar {
+  background: white;
+  border: 1px solid #e1e4e8;
+  border-radius: 6px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.sidebar h2 {
+  margin-bottom: 15px;
+  font-size: 1.2em;
+  color: #24292e;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.file-list {
+  list-style: none;
+}
+
+.file-list li {
+  margin-bottom: 4px;
+}
+
+.file-list .directory-header {
+  font-weight: 600;
+  color: #6a737d;
+  margin-top: 12px;
+  margin-bottom: 8px;
+  font-size: 0.9em;
+  padding: 5px 10px;
+  background-color: #f6f8fa;
+  border-radius: 3px;
+}
+
+.file-list .directory-header:first-child {
+  margin-top: 0;
+}
+
+.file-list a {
+  color: #0366d6;
+  text-decoration: none;
+  padding: 8px 12px;
+  display: block;
+  border-radius: 6px;
+  transition: all 0.2s;
+  font-size: 0.95em;
+}
+
+.file-list a:hover {
+  background-color: #000;
+  transform: translateX(4px);
+}
+
+.file-list a.active {
+  background-color: #000;
+  color: white;
+  font-weight: 500;
+}
+
+#content {
+  background: white;
+  border: 1px solid #e1e4e8;
+  border-radius: 6px;
+  padding: 40px;
+  min-height: 400px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+#content.empty {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #6a737d;
+  font-style: italic;
+  min-height: 400px;
+}
+
+/* Markdown Styles */
+#content h1 {
+  font-size: 2em;
+  border-bottom: 1px solid #e1e4e8;
+  padding-bottom: 0.3em;
+  margin-bottom: 16px;
+  margin-top: 24px;
+}
+
+#content h1:first-child {
+  margin-top: 0;
+}
+
+#content h2 {
+  font-size: 1.5em;
+  border-bottom: 1px solid #e1e4e8;
+  padding-bottom: 0.3em;
+  margin-bottom: 16px;
+  margin-top: 24px;
+}
+
+#content h3 {
+  font-size: 1.25em;
+  margin-bottom: 16px;
+  margin-top: 24px;
+}
+
+#content h4 {
+  font-size: 1em;
+  margin-bottom: 16px;
+  margin-top: 24px;
+}
+
+#content h5 {
+  font-size: 0.875em;
+  margin-bottom: 16px;
+  margin-top: 24px;
+}
+
+#content h6 {
+  font-size: 0.85em;
+  color: #6a737d;
+  margin-bottom: 16px;
+  margin-top: 24px;
+}
+
+#content p {
+  margin-bottom: 16px;
+}
+
+#content a {
+  color: #0366d6;
+  text-decoration: none;
+}
+
+#content a:hover {
+  text-decoration: underline;
+}
+
+#content ul,
+#content ol {
+  padding-left: 2em;
+}
+
+#content li {
+  margin-bottom: 4px;
+}
+
+#content blockquote {
+  border-left: 4px solid #dfe2e5;
+  color: #6a737d;
+  padding-left: 16px;
+  margin-bottom: 16px;
+}
+
+/* ============================================
+   CODE BLOCKS - GitHub Style (FIXED)
+   ============================================ */
+
+/* Inline code */
+#content code {
+  background-color: rgba(175, 184, 193, 0.2);
+  border-radius: 6px;
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas,
+    "Liberation Mono", monospace;
+  font-size: 85%;
+  padding: 0.2em 0.4em;
+  color: #24292f;
+  font-weight: 400;
+}
+
+/* Code blocks (pre + code) - CRITICAL WHITESPACE SETTINGS */
+#content pre {
+  background-color: #f6f8fa;
+  border: 1px solid #d0d7de;
+  border-radius: 6px;
+  padding: 16px;
+  overflow-x: auto;
+  overflow-y: auto;
+  margin-bottom: 16px;
+  margin-top: 0;
+  line-height: 1.45;
+  font-size: 85%;
+
+  /* CRITICAL: Preserve whitespace */
+  white-space: pre;
+  word-wrap: normal;
+  word-break: normal;
+  overflow-wrap: normal;
+
+  /* Tab size */
+  tab-size: 4;
+  -moz-tab-size: 4;
+
+  /* Font settings for monospace alignment */
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas,
+    "Liberation Mono", monospace;
+
+  /* Scrollbar styling */
+  scrollbar-width: thin;
+  scrollbar-color: #d1d5da #f6f8fa;
+}
+
+/* Remove background from code inside pre - CRITICAL WHITESPACE */
+#content pre code {
+  background-color: transparent;
+  border-radius: 0;
+  padding: 0;
+  font-size: 100%;
+  color: #24292f;
+
+  /* CRITICAL: Preserve all whitespace */
+  white-space: pre;
+  word-break: normal;
+  word-wrap: normal;
+  overflow-wrap: normal;
+
+  border: 0;
+  display: block;
+  overflow: visible;
+  line-height: inherit;
+
+  /* Ensure monospace font inheritance */
+  font-family: inherit;
+}
+
+/* Custom scrollbar for webkit browsers */
+#content pre::-webkit-scrollbar {
+  height: 8px;
+  width: 8px;
+}
+
+#content pre::-webkit-scrollbar-track {
+  background: #f6f8fa;
+  border-radius: 6px;
+}
+
+#content pre::-webkit-scrollbar-thumb {
+  background: #d1d5da;
+  border-radius: 6px;
+}
+
+#content pre::-webkit-scrollbar-thumb:hover {
+  background: #b1b7bd;
+}
+
+/* Code block with language indicator */
+#content pre[class*="language-"] {
+  position: relative;
+  padding-top: 36px;
+}
+
+/* Language label */
+#content pre[class*="language-"]::before {
+  content: attr(data-language);
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: 8px 16px;
+  background-color: #e7eaed;
+  border-bottom: 1px solid #d0d7de;
+  border-radius: 6px 6px 0 0;
+  font-size: 12px;
+  font-weight: 600;
+  color: #57606a;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  white-space: normal; /* Label can wrap */
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial,
+    sans-serif;
+}
+
+/* Specific language colors */
+#content pre.language-javascript::before {
+  content: "JavaScript";
+  background-color: #f7df1e22;
+  color: #7c6d0a;
+}
+
+#content pre.language-python::before {
+  content: "Python";
+  background-color: #3776ab22;
+  color: #1e4273;
+}
+
+#content pre.language-html::before {
+  content: "HTML";
+  background-color: #e34c2622;
+  color: #8b2813;
+}
+
+#content pre.language-css::before {
+  content: "CSS";
+  background-color: #26499622;
+  color: #132749;
+}
+
+#content pre.language-php::before {
+  content: "PHP";
+  background-color: #777bb422;
+  color: #3b3d5a;
+}
+
+#content pre.language-json::before {
+  content: "JSON";
+  background-color: #29292922;
+  color: #141414;
+}
+
+#content pre.language-bash::before,
+#content pre.language-shell::before {
+  content: "Shell";
+  background-color: #4eaa2522;
+  color: #275012;
+}
+
+#content pre.language-sql::before {
+  content: "SQL";
+  background-color: #e3821622;
+  color: #73410b;
+}
+
+#content pre.language-text::before,
+#content pre.language-plaintext::before {
+  content: "Plain Text";
+  background-color: #f0f0f022;
+  color: #57606a;
+}
+
+/* Copy button container */
+.code-block-wrapper {
+  position: relative;
+  margin-bottom: 16px;
+}
+
+.code-block-wrapper pre {
+  margin-bottom: 0;
+}
+
+/* Copy button */
+.copy-button {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  background-color: rgba(255, 255, 255, 0.9);
+  border: 1px solid #d0d7de;
+  border-radius: 6px;
+  padding: 6px 12px;
+  font-size: 12px;
+  font-weight: 500;
+  color: #24292f;
+  cursor: pointer;
+  transition: all 0.2s;
+  opacity: 0;
+  z-index: 10;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial,
+    sans-serif;
+}
+
+.code-block-wrapper:hover .copy-button {
+  opacity: 1;
+}
+
+.copy-button:hover {
+  background-color: #f6f8fa;
+  border-color: #1b1f2426;
+}
+
+.copy-button:active {
+  background-color: #e7eaed;
+  transform: scale(0.95);
+}
+
+.copy-button.copied {
+  background-color: #1f883d;
+  color: white;
+  border-color: #1f883d;
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  #content code {
+    background-color: rgba(110, 118, 129, 0.4);
+    color: #c9d1d9;
+  }
+
+  #content pre {
+    background-color: #161b22;
+    border-color: #30363d;
+  }
+
+  #content pre code {
+    color: #c9d1d9;
+  }
+
+  #content pre::-webkit-scrollbar-track {
+    background: #161b22;
+  }
+
+  #content pre::-webkit-scrollbar-thumb {
+    background: #484f58;
+  }
+
+  #content pre::-webkit-scrollbar-thumb:hover {
+    background: #6e7681;
+  }
+
+  #content pre[class*="language-"]::before {
+    background-color: #21262d;
+    border-bottom-color: #30363d;
+    color: #8b949e;
+  }
+
+  .copy-button {
+    background-color: rgba(22, 27, 34, 0.9);
+    border-color: #30363d;
+    color: #c9d1d9;
+  }
+
+  .copy-button:hover {
+    background-color: #30363d;
+  }
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  #content pre {
+    padding: 12px;
+    font-size: 80%;
+    max-width: 100%;
+    overflow-x: auto;
+  }
+
+  #content pre[class*="language-"] {
+    padding-top: 32px;
+  }
+
+  #content pre[class*="language-"]::before {
+    padding: 6px 12px;
+    font-size: 11px;
+  }
+
+  .copy-button {
+    padding: 4px 8px;
+    font-size: 11px;
+  }
+}
+
+/* Print styles */
+@media print {
+  #content pre {
+    background-color: #f6f8fa;
+    border: 1px solid #d0d7de;
+    page-break-inside: avoid;
+    white-space: pre-wrap; /* Allow wrapping in print */
+  }
+
+  .copy-button {
+    display: none;
+  }
+}
+
+/* CRITICAL: Code block whitespace preservation */
+#content pre {
+  background-color: #f6f8fa;
+  border: 1px solid #d0d7de;
+  border-radius: 6px;
+  padding: 16px;
+  overflow-x: auto;
+  overflow-y: auto;
+  margin-bottom: 16px;
+  margin-top: 16px;
+  line-height: 1.45;
+  font-size: 14px;
+
+  /* CRITICAL: These settings preserve whitespace */
+  white-space: pre !important;
+  word-wrap: normal !important;
+  word-break: normal !important;
+  overflow-wrap: normal !important;
+
+  /* Monospace font for alignment */
+  font-family: "Courier New", Courier, monospace !important;
+
+  /* Tab size */
+  tab-size: 4;
+  -moz-tab-size: 4;
+
+  /* Scrollbar styling */
+  scrollbar-width: thin;
+  scrollbar-color: #d1d5da #f6f8fa;
+}
+
+#content pre code {
+  background-color: transparent !important;
+  border-radius: 0;
+  padding: 0 !important;
+  font-size: 100%;
+  color: #24292f;
+
+  /* CRITICAL: Preserve whitespace in code */
+  white-space: pre !important;
+  word-break: normal !important;
+  word-wrap: normal !important;
+  overflow-wrap: normal !important;
+
+  border: 0;
+  display: block;
+  overflow: visible;
+  line-height: inherit;
+
+  /* Match parent font */
+  font-family: inherit !important;
+}
+
+/* Inline code should NOT preserve whitespace like this */
+#content code:not(pre code) {
+  background-color: rgba(175, 184, 193, 0.2);
+  border-radius: 3px;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 85%;
+  padding: 0.2em 0.4em;
+  color: #24292f;
+  white-space: normal; /* Inline code can wrap */
+}
+
+#content table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 16px;
+}
+
+#content table th,
+#content table td {
+  border: 1px solid #dfe2e5;
+  padding: 6px 13px;
+}
+
+#content table th {
+  background-color: #f6f8fa;
+  font-weight: 600;
+}
+
+#content table tr:nth-child(2n) {
+  background-color: #f6f8fa;
+}
+
+#content hr {
+  border: 0;
+  border-top: 2px solid #e1e4e8;
+  margin: 24px 0;
+}
+
+#content img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+  margin: 10px 0;
+}
+
+#content .task-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+#content .task-list-item {
+  padding-left: 0;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+#content .task-list-item input[type="checkbox"] {
+  margin: 0;
+  cursor: default;
+}
+
+#content strong {
+  font-weight: 600;
+}
+
+#content del {
+  text-decoration: line-through;
+}
+
+.loading {
+  text-align: center;
+  color: #6a737d;
+  padding: 20px;
+}
+
+@media (max-width: 768px) {
+  #content {
+    padding: 20px;
+  }
+
+  header h1 {
+    font-size: 1.5em;
+  }
+}
