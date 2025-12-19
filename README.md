@@ -18,10 +18,10 @@ Usage Instructions
     Make sure PHP is enabled (most hosting has this by default)
     Set backend to 'php' in markdown-reader.js (line 545):
 
-    const reader = new MarkdownReader('./', 'php');
+    const reader = new MarkdownReader('./Documents/', 'php');
 
     Open index.html in your browser
-    The PHP script will automatically scan the ./ directory
+    The PHP script will automatically scan the ./Documents/ directory
 
 *Option 2: Node.js Backend*
 
@@ -29,7 +29,7 @@ Usage Instructions
     Install Express: npm install express
     Set backend to 'node' in markdown-reader.js:
 
-    const reader = new MarkdownReader('./', 'node');
+    const reader = new MarkdownReader('./Documents/', 'node');
 
     Start server: node js/server.js
     Open http://localhost:3000
