@@ -11,12 +11,14 @@ These days, many plastic items in the kitchen are BPA free. One might think: Oh,
 ⚠️ BPA free does not mean there isn't a risk.
 > When BPA is removed, it's often swapped for other bisphenols (like BPS, BPF, BPZ) that aren't as well-studied but show similar estrogenic activity, potentially posing the same health risks.
 
+Quick references: https://www.plasticlist.org
+
 ---
 
 ## Table of Contents
 
 - [Why This Matters](#why-this-matters) 
-- [Nano particles](#mano-particles) 
+- [Nano particles](#nano-particles) 
 - [The PP Polypropylene Case](#the-pp-polypropylene-case)
 - [Plastics Overview](#plastics-overview)  
 - [Kitchen Usage Cheat Sheet](#kitchen-usage-cheat-sheet)  
