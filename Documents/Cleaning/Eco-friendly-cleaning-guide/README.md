@@ -10,11 +10,11 @@ My personal favourites are:
 
 ---
 
-## The Essentials
+## The essentials
 
 These five items cover 90% of your cleaning needs:
 
-### 1. Citric Acid
+### 1. Citric acid
 Best for:
 - Limescale and hard water deposits (kettles, faucets, showerheads)
 - Toilet bowls, removes all stains.
@@ -26,7 +26,7 @@ How to use: Mix 1-2 tablespoons per liter of warm water
 
 Citric acid is also a food addative and can preseve bottles of water or home-made soda. It's cheap.
 
-### 2. White Vinegar
+### 2. White vinegar
 Best for:
 - Glass and mirrors
 - General surface cleaning
@@ -34,21 +34,21 @@ Best for:
 
 Note: Similar to citric acid but less effective on tough limescale
 
-### 3. Baking Soda (Sodium Bicarbonate)
+### 3. Baking soda (Sodium bicarbonate)
 Best for:
 - Scrubbing sinks, tubs, and stovetops
 - Deodorizing carpets and fridges
 
 How to use: Mix with water to make a paste for scrubbing
 
-### 4. Castile Soap or Regular Dish Soap
+### 4. Castile soap or regular dish soap (ECO brand)
 Best for:
 - Floors, counters, and most surfaces
 - General cleaning
 
 How to use: Just a few drops in water is enough
 
-### 5. Microfiber Cloths
+### 5. Microfiber cloths
 The secret weapon:
 - Clean most surfaces with just water
 - Reusable for years
@@ -57,18 +57,18 @@ The secret weapon:
 
 Reguarly clean them in hot water, every 2-3 days.
 
-### 6. Alcohol Solution (Occasional Use)
+### 6. Alcohol solution (occasional use)
 Best for:
 - Electronics (keyboards, phones, remote controls)
 - Disinfecting after illness in the home
 - Medical/first aid uses
+- Rims of glasses
 
 DIY recipe: 70% isopropyl alcohol + 30% water in a spray bottle, use with washable cloths
 
-Note: Not needed for routine cleaningsoap and water is sufficient for normal household bacteria. Save this for when you actually need disinfection.
+Note: Not needed for routine cleaning soap and water is sufficient for normal household bacteria. Save this for when you actually need disinfection.
 
 > ❌ There are risks because alcohol is considered low toxic.
-
 
 ## Enzyme cleaners
 
