@@ -100,14 +100,14 @@ The goal is gentle, sustainable movementnot distance records or athletic achieve
 
 ### Basic routine
 
-Duration: 15–30 minutes of relaxed walking in the evening
+Duration: 15-30 minutes of relaxed walking in the evening
 
 Focus points:
 - Push off with your toes to engage the full range of calf motion
 - Maintain a comfortable, natural pace-this isn't a workout, it's maintenance
 - Notice your surroundings and enjoy the experience
 
-Frequency: 3–5 times per week produces significant benefits
+Frequency: 3-5 times per week produces significant benefits
 
 Timing: Ideal after dinner, allowing time for digestion before bed
 
@@ -115,7 +115,7 @@ Timing: Ideal after dinner, allowing time for digestion before bed
 
 Maximize the neuromuscular benefits with these simple exercises:
 
-1. Calf Stretch (30–45 seconds per leg)
+1. Calf Stretch (30-45 seconds per leg)
 - Stand with your heel on the ground and toes elevated
 - Lean forward gently until you feel a light stretch in your calf
 - Hold steady, breathe naturally
@@ -125,7 +125,7 @@ Maximize the neuromuscular benefits with these simple exercises:
 - Move slowly and deliberately
 - Repeat 10 times per leg
 
-3. Heel Raises (30–45 seconds)
+3. Heel Raises (30-45 seconds)
 - Stand on both feet and rise onto your toes
 - Lower slowly with control
 - For added coordination challenge, try one leg at a time
@@ -141,7 +141,7 @@ Purpose: Lengthens calf fibers, trains motor neurons, improves neuromuscular fee
 
 For additional muscle support, consider magnesium supplementation:
 
-- Dose: 200–400 mg elemental magnesium (glycinate form is well-absorbed)
+- Dose: 200-400 mg elemental magnesium (glycinate form is well-absorbed)
 - Timing: Take in the evening
 - Important: More is not better-stay within the recommended range
 
