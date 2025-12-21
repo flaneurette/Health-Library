@@ -80,13 +80,14 @@ Personally, I use Biotex. Not only for hand-washed laundry, but also to clean:
 - Shoes
 - Garden flooring: hard wood, tiles, stones.
 - Wood
-- Glass bottles (remove biofilms)
+- Glass bottles (remove biofilms), glassware.
 - Plastics
 - Anything that stains or has bacterial biofilms (can be invisible)
 
 Let it process for at least an hour at 60 degrees celsius water temperature, then rinse.
 
 Always test before using an enzyme cleaner as they might affect natural products. Do not wash wool and silk in it.
+Rinse well after using it, so any residue will be removed. Especially on kitchen glassware: rinse at least 5-7 times.
 
 ---
 
