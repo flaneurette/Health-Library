@@ -6,7 +6,7 @@ My personal favourites are:
 
 - Citric Acid
 - Enzyme cleaners such as Biotex brand.
-- Microfiber cloth.
+- Microfiber cloth. (while it is synthetic, it is extremely durable)
 
 ---
 
