@@ -84,7 +84,7 @@ Personally, I use Biotex. Not only for hand-washed laundry, but also to clean:
 - Plastics
 - Anything that stains or has bacterial biofilms (can be invisible)
 
-Awlays test before using an enzyme cleaner as they might affect natural products. Do not wash wool and silk in it.
+Always test before using an enzyme cleaner as they might affect natural products. Do not wash wool and silk in it.
 
 ---
 
