@@ -88,7 +88,7 @@ Before you begin: Evening walks are beneficial for most people, but it's essenti
 - Listen to your body: Discomfort, dizziness, or unusual fatigue are signals to stop and rest
 - Consult your healthcare provider: If you have existing health conditions, balance issues, or concerns about your walking ability, discuss this practice with your doctor first
 
-The goal is gentle, sustainable movement—not distance records or athletic achievement. Even a 5-minute walk around your home or yard provides benefits.
+The goal is gentle, sustainable movementnot distance records or athletic achievement. Even a 5-minute walk around your home or yard provides benefits.
 
 ---
 
