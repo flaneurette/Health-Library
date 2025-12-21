@@ -6,8 +6,12 @@ My personal favourites are:
 
 - Citric Acid
 - Enzyme cleaners such as Biotex brand.
-- Microfiber cloth.
-   *(while it is synthetic, it is extremely durable: lasts for years, which offsets the risks or downsides)*
+- Microfiber cloth. (#1)
+- Cleaning Gloves (#2)
+
+#1. *While it is synthetic, it is extremely durable: lasts for years, which offsets the risks or downsides*
+
+#2. *Bio degradable: Latex, Bamboo fiber. If allergic: try others, like Nitrile. But its less eco friendly.*
 
 ---
 
