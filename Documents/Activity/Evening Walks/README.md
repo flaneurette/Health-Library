@@ -1,5 +1,5 @@
 # The Lost Art of Evening Walks
-### Reclaiming a Simple Practice for Lifelong Health
+### Reclaiming a simple practice for lifelong Health
 
 Decades ago, around 8 o'clock each evening, you could find elderly neighbors strolling through the neighborhood. It was a gentle ritual, unremarkable yet universal. Today, those same streets sit empty or rush with cars and cyclists. Somewhere along the way, we abandoned one of the simplest, most effective health practices available to us.
 
@@ -7,15 +7,15 @@ I've maintained this tradition of evening walks for years, and the benefits have
 
 ---
 
-## Why Evening Walks Matter
+## Why evening walks matter
 
 Evening walks provide unique advantages that go far beyond burning calories. They work at the neuromuscular level, training the delicate communication between nerves and muscles, improving circulation when your body needs it most, and establishing rhythms that support both physical and mental health.
 
 ---
 
-## The Remarkable Benefits
+## The remarkable benefits
 
-### 1. Preventing Night Cramps and Supporting Calf Health
+### 1. Preventing night cramps and supporting calf health
 
 If you've ever been jolted awake by a sudden, painful calf cramp, you know how debilitating they can be. These cramps become more common with age, often caused by motor neuron misfires and poor circulation.
 
@@ -28,7 +28,7 @@ Evening walks address this directly:
 
 > Quick tip for night cramps: If a cramp strikes, point or curl your toes inward to relieve it. Never point your toes outward, as this can intensify the spasm.
 
-### 2. Training Your Motor Neurons
+### 2. Training your motor neurons
 
 Your motor neurons are the command center for muscle movement. As we age, these neurons can degrade, leading to coordination issues, weakness, and those dreaded nighttime cramps.
 
@@ -39,7 +39,7 @@ Regular walking provides essential training:
 - Variations like heel raises or toe flexes strengthen the nerve-muscle feedback loop
 - This coordination improvement reduces cramp risk and preserves muscle control with age
 
-### 3. Circulation and Cardiovascular Health
+### 3. Circulation and cardiovascular health
 
 Your legs are far from your heart, and blood has to work against gravity to return from your feet. Evening walks combat this challenge:
 
@@ -48,7 +48,7 @@ Your legs are far from your heart, and blood has to work against gravity to retu
 - Improved systemic circulation reduces risks associated with prolonged sitting
 - Better blood flow means better oxygen delivery and waste removal throughout your body
 
-### 4. Preserving Mobility as You Age
+### 4. Preserving mobility as you age
 
 The phrase "use it or lose it" exists for good reason. Your mobility in your 70s and 80s is being determined by your habits today.
 
@@ -62,7 +62,7 @@ Evening walks build a reserve of function:
 
 Our ancestors who aged with better circulation and mobility weren't genetically different-they simply moved more as part of daily life.
 
-### 5. Mental Clarity and Lifestyle Benefits
+### 5. Mental clarity and lifestyle benefits
 
 The benefits extend beyond the physical:
 
@@ -72,15 +72,15 @@ The benefits extend beyond the physical:
 - Stress reduction: Gentle movement helps transition from the day's demands to evening rest
 - Environmental connection: Even in urban settings, walking reconnects you with your neighborhood
 
-### 6. Long-Term Independence
+### 6. Long-term independence
 
 Perhaps the most valuable benefit is one you won't appreciate until you need it: independence. Every evening walk is an investment in your future self-the person who will want to walk to the mailbox, play with grandchildren, or simply move through daily life without assistance.
 
 ---
 
-## How to Practice Evening Walks
+## How to practice evening walks
 
-### Basic Routine
+### Basic routine
 
 Duration: 15–30 minutes of relaxed walking in the evening
 
@@ -93,7 +93,7 @@ Frequency: 3–5 times per week produces significant benefits
 
 Timing: Ideal after dinner, allowing time for digestion before bed
 
-### Optional Enhancement: 2-Minute Post-Walk Routine
+### Optional enhancement: 2-Minute Post-Walk Routine
 
 Maximize the neuromuscular benefits with these simple exercises:
 
@@ -117,9 +117,9 @@ Purpose: Lengthens calf fibers, trains motor neurons, improves neuromuscular fee
 
 ---
 
-## Supporting Your Practice
+## Supporting your practice
 
-### Magnesium Supplementation
+### Magnesium supplementation
 
 For additional muscle support, consider magnesium supplementation:
 
@@ -131,7 +131,7 @@ Magnesium supports proper muscle function and can complement your walking routin
 
 ---
 
-## Summary: Why This Matters
+## Summary: why this matters
 
 ```
 | Benefit Area    | Details 
@@ -144,7 +144,7 @@ Magnesium supports proper muscle function and can complement your walking routin
 ```
 ---
 
-## The Bigger Picture
+## The bigger picture
 
 Evening walks represent more than a health intervention-they're a return to a wisdom our grandparents understood intuitively. Those elderly folks walking at 8 o'clock weren't following a fitness trend or a doctor's prescription. They were maintaining the body's natural need for movement, and they reaped the benefits in their continued mobility and independence.
 
