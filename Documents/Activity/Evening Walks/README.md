@@ -1,7 +1,7 @@
 # The Lost Art of Evening Walks
 ### Reclaiming a simple practice for lifelong Health
 
-Decades ago, around 8 o'clock each evening, you could find elderly neighbors strolling through the neighborhood. It was a gentle ritual, unremarkable yet universal. Today, those same streets sit empty or rush with cars and cyclists. Somewhere along the way, we abandoned one of the simplest, most effective health practices available to us.
+Decades ago, around 8 o'clock each evening, you could find elderly neighbors strolling through the neighborhood. It was common around here, unremarkable yet universal. Today, those same streets sit empty or rush with cars and cyclists. Somewhere along the way, we abandoned one of the simplest, most effective health practices available to us.
 
 I've maintained this tradition of evening walks for years, and the benefits have been profound. This isn't just about exercise-it's about maintaining the intricate systems that keep us mobile, independent, and comfortable well into our later years.
 
