@@ -83,6 +83,7 @@ Personally, I use Biotex. Not only for hand-washed laundry, but also to clean:
 - Glass bottles, glassware (remove biofilms)
 - Plastics
 - Anything that stains or has bacterial biofilms (can be invisible)
+- Sinks (make a paste and put it in)
 
 Glassware is prone to biofilms, enzymes quickly clean it. (Almost no other product can do this.)
 
