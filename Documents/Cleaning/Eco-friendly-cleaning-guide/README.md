@@ -15,6 +15,8 @@ My personal favourites are:
 These five items cover 90% of your cleaning needs:
 
 ### 1. Citric acid
+A crystaline/powdery substance, buy dry in bulk, stays good for a very long time
+
 Best for:
 - Limescale and hard water deposits (kettles, faucets, showerheads)
 - Toilet bowls, removes all stains.
