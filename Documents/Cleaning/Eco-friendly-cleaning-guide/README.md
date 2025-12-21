@@ -22,7 +22,7 @@ Best for:
 - Flooring (check if the floor is acid resistant)
 - Kitchens
 
-How to use: Mix 1-2 tablespoons per liter of warm water. Let it soak for about 20-40 minutes. The longer, the more corrosive. I often use it in a spray bottle, very effective for the toilet bowl. Be amazed how quickly it will be sprakling clean!
+How to use: Mix 1-2 tablespoons per liter of warm water. Let it soak for about 20-40 minutes on the surface you use it on. The longer, the more corrosive. I often use it in a spray bottle, very effective for the toilet bowl. Be amazed how quickly it will be sprakling clean!
 
 Citric acid is also a food addative and can preseve bottles of water or home-made soda. It's cheap.
 
