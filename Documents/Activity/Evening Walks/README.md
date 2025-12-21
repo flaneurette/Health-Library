@@ -5,7 +5,7 @@ From where I lived decades ago, around eight o'clock each evening, you could fin
 
 I've maintained this tradition of evening walks for years, and the benefits have been profound. This isn't just about exercise-it's about maintaining the intricate systems that keep us mobile, independent, and comfortable well into our later years.
 
-> Instead of binging another TV show, go online or play a computer game, try to find 10-15 miniutes to take a walk outside. Perhaps even 20-30 minutes if you are able. Start when there is still evening light, prevent walking in the dark if you can. Also try to walk without earbuds or headphones, as you need your senses when walking outside. You can take your phone with you in case of an emergencey. Only walk if you are physically able to, and use common sense.
+> Instead of binging another TV show, go online or play a computer game, try to find 10-15 miniutes to take a walk outside. Perhaps even 20-30 minutes if you are able. Start when there is still evening light, prevent walking in the dark if you can. Also try to walk without earbuds or headphones, as you need your senses when walking outside. You can take your phone with you in case of an emergency. Only walk if you are physically able to, and use common sense.
 
 You can start this today.
 
