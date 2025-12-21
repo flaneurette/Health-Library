@@ -11,6 +11,24 @@ You can start this today.
 
 ---
 
+## Table of Contents
+
+- [Why evening walks matter](#why-evening-walks-matter)
+- [The remarkable benefits](#the-remarkable-benefits)
+  - [1. Preventing night cramps and supporting calf health](#1-preventing-night-cramps-and-supporting-calf-health)
+  - [2. Training your motor neurons](#2-training-your-motor-neurons)
+  - [3. Circulation and cardiovascular health](#3-circulation-and-cardiovascular-health)
+  - [4. Preserving mobility as you age](#4-preserving-mobility-as-you-age)
+  - [5. Mental clarity and lifestyle benefits](#5-mental-clarity-and-lifestyle-benefits)
+  - [6. Long-term independence](#6-long-term-independence)
+- [Important safety considerations](#important-safety-considerations)
+- [How to practice evening walks](#how-to-practice-evening-walks)
+- [Supporting your practice](#supporting-your-practice)
+- [Summary: why this matters](#summary-why-this-matters)
+- [The bigger picture](#the-bigger-picture)
+
+---
+
 ## Why evening walks matter
 
 Evening walks provide unique advantages that go far beyond burning calories. They work at the neuromuscular level, training the delicate communication between nerves and muscles, improving circulation when your body needs it most, and establishing rhythms that support both physical and mental health.
