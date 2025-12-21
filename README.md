@@ -12,6 +12,8 @@ This library is designed to help you take charge of your health. In our modern w
 
 Usage Instructions
 
+> If using PHP, skip the next steps: you could just upload all files to your server and then open `index.html` it should work out-of-the-box.
+
 *Option 1: PHP Backend (DEFAULT. Recommended for most shared hosting)*
 
     Upload all files to your web server
