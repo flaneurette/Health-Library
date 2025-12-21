@@ -86,6 +86,14 @@ This is a minimal routine to maximize calf and motor neuron health after an even
 Total Time: ~2 minutes  
 Purpose: Calf fiber lengthening, motor neuron training, improved neuromuscular feedback, and cramp prevention.
 
+## Supplements
+For muscle support:
+```text
+200–400 mg elemental magnesium / Glycinate.
+Taken in the evening
+You don’t need huge doses. more is not better.
+```
+
 ---
 
 ## 8. Summary of Benefits
