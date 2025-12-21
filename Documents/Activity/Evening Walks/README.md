@@ -1,7 +1,7 @@
 # The Lost Art of Evening Walks
 ### Reclaiming a simple practice for lifelong Health
 
-Decades ago, around 8 o'clock each evening, you could find elderly neighbors strolling through the neighborhood. It was common around here, unremarkable yet universal. Today, those same streets sit empty or rush with cars and cyclists. Somewhere along the way, we abandoned one of the simplest, most effective health practices available to us.
+From where I live decades ago, around eight o'clock each evening, you could find elderly neighbors strolling through the neighborhood. It was common around here, unremarkable yet universal. Today, those same streets sit empty or rush with cars and cyclists. Somewhere along the way, we abandoned one of the simplest, most effective health practices available to us.
 
 I've maintained this tradition of evening walks for years, and the benefits have been profound. This isn't just about exercise-it's about maintaining the intricate systems that keep us mobile, independent, and comfortable well into our later years.
 
@@ -75,6 +75,20 @@ The benefits extend beyond the physical:
 ### 6. Long-term independence
 
 Perhaps the most valuable benefit is one you won't appreciate until you need it: independence. Every evening walk is an investment in your future self-the person who will want to walk to the mailbox, play with grandchildren, or simply move through daily life without assistance.
+
+---
+
+## Important safety considerations
+
+Before you begin: Evening walks are beneficial for most people, but it's essential to approach them wisely:
+
+- Assess your current ability: Only walk if you are physically able to do so safely
+- Start conservatively: If you're elderly or new to regular walking, begin with very short distances
+- Avoid overexertion: Great distances are not necessary and can be counterproductive or risky for older adults
+- Listen to your body: Discomfort, dizziness, or unusual fatigue are signals to stop and rest
+- Consult your healthcare provider: If you have existing health conditions, balance issues, or concerns about your walking ability, discuss this practice with your doctor first
+
+The goal is gentle, sustainable movement—not distance records or athletic achievement. Even a 5-minute walk around your home or yard provides benefits.
 
 ---
 
