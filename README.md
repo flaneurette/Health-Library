@@ -18,7 +18,7 @@ Usage Instructions
 
     Upload all files to your web server
     Make sure PHP is enabled (most hosting has this by default)
-    Set backend to 'php' in markdown-reader.js (line 545):
+    Set backend to 'php' in index.html (line 72):
 
     const reader = new MarkdownReader('./Documents/', 'php');
 
@@ -29,7 +29,7 @@ Usage Instructions
 
     Install Node.js and npm
     Install Express: npm install express
-    Set backend to 'node' in markdown-reader.js:
+    Set backend to 'node' in index.html (line 72):
 
     const reader = new MarkdownReader('./Documents/', 'node');
 
