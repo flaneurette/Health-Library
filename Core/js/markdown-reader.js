@@ -538,10 +538,3 @@ class MarkdownReader {
         return result.join('\n');
     }
 }
-
-// Initialize the markdown reader when DOM is loaded
-document.addEventListener('DOMContentLoaded', () => {
-    // Choose your backend: 'php', 'node', or 'manual'
-    const reader = new MarkdownReader('./Documents/', 'php');
-    reader.init();
-});
