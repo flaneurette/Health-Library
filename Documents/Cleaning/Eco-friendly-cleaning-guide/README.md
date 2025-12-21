@@ -30,7 +30,7 @@ Best for:
 - Kitchens
 - Soda & Water preservative: use a tiny pinch on a liter of water.
 
-How to use: Mix 1-2 tablespoons per liter of warm water. Let it soak for about 20-40 minutes on the surface you use it on. The longer, the more corrosive. I often use it in a spray bottle, very effective for the toilet bowl. Be amazed how quickly it will be sparkling clean! Be sure to rinse aftwards, as citric acid can get sticky.
+How to use for cleaning purposes: Mix 1-2 tablespoons per liter of warm water. Let it soak for about 20-40 minutes on the surface you use it on. The longer, the more corrosive. I often use it in a spray bottle, very effective for the toilet bowl. Be amazed how quickly it will be sparkling clean! Be sure to rinse aftwards, as citric acid can get sticky.
 
 Citric acid is also a food addative and can preseve bottles of water or home-made soda. It's cheap.
 
