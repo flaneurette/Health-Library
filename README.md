@@ -46,6 +46,14 @@ Or simply manually browse the README.md files in each category.
 
 ---
 
+## Windows Apps
+
+You could also download a markdown reader for Windows:
+
+https://notable.app/ (free)
+
+https://typora.io/ (paid)
+
 ## Disclaimer
 
 This is not official medical advice. These texts are informal. Always consult a qualified professional when making significant health changes.  
