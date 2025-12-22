@@ -2,14 +2,16 @@
 
 This document describes ways to safely enjoy spring, summer and yes, even winter months. The goal is not to avoid the outdoors, but to enjoy sunlight and warmth without unnecessary long-term damage.
 
-Do not underestimate UV strength in autumn and winter months, UV rays pass through clouds and can still bring negative effects even if the sky looks dark and grey.
+> Do not underestimate UV strength in autumn and winter months, UV rays pass through clouds and can still bring negative effects even if the sky looks dark and grey.
 
 ---
 
 ## UV
 
 Ultraviolet (UV) radiation comes from the sun and is **invisible** to the eye. While sunlight is important for mood, circadian rhythm, and vitamin D production, excessive UV exposure can damage skin and eyes over time. 
-The Sun also casts UVC rays, but lucky for all life on earth, we have an atmosphere and ozone layer that blocks nearly all UVC. If we didn't have that layer, all life on earth would be made sterile instantly and maybe organisms would die.
+The Sun also casts invisible UVC rays, but lucky for all life on earth, we have an atmosphere and ozone layer that blocks nearly all UVC. If we didn't have that layer, all life on earth would be made sterile instantly and many organisms would die.
+
+On earth, we do experience UV-A and UV-B rays. Not UVC. When we discuss UV in this text, we mean both UVA or UVB.
 
 ### Risks of UV exposure
 - Sunburn (short-term inflammation and pain)
