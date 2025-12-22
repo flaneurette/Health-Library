@@ -11,7 +11,7 @@ This document describes ways to safely enjoy spring, summer and yes, even winter
 Ultraviolet (UV) radiation comes from the sun and is **invisible** to the eye. While sunlight is important for mood, circadian rhythm, and vitamin D production, excessive UV exposure can damage skin and eyes over time. 
 The Sun also casts invisible UVC rays, but lucky for all life on earth, we have an atmosphere and ozone layer that blocks nearly all UVC. If we didn't have that layer, all life on earth would be made sterile instantly and many organisms would die.
 
-The Sun also emits X-rays, especially from its hot outer atmosphere and during solar flares. These X-rays are completely absorbed by Earth’s atmosphere and never reach the surface. Like UVC, solar X-rays would be biologically destructive if they reached living tissue directly. Life on Earth is possible in part because our atmosphere blocks not only UVC, but also X-rays and other high-energy radiation.
+The Sun also emits X-rays, especially from its hot outer atmosphere and during solar flares. These X-rays are completely absorbed by Earth's atmosphere and never reach the surface. Like UVC, solar X-rays would be biologically destructive if they reached living tissue directly. Life on Earth is possible in part because our atmosphere blocks not only UVC, but also X-rays and other high-energy radiation.
 
 On earth, we do experience UV-A and UV-B rays. Not UVC nor X-rays. When we discuss UV in this text, we mean both UVA or UVB.
 
@@ -87,7 +87,7 @@ Always combine contact lenses with proper sunglasses outdoors.
 
 Sunscreen reduces the amount of UV radiation reaching the skin.
 
-You don’t need to bathe in it strategic use is often enough.
+You don't need to bathe in it strategic use is often enough.
 
 Some people maintain healthy, wrinkle-free skin well into middle age without regular sunscreen use. Genetics, sun habits, clothing, timing, and overall lifestyle often play a larger role than products alone.
 
@@ -250,9 +250,9 @@ Adjusting habits slightly with the seasons is usually enough to stay protected w
 
 ---
 
-## Bonus: Earth’s invisible shield
+## Bonus: Earth's invisible shield
 
-Earth is protected by a **surprisingly thin layer of atmosphere** — like a few millimeters of protective “skin” if compressed to surface pressure — and a strong magnetic field. This thin shield blocks deadly radiation and keeps life safe.
+Earth is protected by a **surprisingly thin layer of atmosphere**  like a few millimeters of protective “skin” if compressed to surface pressure  and a strong magnetic field. This thin shield blocks deadly radiation and keeps life safe.
 
 ### How the shield works
 - **UVA & UVB**: Partially reach the surface → cause sunburn, tanning, and long-term skin/eye effects
@@ -269,5 +269,5 @@ Earth is protected by a **surprisingly thin layer of atmosphere** — like a few
 - **Pollution & climate change**: Can affect ozone and local UV protection
 - **Cosmic-scale events** (asteroid impacts, supernovae): Extremely rare, but could partially strip the atmosphere
 
-Even though it seems precarious, Earth’s shield has **lasted billions of years** and continues to support life — a subtle but extraordinary cosmic miracle.
+Even though it seems precarious, Earth's shield has **lasted billions of years** and continues to support life  a subtle but extraordinary cosmic miracle.
 
