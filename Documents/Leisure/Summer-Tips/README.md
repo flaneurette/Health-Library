@@ -102,6 +102,8 @@ This is especially useful for:
 
 Proper sunglasses are one of the most important forms of UV protection.
 
+> My personal advice: buy a good pair of sunglasses, and invest in a second pair. I wasted too much money on cheap sunglasses, which I could have invested in a good pair of sunglasses. A good pair can last for decades, some even a lifetime. It is well worth the investment.
+
 ### What to look for
 - 100% UV400 protection (blocks UVA and UVB)
 - Wraparound styles offer better side protection
