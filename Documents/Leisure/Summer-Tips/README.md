@@ -35,7 +35,7 @@ Cloud cover reduces heat but does not reliably block UV.
 
 ## UV Blocking Window Film
 
-UV-blocking window film can significantly reduce UV radiation entering through glass.
+UV-blocking window film can significantly reduce UV radiation entering through glass. This window film is **transparent** and blocks UV rays. Do not confuse this type of film with another type that blocks sunrays or mirror film. With UV window film you are able to have full view through windows. Be sure to check the film, it needs to have full UV blocking capabilities.
 
 ### Benefits
 - Blocks up to ~99% of UV radiation (even in autumn and winter!)
