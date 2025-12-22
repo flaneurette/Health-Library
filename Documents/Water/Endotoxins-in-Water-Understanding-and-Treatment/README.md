@@ -31,7 +31,7 @@ Many (cheap) waterfilters trap bacteria inside the filter. When they continue to
 ## Removal
 
 ❌ Activated carbon filters might increase endotoxin levels locally.  
-❌ UV treatment does not remove endotoxins.  
+❌ UV treatment does not remove (all) endotoxins.  
 ❌ Boiling does not destroy all endotoxins.  
 ❌ Stomach acid does not eliminate all endotoxins, but low doses are generally harmless.
 
