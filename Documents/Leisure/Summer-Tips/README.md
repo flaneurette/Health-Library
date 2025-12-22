@@ -11,7 +11,9 @@ This document describes ways to safely enjoy spring, summer and yes, even winter
 Ultraviolet (UV) radiation comes from the sun and is **invisible** to the eye. While sunlight is important for mood, circadian rhythm, and vitamin D production, excessive UV exposure can damage skin and eyes over time. 
 The Sun also casts invisible UVC rays, but lucky for all life on earth, we have an atmosphere and ozone layer that blocks nearly all UVC. If we didn't have that layer, all life on earth would be made sterile instantly and many organisms would die.
 
-On earth, we do experience UV-A and UV-B rays. Not UVC. When we discuss UV in this text, we mean both UVA or UVB.
+The Sun also emits X-rays, especially from its hot outer atmosphere and during solar flares. These X-rays are completely absorbed by Earth’s atmosphere and never reach the surface. Like UVC, solar X-rays would be biologically destructive if they reached living tissue directly. Life on Earth is possible in part because our atmosphere blocks not only UVC, but also X-rays and other high-energy radiation.
+
+On earth, we do experience UV-A and UV-B rays. Not UVC nor X-rays. When we discuss UV in this text, we mean both UVA or UVB.
 
 ### Risks of UV exposure
 - Sunburn (short-term inflammation and pain)
