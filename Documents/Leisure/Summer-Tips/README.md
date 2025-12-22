@@ -6,6 +6,52 @@ This document describes ways to safely enjoy spring, summer and yes, even winter
 
 ---
 
+# Index
+
+- [UV](#uv)
+  - [Risks of UV exposure](#risks-of-uv-exposure)
+  - [Best times to be outside](#best-times-to-be-outside)
+- [UV Blocking Window Film](#uv-blocking-window-film)
+  - [Benefits](#benefits-1)
+- [UV Sunglasses](#uv-sunglasses)
+  - [What to look for](#what-to-look-for)
+  - [Why it matters](#why-it-matters)
+- [UV Contact Lenses](#uv-contact-lenses)
+  - [Important notes](#important-notes)
+- [UV Sunscreen](#uv-sunscreen)
+  - [Benefits](#benefits-2)
+  - [Common focus areas](#common-focus-areas)
+  - [Downsides](#downsides)
+  - [Practical approach](#practical-approach)
+- [Lip Balm](#lip-balm)
+  - [Benefits](#benefits-3)
+  - [Tips](#tips)
+- [Hats](#hats)
+  - [Best options](#best-options)
+  - [Benefits](#benefits-4)
+- [Additional Tips](#additional-tips)
+  - [Clothing](#clothing)
+  - [Hydration](#hydration)
+  - [Skin awareness](#skin-awareness)
+- [Final Note](#final-note)
+- [Autumn UV Considerations](#autumn-uv-considerations)
+  - [Why autumn UV still matters](#why-autumn-uv-still-matters)
+  - [Common risk situations](#common-risk-situations)
+  - [Practical autumn tips](#practical-autumn-tips)
+- [Winter UV Considerations](#winter-uv-considerations)
+  - [Why winter UV can be risky](#why-winter-uv-can-be-risky)
+  - [High-risk winter environments](#high-risk-winter-environments)
+  - [Eye protection in winter](#eye-protection-in-winter)
+  - [Skin protection in winter](#skin-protection-in-winter)
+  - [Practical winter tips](#practical-winter-tips)
+- [Seasonal Awareness Summary](#seasonal-awareness-summary)
+- [Bonus: Earth's Invisible Shield](#bonus-earths-invisible-shield)
+  - [How the shield works](#how-the-shield-works)
+  - [Why it matters](#why-it-matters-1)
+  - [Fragility & risks](#fragility--risks)
+
+---
+
 ## UV
 
 Ultraviolet (UV) radiation comes from the sun and is **invisible** to the eye. While sunlight is important for mood, circadian rhythm, and vitamin D production, excessive UV exposure can damage skin and eyes over time. 
