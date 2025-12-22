@@ -61,6 +61,12 @@ The Sun also emits X-rays, especially from its hot outer atmosphere and during s
 
 On earth, we do experience UV-A and UV-B rays. Not UVC nor X-rays. When we discuss UV in this text, we mean both UVA or UVB.
 
+### Ultraviolet (UV)
+
+- UVA (320–400 nm): reaches Earth; contributes to tanning, photoaging.
+- UVB (280–320 nm): mostly reaches Earth; causes sunburn, DNA damage.
+- UVC (100–280 nm): blocked almost entirely by the ozone layer.
+
 ### Risks of UV exposure
 - Sunburn (short-term inflammation and pain)
 - Premature skin aging (wrinkles, loss of elasticity, pigmentation)
