@@ -2,7 +2,7 @@
 
 This document describes ways to safely enjoy spring, summer and yes, even winter months. The goal is not to avoid the outdoors, but to enjoy sunlight and warmth without unnecessary long-term damage.
 
-> Do not underestimate UV strength in autumn and winter months, UV rays pass through clouds and can still bring negative effects even if the sky looks dark and grey. Moreover, clear autumn and winter skies can actually increase UV ray exposure.
+> Warning: Do not underestimate UV strength in autumn and winter months, UV rays pass through clouds and can still bring negative effects even if the sky looks dark and grey. Moreover, clear autumn and winter skies can actually increase UV ray exposure.
 
 ---
 
