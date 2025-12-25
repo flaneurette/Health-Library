@@ -18,7 +18,7 @@
 - CoQ10
 - Brewers Yeast (deactivated)
 - Vitamin D3
-- Vitamin C
+- Vitamin C (not too much, risk of kidney stones if you do)
 - Nicotinamide (increase NAD+)
 - Piperlongumine
 - Ginger (extract or real)
