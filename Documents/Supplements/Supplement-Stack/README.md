@@ -10,7 +10,7 @@
 ## Supplement Stack
 
 - Luteoline
-- Quercetin (50mg every other month, with Vitamin C + E)
+- Quercetin (50mg/ day, every other month, with Vitamin C + E)
 - Resveratrol (100 to 250mg every day, or 500mg every other day) (+ Vitamin D and Omega 3)
 - Fisetin (little bit)
 - Omega 3
