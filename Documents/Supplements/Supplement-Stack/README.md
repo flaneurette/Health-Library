@@ -81,7 +81,7 @@ Goal:
 - Mitochondrial recovery
 - Stem cell support
 
-This mirrors how the body naturally works: clear → rebuild → stabilize
+This mirrors how the body naturally works: clear, rebuild, stabilize.
 
 ---
 
