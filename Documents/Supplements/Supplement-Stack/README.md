@@ -4,7 +4,7 @@
 
 ##### ⚠️ Warning: This is NOT medical advise. Always consult a medical professional when creating a supplement stack and using it. Science might change, and opinions vary. Some may interact with existing medications. We assume no liability, use at your own risk.
 
-##### ⚠️ More is not always better. i.e. Resveratrol works optimal at 100-250mg. Above it might give you nosebleeds.
+##### ⚠️ More is not always better. i.e. Resveratrol works optimal at 100-250mg. Above it might give you nosebleeds. The same may apply for other vitamins or substances. The list is not conclusive.
 ---
 
 ## Supplement Stack
