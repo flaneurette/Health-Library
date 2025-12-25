@@ -1,8 +1,8 @@
-# Why You Should Switch from Gas Stoves to Induction
+# Why you should switch from gas stoves to induction
 
 Gas stoves have been a kitchen staple for decades, but they come with hidden health and environmental risks. Unlike electric induction cooktops, gas stoves release harmful pollutants directly into your home.
 
-## The Hidden Dangers of Gas Stoves
+## The hidden dangers of gas stoves
 
 When you cook with gas, the combustion process produces:
 
@@ -13,7 +13,7 @@ When you cook with gas, the combustion process produces:
 
 Even with proper ventilation, these pollutants can accumulate and affect your health over time. Studies suggest that children living in homes with gas stoves are more likely to experience respiratory problems.
 
-## Why Induction Is Safer
+## Why induction is safer
 
 Induction cooktops use electromagnetic fields to heat cookware directly, rather than burning gas. This means:
 
@@ -22,7 +22,7 @@ Induction cooktops use electromagnetic fields to heat cookware directly, rather 
 - Cooler kitchen surfaces (less risk of burns).
 - Improved energy efficiency – induction uses less energy than gas or conventional electric stoves.
 
-## How to Make the Switch
+## How to make the switch
 
 1. Check your cookware – induction requires magnetic cookware (cast iron or stainless steel). You can test with a magnet: if it sticks to the bottom, it works.
 2. Choose the right induction cooktop – consider single burners, portable units, or full cooktops depending on your kitchen space.
