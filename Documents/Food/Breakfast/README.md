@@ -23,7 +23,7 @@ A healthy breakfast should:
 
 ### Steel-Cut Oats
 
-Steel-cut oats are minimally processed and digest more slowly than rolled or instant oats. *Dutch: havergrutten.*
+Steel-cut oats [1] are minimally processed and digest more slowly than rolled or instant oats. *Dutch: havergrutten.*
 
 **Benefits:**
 - High in soluble fiber
@@ -187,3 +187,18 @@ If you want home sourdough baguettes, here's the simple starter recipe:
 - Replace all or half of the yeast + part of the flour/water with your starter
 - Allow longer fermentation for rise and flavor
 - Bake as usual at 230 °C, with steam for a crisp crust
+
+---
+
+[1]
+```
+English: Steel-cut oats, Irish oatmeal, pinhead oats, coarse oatmeal.
+
+Spanish: Avena troceada, avena irlandesa, avena cortada, or sometimes just "quaker" (brand) or "copos de avena"" (oat flakes, though less specific).
+
+French: Avoine épointée, avoine découpée à grains entiers, avoine irlandaise, or boulgour d'avoine (oat bulgur).
+
+German: Hafergrütze (oat groats).
+
+Italian: Fiocchi d'avena (oat flakes, often used generally for oatmeal
+```
