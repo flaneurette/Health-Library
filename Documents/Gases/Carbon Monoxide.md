@@ -292,7 +292,7 @@ Specific rules:
 If you suspect CO poisoning:
 
 1. GET OUTSIDE IMMEDIATELY to fresh air
-2. Call 911 from outside or a neighbor's home
+2. Call 911 or 112 or emergency number in your area from outside or a neighbor's home
 3. Seek emergency medical attention
 4. Never re-enter until the source is identified and resolved
 5. Have professionals inspect all fuel-burning appliances
@@ -310,7 +310,7 @@ Do not:
 Emergency treatment:
 - Remove victim from CO source immediately
 - CPR if unconscious and not breathing
-- Call 911 immediately
+- Call 911 or 112 or emergency number in your area immediately
 - Professional administration of 100% oxygen
 
 Medical treatment:
@@ -379,7 +379,7 @@ Landlords:
 
 7. Camping deaths are preventable. Never bring BBQs, stoves, or heaters into tents, even in cold weather.
 
-8. If your CO alarm sounds: Get out immediately. Call 911 from outside. Do not re-enter.
+8. If your CO alarm sounds: Get out immediately. Call 911 or 112 or emergency number in your area from outside. Do not re-enter.
 
 9. The invisible killer has killed thousands. Don't become a statistic. Take every precaution seriously.
 
@@ -394,7 +394,7 @@ Landlords:
 - National Fire Protection Association (NFPA): www.nfpa.org
 - American Red Cross: www.redcross.org
 
-Emergency: Always call 911 if you suspect CO poisoning.
+Emergency: Always call 911 or 112 or emergency number in your area if you suspect CO poisoning.
 
 ---
 
