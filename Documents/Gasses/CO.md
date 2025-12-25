@@ -88,13 +88,13 @@ THE DANGER:
 Charcoal produces massive amounts of CO when burned. Each year, about 20 deaths and 400 emergency room injuries result from charcoal grills used indoors.
 
 Critical facts:
-- Charcoal produces CO fumes until the coals are completely extinguished—even when they appear cold and no longer smoking
+- Charcoal produces CO fumes until the coals are completely extinguished-even when they appear cold and no longer smoking
 - Opening a window or using a fan will NOT reduce CO to safe levels
 - Even in a fireplace, charcoal may not create sufficient draft to exhaust CO outside
 - Disposable barbecues are equally lethal
 
 NEVER:
-- Use charcoal grills indoors—EVER
+- Use charcoal grills indoors-EVER
 - Use charcoal in homes, vehicles, tents, campers, or any enclosed space
 - Store a grill indoors with freshly used coals
 - Use a BBQ in a tent porch or awning, even with doors open
@@ -123,7 +123,7 @@ Research findings:
 NEVER:
 - Use any BBQ, camp stove, or heater inside a tent, awning, or caravan
 - Use fuel-burning appliances to warm sleeping areas
-- Leave any fuel-burning device inside overnight—even if "extinguished"
+- Leave any fuel-burning device inside overnight-even if "extinguished"
 - Trust that tent doors being open provides adequate ventilation
 
 Notable victims:
@@ -138,7 +138,7 @@ Portable generators are one of the deadliest consumer products, killing approxim
 
 Shocking statistics:
 - Between 2004-2013, 526 CO deaths were caused by portable generators
-- Only 15 of these deaths involved generators used outside—511 were indoors
+- Only 15 of these deaths involved generators used outside-511 were indoors
 - Generators can produce the same amount of CO as hundreds of cars
 - Deaths increased 50% after warning labels were added (from 43 to 61 annually)
 - African Americans account for 23% of generator deaths, nearly double their population percentage
@@ -151,7 +151,7 @@ Why generators are so deadly:
 
 NEVER:
 - Use a generator inside a home, garage, basement, crawlspace, shed, or porch
-- Operate a generator near windows, doors, or vents—CO can be pulled inside
+- Operate a generator near windows, doors, or vents-CO can be pulled inside
 - Place a generator on a covered porch or in a carport
 - Trust the user manual's distance recommendations if they're less than 20 feet
 
@@ -169,7 +169,7 @@ Real incidents:
 ### 4. Vehicles in Garages
 
 THE DANGER:
-Running a car in an attached garage—even with the door open—can fill your home with CO.
+Running a car in an attached garage-even with the door open-can fill your home with CO.
 
 NEVER:
 - Leave a vehicle running in a garage, even briefly
@@ -243,14 +243,14 @@ Installation guidelines:
 Maintenance:
 - Test alarms monthly using the test button
 - Replace batteries as needed
-- CO alarms have a lifespan of 5-7 years—check manufacturer recommendations
+- CO alarms have a lifespan of 5-7 years-check manufacturer recommendations
 - Replace expired alarms immediately
 - Never cover alarms with furniture or drapes
 
 Important notes:
 - CO alarms are designed to alarm BEFORE life-threatening levels are reached
 - Standard alarms won't sound below 30 ppm
-- Alarms won't sound immediately at moderate levels—they're time-weighted
+- Alarms won't sound immediately at moderate levels-they're time-weighted
 - Tent/camping CO alarms may not work as effectively as residential models
 
 ### Alarm Response Standards (UL 2034)
@@ -336,7 +336,7 @@ Recovery:
 - Dispose of ashes outside, far from tents
 - Never use fuel-burning devices for warmth
 - Bring appropriate sleeping bags and clothing for cold weather
-- Take a CO alarm but don't rely solely on it—prevention is key
+- Take a CO alarm but don't rely solely on it-prevention is key
 - Educate all family members on CO dangers
 
 ### Power Outage Safety
@@ -368,13 +368,13 @@ Landlords:
 
 2. "Ventilation" is not protection. Opening windows or doors does NOT make indoor use of BBQs, generators, or camp stoves safe.
 
-3. Charcoal is deadly indoors. It produces CO for hours after the visible flames die—even when coals appear cold.
+3. Charcoal is deadly indoors. It produces CO for hours after the visible flames die-even when coals appear cold.
 
 4. Generators are extremely dangerous. Place them at least 20 feet away, never in garages, porches, or near openings.
 
 5. Flu-like symptoms during winter or after using fuel-burning equipment = suspect CO immediately.
 
-6. CO alarms save lives but aren't foolproof. Install them, maintain them, and never ignore them—but prevention is always better.
+6. CO alarms save lives but aren't foolproof. Install them, maintain them, and never ignore them-but prevention is always better.
 
 7. Camping deaths are preventable. Never bring BBQs, stoves, or heaters into tents, even in cold weather.
 
