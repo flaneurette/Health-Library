@@ -25,47 +25,49 @@
 
 ---
 
-**Dietary Restriction:** only eat quality food, next to that clean supplements.
+Dietary Restriction: only eat quality food, next to that clean supplements.
 
 ## Compound Overview
 
+```
 | Compound                         | Main Actions                                                      | Aging Hallmarks Targeted                                                             | Notes / Synergy                                                |
 | -------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------ | -------------------------------------------------------------- |
-| **Luteolin**                     | Anti-inflammatory, senomorphic (calms SASP), neuroprotective      | Chronic inflammation, altered intercellular communication, cellular senescence       | Works very well with quercetin; calming rather than aggressive |
-| **Quercetin**                    | Senolytic (moderate), anti-fibrotic, antioxidant                  | Cellular senescence, chronic inflammation, loss of proteostasis                      | Helps with connective tissue; absorption ↑ with vitamin C      |
-| **Resveratrol**                  | SIRT1 activation, mitochondrial biogenesis, epigenetic regulation | Epigenetic alterations, mitochondrial dysfunction, deregulated nutrient sensing      | Take with fat; hormetic (don’t overdo dose)                    |
-| **Fisetin (low dose)**           | Strong senolytic, anti-inflammatory                               | Cellular senescence, chronic inflammation                                            | Potent - low dose & cycling is wise                            |
-| **Omega-3 (EPA/DHA)**            | Anti-inflammatory, membrane fluidity, signaling                   | Chronic inflammation, altered intercellular communication, mitochondrial dysfunction | Synergistic with polyphenols; improves absorption              |
-| **Magnesium**                    | ATP production, nervous system balance, sleep support             | Mitochondrial dysfunction, genomic instability                                       | Helps energy stability; supports vitamin D                     |
-| **CoQ10**                        | Electron transport chain support, antioxidant                     | Mitochondrial dysfunction                                                            | Especially relevant after 40–50                                |
-| **Brewer’s yeast (deactivated)** | B-vitamins, methylation, gut support                              | Epigenetic alterations, dysbiosis, deregulated nutrient sensing                      | Supports energy + microbiome                                   |
-| **Vitamin D3**                   | Immune modulation, anti-inflammatory                              | Chronic inflammation, altered intercellular communication                            | Works best with magnesium                                      |
-| **Vitamin C**                    | Antioxidant, collagen synthesis, immune support                   | Genomic instability, loss of proteostasis                                            | Improves quercetin uptake; supports connective tissue          |
+| Luteolin                     | Anti-inflammatory, senomorphic (calms SASP), neuroprotective      | Chronic inflammation, altered intercellular communication, cellular senescence       | Works very well with quercetin; calming rather than aggressive |
+| Quercetin                    | Senolytic (moderate), anti-fibrotic, antioxidant                  | Cellular senescence, chronic inflammation, loss of proteostasis                      | Helps with connective tissue; absorption ↑ with vitamin C      |
+| Resveratrol                  | SIRT1 activation, mitochondrial biogenesis, epigenetic regulation | Epigenetic alterations, mitochondrial dysfunction, deregulated nutrient sensing      | Take with fat; hormetic (don’t overdo dose)                    |
+| Fisetin (low dose)           | Strong senolytic, anti-inflammatory                               | Cellular senescence, chronic inflammation                                            | Potent - low dose & cycling is wise                            |
+| Omega-3 (EPA/DHA)            | Anti-inflammatory, membrane fluidity, signaling                   | Chronic inflammation, altered intercellular communication, mitochondrial dysfunction | Synergistic with polyphenols; improves absorption              |
+| Magnesium                    | ATP production, nervous system balance, sleep support             | Mitochondrial dysfunction, genomic instability                                       | Helps energy stability; supports vitamin D                     |
+| CoQ10                        | Electron transport chain support, antioxidant                     | Mitochondrial dysfunction                                                            | Especially relevant after 40–50                                |
+| Brewer’s yeast (deactivated) | B-vitamins, methylation, gut support                              | Epigenetic alterations, dysbiosis, deregulated nutrient sensing                      | Supports energy + microbiome                                   |
+| Vitamin D3                   | Immune modulation, anti-inflammatory                              | Chronic inflammation, altered intercellular communication                            | Works best with magnesium                                      |
+| Vitamin C                    | Antioxidant, collagen synthesis, immune support                   | Genomic instability, loss of proteostasis                                            | Improves quercetin uptake; supports connective tissue          |
+```
 
 ---
 
 ## Cycling Protocol
 
-**Use the Senolytics in a hit and run.** Like cycling it: one month supplements, then a month nothing. Because chronic supplementation might *increase* certain risks.
+Use the Senolytics in a hit and run. Like cycling it: one month supplements, then a month nothing. Because chronic supplementation might *increase* certain risks.
 
 ### A Clean Conceptual Model (not medical advice)
 
 ### Month ON
 
-**Focus on:**
+Focus on:
 - Resveratrol
 - Quercetin
 - Fisetin (low dose)
 - Luteolin (senomorphic support)
 
-**Goal:**
+Goal:
 - Reduce senescent cell burden
 - Calm SASP / inflammation
 - "Reset" tissue environment
 
 ### Month OFF
 
-**Keep:**
+Keep:
 - Omega-3
 - Magnesium
 - CoQ10
@@ -73,41 +75,44 @@
 - Vitamin C
 - Brewer's yeast
 
-**Goal:**
+Goal:
 - Repair
 - Regeneration
 - Mitochondrial recovery
 - Stem cell support
 
-**This mirrors how the body naturally works:** clear → rebuild → stabilize
+This mirrors how the body naturally works: clear → rebuild → stabilize
 
 ---
 
 ## Phase Overview
-
+```
 | Phase                            | Focus                                                              | Mechanisms Supported                                              |
 | -------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------------------- |
-| **ON month (senolytics active)** | Quercetin, fisetin, luteolin                                       | Reduce senescent cells, calm SASP, lower inflammation             |
-| **OFF month**                    | Repair-focused stack: omega-3, magnesium, CoQ10, B-vitamins, D3, C | Mitochondria, stem cell recovery, DNA repair, tissue regeneration |
-| **Every day**                    | DR / intermittent fasting + high-quality diet                      | Autophagy, nutrient sensing, low basal inflammation               |
+| ON month (senolytics active) | Quercetin, fisetin, luteolin                                       | Reduce senescent cells, calm SASP, lower inflammation             |
+| OFF month                    | Repair-focused stack: omega-3, magnesium, CoQ10, B-vitamins, D3, C | Mitochondria, stem cell recovery, DNA repair, tissue regeneration |
+| Every day                    | DR / intermittent fasting + high-quality diet                      | Autophagy, nutrient sensing, low basal inflammation               |
+```
 ---
 
 ## Aging Hallmarks - What Helps
 
+```
 | Aging Hallmark                          | What Helps Most                                                         | Evidence Strength                                   |
 | --------------------------------------- | ----------------------------------------------------------------------- | --------------------------------------------------- |
-| **Genomic instability**                 | Sleep, exercise, antioxidants, NAD⁺ support (NR/NMN), avoiding toxins   | 🟢 Strong (human + animal)                          |
-| **Telomere attrition**                  | Exercise, stress reduction, anti-inflammatory diet, avoiding smoking    | 🟢 Strong (lifestyle) 🔵 Experimental (supplements) |
-| **Epigenetic alterations**              | Intermittent fasting, sleep rhythm, exercise, polyphenols (resveratrol) | 🟢 Strong                                           |
-| **Loss of proteostasis**                | Exercise, fasting, heat/cold exposure, spermidine                       | 🟢 Strong                                           |
-| **Deregulated nutrient sensing**        | Calorie control, fasting, exercise, low sugar                           | 🟢 Very strong                                      |
-| **Mitochondrial dysfunction**           | Exercise, fasting, CoQ10, PQQ, NAD⁺ support                             | 🟢 Strong                                           |
-| **Cellular senescence**                 | Exercise, fasting, senolytics (quercetin, fisetin)                      | 🔵 Moderate (human), 🟢 strong (animals)            |
-| **Stem cell exhaustion**                | Exercise, inflammation control, sleep, metabolic health                 | 🟢 Strong                                           |
-| **Altered intercellular communication** | Anti-inflammatory diet, omega-3s, senolytics                            | 🟢 Strong                                           |
-| **Disabled macroautophagy**             | Fasting, exercise, spermidine                                           | 🟢 Very strong                                      |
-| **Chronic inflammation**                | Diet, movement, sleep, omega-3s, stress reduction                       | 🟢 Very strong                                      |
-| **Dysbiosis**                           | Fiber, fermented foods, plant diversity                                 | 🟢 Strong                                           |
+| Genomic instability                 | Sleep, exercise, antioxidants, NAD⁺ support (NR/NMN), avoiding toxins   | 🟢 Strong (human + animal)                          |
+| Telomere attrition                  | Exercise, stress reduction, anti-inflammatory diet, avoiding smoking    | 🟢 Strong (lifestyle) 🔵 Experimental (supplements) |
+| Epigenetic alterations              | Intermittent fasting, sleep rhythm, exercise, polyphenols (resveratrol) | 🟢 Strong                                           |
+| Loss of proteostasis                | Exercise, fasting, heat/cold exposure, spermidine                       | 🟢 Strong                                           |
+| Deregulated nutrient sensing        | Calorie control, fasting, exercise, low sugar                           | 🟢 Very strong                                      |
+| Mitochondrial dysfunction           | Exercise, fasting, CoQ10, PQQ, NAD⁺ support                             | 🟢 Strong                                           |
+| Cellular senescence                 | Exercise, fasting, senolytics (quercetin, fisetin)                      | 🔵 Moderate (human), 🟢 strong (animals)            |
+| Stem cell exhaustion                | Exercise, inflammation control, sleep, metabolic health                 | 🟢 Strong                                           |
+| Altered intercellular communication | Anti-inflammatory diet, omega-3s, senolytics                            | 🟢 Strong                                           |
+| Disabled macroautophagy             | Fasting, exercise, spermidine                                           | 🟢 Very strong                                      |
+| Chronic inflammation                | Diet, movement, sleep, omega-3s, stress reduction                       | 🟢 Very strong                                      |
+| Dysbiosis                           | Fiber, fermented foods, plant diversity                                 | 🟢 Strong                                           |
+```
 
 ---
 
@@ -115,9 +120,9 @@
 
 ### 1. Genomic instability – DNA damage over time
 
-**Causes:** Radiation, toxins, oxidative stress, replication errors
+Causes: Radiation, toxins, oxidative stress, replication errors
 
-**Prevention/Support:**
+Prevention/Support:
 - Antioxidants (e.g., vitamin C, polyphenols) to reduce oxidative stress
 - DNA repair support (NAD⁺ boosters like NMN, NR)
 - Avoiding excessive UV and environmental toxins
@@ -125,9 +130,9 @@
 
 ### 2. Telomere attrition – Shortening of chromosome ends
 
-**Causes:** Cell division, oxidative stress
+Causes: Cell division, oxidative stress
 
-**Prevention/Support:**
+Prevention/Support:
 - Telomerase-activating compounds (TA-65, Astragalus extracts)
 - Antioxidants and anti-inflammatory diet
 - Regular exercise and stress reduction
@@ -135,9 +140,9 @@
 
 ### 3. Epigenetic alterations – Changes in gene expression
 
-**Causes:** Aging, toxins, stress, poor diet
+Causes: Aging, toxins, stress, poor diet
 
-**Prevention/Support:**
+Prevention/Support:
 - Caloric restriction or intermittent fasting (modulates epigenetic enzymes)
 - Polyphenols (Resveratrol, EGCG)
 - Healthy sleep and circadian rhythm maintenance
@@ -145,18 +150,18 @@
 
 ### 4. Loss of proteostasis – Misfolded or damaged proteins
 
-**Causes:** Aging, oxidative stress, cellular damage
+Causes: Aging, oxidative stress, cellular damage
 
-**Prevention/Support:**
+Prevention/Support:
 - Heat shock protein support (exercise, sauna, mild hormesis)
 - Autophagy induction (fasting, exercise, spermidine)
 - Proteasome and chaperone-supporting nutrients (curcumin, quercetin)
 
 ### 5. Deregulated nutrient sensing – Insulin, mTOR, AMPK pathways
 
-**Causes:** Overnutrition, sedentary lifestyle
+Causes: Overnutrition, sedentary lifestyle
 
-**Prevention/Support:**
+Prevention/Support:
 - Intermittent fasting or caloric restriction
 - Exercise (activates AMPK)
 - Compounds modulating mTOR (rapamycin in research, spermidine, resveratrol)
@@ -164,9 +169,9 @@
 
 ### 6. Mitochondrial dysfunction – Energy factories losing efficiency
 
-**Causes:** DNA damage, oxidative stress, aging
+Causes: DNA damage, oxidative stress, aging
 
-**Prevention/Support:**
+Prevention/Support:
 - Exercise (boosts mitochondrial biogenesis)
 - NAD⁺ boosters (NMN, NR)
 - Antioxidants targeting mitochondria (CoQ10, PQQ)
@@ -174,9 +179,9 @@
 
 ### 7. Cellular senescence – "Zombie" cells
 
-**Causes:** DNA damage, stress, telomere shortening
+Causes: DNA damage, stress, telomere shortening
 
-**Prevention/Support:**
+Prevention/Support:
 - Senolytics (Quercetin, Fisetin, Dasatinib in research)
 - Exercise and calorie restriction
 - Anti-inflammatory diet to reduce SASP effects
@@ -184,9 +189,9 @@
 
 ### 8. Stem cell exhaustion – Loss of regenerative capacity
 
-**Causes:** Aging, inflammation, niche deterioration
+Causes: Aging, inflammation, niche deterioration
 
-**Prevention/Support:**
+Prevention/Support:
 - Exercise and physical activity (stimulates stem cell niches)
 - NAD⁺ boosters
 - Senolytics to clear inhibitory signals
@@ -194,9 +199,9 @@
 
 ### 9. Altered intercellular communication – Inflammatory signals and signaling dysregulation
 
-**Causes:** Chronic inflammation, SASP, aging
+Causes: Chronic inflammation, SASP, aging
 
-**Prevention/Support:**
+Prevention/Support:
 - Anti-inflammatory diet (omega-3s, polyphenols)
 - Senolytics to reduce SASP
 - Exercise, stress reduction
@@ -204,9 +209,9 @@
 
 ### 10. Disabled macroautophagy – Reduced cellular cleanup
 
-**Causes:** Aging, nutrient excess, stress
+Causes: Aging, nutrient excess, stress
 
-**Prevention/Support:**
+Prevention/Support:
 - Intermittent fasting or caloric restriction
 - Exercise (activates autophagy pathways)
 - Spermidine supplementation
@@ -214,9 +219,9 @@
 
 ### 11. Chronic inflammation ("inflammaging")
 
-**Causes:** Persistent immune activation, senescent cells, poor lifestyle
+Causes: Persistent immune activation, senescent cells, poor lifestyle
 
-**Prevention/Support:**
+Prevention/Support:
 - Anti-inflammatory diet (Mediterranean diet, omega-3s, polyphenols)
 - Senolytics to remove pro-inflammatory cells
 - Stress management and sleep hygiene
@@ -224,9 +229,9 @@
 
 ### 12. Dysbiosis – Gut microbiome imbalance
 
-**Causes:** Poor diet, antibiotics, aging
+Causes: Poor diet, antibiotics, aging
 
-**Prevention/Support:**
+Prevention/Support:
 - Probiotics and fermented foods
 - Prebiotic fibers (inulin, resistant starch)
 - Avoid chronic antibiotic overuse
