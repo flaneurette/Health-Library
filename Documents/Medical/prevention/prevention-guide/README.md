@@ -19,7 +19,7 @@ A comprehensive overview of preventive measures for the leading causes of death 
 - Healthy diet and weight: Plant-based foods, limit red/processed meats
 - Sun protection: SPF 30+ sunscreen, avoid tanning beds, protective clothing
 - Vaccinations: HPV vaccine (reduces cervical, throat cancers), Hepatitis B vaccine
-- Screenings: Mammograms (40+), colonoscopies (45+), Pap smears (21+), prostate checks (50+) — early detection significantly improves survival rates
+- Screenings: Mammograms (40+), colonoscopies (45+), Pap smears (21+), prostate checks (50+)  early detection significantly improves survival rates
 - Limit exposure to carcinogens: Asbestos, certain chemicals, air pollution, radon
 
 ### 3. Respiratory Diseases (COPD, severe infections)
@@ -114,7 +114,7 @@ Monitor blood pressure, cholesterol, blood sugar, and get age-appropriate cancer
 Learn new things, maintain social interactions, do puzzles or brain games, pursue creative hobbies. Protects against cognitive decline and supports mental wellbeing.
 
 ### 10. Practice Safety Daily
-Buckle seatbelts, eliminate home hazards, use proper protective gear for work or sports, be cautious with heights or slippery surfaces. Prevents accidents — a leading cause of premature death, especially under age 50.
+Buckle seatbelts, eliminate home hazards, use proper protective gear for work or sports, be cautious with heights or slippery surfaces. Prevents accidents  a leading cause of premature death, especially under age 50.
 
 ---
 
