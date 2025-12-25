@@ -4,4 +4,4 @@ Because of the severity and risks of gasses, and to prevent confusion, each gas 
 
 # General risks
 
-Remember: most gasses cannot been seen, smelled, tasted or heard. They can build up quickly and can be deadly even in small amounts. If you can smell a gass, it is because the manufacturere added a substance to it to warn you. Be extra careful,when cooking on charcoal, CO cannot be detected without special detectors. Cooking indoors should be done on electrical induction if possible, NEVER on a open fire.
+Remember: most gasses cannot been seen, smelled, tasted or heard. They can build up quickly and can be deadly even in small amounts. If you can smell a gass, it is because the manufacturer added a substance to it to warn you. Be extra careful, when cooking on charcoal, CO cannot be detected without special detectors. Cooking indoors should be done on electrical induction if possible, NEVER on a open fire.
