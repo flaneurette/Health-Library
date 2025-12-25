@@ -30,8 +30,8 @@ Dietary Restriction: only eat quality food, next to that clean supplements.
 ## Compound Overview
 
 ```
-| Compound                         | Main Actions                                                      | Aging Hallmarks Targeted                                                             | Notes / Synergy                                                |
-| -------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------ | -------------------------------------------------------------- |
+| Compound                     | Main Actions                                                      | Aging Hallmarks Targeted                                                             | Notes / Synergy                                                |
+| ---------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------ | -------------------------------------------------------------- |
 | Luteolin                     | Anti-inflammatory, senomorphic (calms SASP), neuroprotective      | Chronic inflammation, altered intercellular communication, cellular senescence       | Works very well with quercetin; calming rather than aggressive |
 | Quercetin                    | Senolytic (moderate), anti-fibrotic, antioxidant                  | Cellular senescence, chronic inflammation, loss of proteostasis                      | Helps with connective tissue; absorption ↑ with vitamin C      |
 | Resveratrol                  | SIRT1 activation, mitochondrial biogenesis, epigenetic regulation | Epigenetic alterations, mitochondrial dysfunction, deregulated nutrient sensing      | Take with fat; hormetic (don’t overdo dose)                    |
@@ -87,8 +87,8 @@ This mirrors how the body naturally works: clear → rebuild → stabilize
 
 ## Phase Overview
 ```
-| Phase                            | Focus                                                              | Mechanisms Supported                                              |
-| -------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------------------- |
+| Phase                        | Focus                                                          | Mechanisms Supported                                              |
+| -----------------------------| ---------------------------------------------------------------| ----------------------------------------------------------------- |
 | ON month (senolytics active) | Quercetin, fisetin, luteolin                                       | Reduce senescent cells, calm SASP, lower inflammation             |
 | OFF month                    | Repair-focused stack: omega-3, magnesium, CoQ10, B-vitamins, D3, C | Mitochondria, stem cell recovery, DNA repair, tissue regeneration |
 | Every day                    | DR / intermittent fasting + high-quality diet                      | Autophagy, nutrient sensing, low basal inflammation               |
@@ -98,8 +98,8 @@ This mirrors how the body naturally works: clear → rebuild → stabilize
 ## Aging Hallmarks - What Helps
 
 ```
-| Aging Hallmark                          | What Helps Most                                                         | Evidence Strength                                   |
-| --------------------------------------- | ----------------------------------------------------------------------- | --------------------------------------------------- |
+| Aging Hallmark                      | What Helps Most                                                         | Evidence Strength                                   |
+| ------------------------------------| ----------------------------------------------------------------------- | --------------------------------------------------- |
 | Genomic instability                 | Sleep, exercise, antioxidants, NAD⁺ support (NR/NMN), avoiding toxins   | 🟢 Strong (human + animal)                          |
 | Telomere attrition                  | Exercise, stress reduction, anti-inflammatory diet, avoiding smoking    | 🟢 Strong (lifestyle) 🔵 Experimental (supplements) |
 | Epigenetic alterations              | Intermittent fasting, sleep rhythm, exercise, polyphenols (resveratrol) | 🟢 Strong                                           |
