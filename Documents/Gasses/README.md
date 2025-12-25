@@ -1,7 +1,13 @@
-# Gasses and risks.
+# Gases and Risks
 
-Because of the severity and risks of gasses, and to prevent confusion, each gas has it's own file you can read. Open the corresponding file of a type of gas to read it.
+Because of the severity and risks of gases, and to prevent confusion, **each gas has its own file you can read**. Open the corresponding file for a type of gas to learn more about it.
 
-# General risks
+## General Risks
 
-Remember: most gasses cannot been seen, smelled, tasted or heard. They can build up quickly and can be deadly even in small amounts. If you can smell a gass, it is because the manufacturer added a substance to it to warn you. Be extra careful, when cooking on charcoal, CO cannot be detected without special detectors. Cooking indoors should be done on electrical induction if possible, NEVER on a open fire.
+**Remember:** most gases **cannot be seen, smelled, tasted, or heard**. They can accumulate quickly and become deadly even in small amounts.  
+
+If you can smell a gas, it usually means the manufacturer has added a warning substance.  
+
+**Be extra careful:**  
+- Cooking on charcoal or an open fire can produce **carbon monoxide (CO)**, which **cannot be detected without special detectors**.  
+- **Cooking indoors should always be done on electrical induction if possible. NEVER use open flames indoors.**
