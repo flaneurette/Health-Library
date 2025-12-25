@@ -2,7 +2,7 @@
 
 A breakfast built around steel-cut oats, seeds, nuts, fruit, and clean protein is among the healthiest daily choices. It minimizes chemical exposure while maximizing nutrients, steady energy, and long-term metabolic health.
 
-> Many supermarket breads and pastries contain chemicals, binders, emulsifiers and hidden E-numbers that are questionable. Some even have E-numbers that are derived from animals without mentioning it, so vegetarians and vegans are not safe here. Some are hidden from the packaging if they are fresh breads or pastries. At the end of this document we show you how to create bread yourself. It is fairly easy.
+> Many supermarket breads and pastries contain chemicals, binders, emulsifiers and hidden E-numbers that are questionable. Some even have E-numbers that are derived from animals without mentioning it, so vegetarians and vegans are not safe here, and it is also not Kosher or Halal. Some are hidden from the packaging if they are fresh breads or pastries. At the end of this document we show you how to create bread yourself. It is fairly easy.
 
 ---
 
