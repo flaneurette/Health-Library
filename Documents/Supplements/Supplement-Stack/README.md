@@ -48,6 +48,8 @@ Dietary Restriction: only eat quality food, next to that clean supplements.
 
 ## Cycling Protocol
 
+⚠️ Senolytics require caution: do NOT use it prolonged, if possible cycle them as prolonged senolytics use may upset natural balance and **increase** risks.
+
 Use the Senolytics in a hit and run. Like cycling it: one month supplements, then a month nothing. Because chronic supplementation might *increase* certain risks.
 
 ### A Clean Conceptual Model (not medical advice)
