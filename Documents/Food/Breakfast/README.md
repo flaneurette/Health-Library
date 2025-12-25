@@ -23,7 +23,7 @@ A healthy breakfast should:
 
 ### Steel-Cut Oats
 
-Steel-cut oats are minimally processed and digest more slowly than rolled or instant oats.
+Steel-cut oats are minimally processed and digest more slowly than rolled or instant oats. *Dutch: havergrutten.*
 
 **Benefits:**
 - High in soluble fiber
