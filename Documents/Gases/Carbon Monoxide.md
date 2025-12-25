@@ -190,6 +190,7 @@ Common sources:
 - Wood-burning stoves (if improperly ventilated)
 - Gas stoves used for heating
 - Fireplaces with blocked chimneys
+- Central Heaters, C.V.
 
 Safety measures:
 - Have heating systems inspected annually
