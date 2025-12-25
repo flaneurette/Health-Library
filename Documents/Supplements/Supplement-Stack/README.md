@@ -2,7 +2,7 @@
 
 ##### ⚠️ !AVOID TAKING ASPIRIN, WARFARIN OR OTHER BLOOD-THINNING MEDICATION WHILE USING THIS STACK!
 
-##### ⚠️ Warning: This is NOT medical advise. Always conult a medical professional wehn creating a supplement stack and using it. Science might change, and opinions vary. Some may interact with existing medications. We assume no liability, use at your own risk.
+##### ⚠️ Warning: This is NOT medical advise. Always consult a medical professional when creating a supplement stack and using it. Science might change, and opinions vary. Some may interact with existing medications. We assume no liability, use at your own risk.
 
 ##### ⚠️ More is not always better. i.e. Resveratrol works optimal at 100-250mg. Above it might give you nosebleeds.
 ---
