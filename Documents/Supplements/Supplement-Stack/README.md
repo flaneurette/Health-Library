@@ -1,6 +1,6 @@
 # Supplement Stack
 
-##### ⚠️ !AVOID TAKING ASPIRIN, WARFARIN OR OTHER BLOOD-THINNING MEDICATION WHILE USING THIS STACK!
+##### ⚠️ !AVOID TAKING ASPIRIN, WARFARIN OR OTHER BLOOD-THINNING MEDICATION TOGETHER WHILE USING THIS STACK!
 
 ##### ⚠️ Warning: This is NOT medical advise. Always consult a medical professional when creating a supplement stack and using it. Science might change, and opinions vary. Some may interact with existing medications. We assume no liability, use at your own risk.
 
