@@ -16,6 +16,8 @@ This list contains surprising causes of bacteria and pathogens in common food mo
 - Avoid prepackaged salads, buy whole, cut on demand.
 - Avoid unroasted nuts if possible. Roast them if you can.
 - Check expiration dates often.
+- Avoid unpasturized milks and cheeses.
+- Avoid soft cheeses if possible.
   
 # Surprising sources
 
