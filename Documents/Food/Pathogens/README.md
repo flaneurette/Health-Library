@@ -80,3 +80,21 @@ Risk: Rare, but can carry Salmonella if not roasted or stored correctly. People 
 | 14   | Packaged nuts & seeds                       | Low         | Rare *Salmonella*. Store dry and sealed; check expiration.              |
 | 15   | Homemade fermented foods (kimchi, kombucha) | Low         | Usually safe; risk if contaminated during fermentation.                 |
 ```
+
+# Worm sources and types
+
+| Worm Type                     | Common Species                            | Associated Meat/Fish                    | Notes / Health Impact                                                  |
+| ----------------------------- | ----------------------------------------- | --------------------------------------- | ---------------------------------------------------------------------- |
+| **Tapeworms (Cestodes)**      | *Taenia saginata*                         | Beef                                    | Can cause taeniasis; usually from undercooked beef.                    |
+|                               | *Taenia solium*                           | Pork                                    | Can cause taeniasis or cysticercosis; severe if larvae infect tissues. |
+|                               | *Diphyllobothrium latum*                  | Freshwater fish (salmon, trout)         | Broad fish tapeworm; can cause vitamin B12 deficiency.                 |
+| **Roundworms (Nematodes)**    | *Trichinella spiralis*                    | Pork, wild game (bear, boar)            | Causes trichinosis; cooking kills larvae.                              |
+|                               | *Anisakis spp.*                           | Marine fish (herring, salmon, mackerel) | Can cause anisakiasis; larvae may embed in stomach/intestines.         |
+|                               | *Pseudoterranova spp.*                    | Marine fish (cod, halibut)              | Related to Anisakis; can cause abdominal pain if ingested live.        |
+|                               | *Capillaria spp.*                         | Freshwater fish                         | Can cause intestinal infection if raw fish eaten.                      |
+| **Liver Flukes (Trematodes)** | *Fasciola hepatica*                       | Sheep, cattle (liver)                   | Usually from contaminated liver; can cause fascioliasis.               |
+|                               | *Clonorchis sinensis*                     | Freshwater fish (raw)                   | Can cause clonorchiasis; linked to bile duct disease.                  |
+|                               | *Opisthorchis spp.*                       | Freshwater fish                         | Can cause liver fluke infections; risk in raw/undercooked fish.        |
+| **Other Worms**               | *Heterophyidae* (small intestinal flukes) | Freshwater fish                         | Can cause gastrointestinal issues.                                     |
+|                               | *Spirometra spp.*                         | Fish, amphibians                        | Rare; can cause sparganosis if larvae ingested.                        |
+
