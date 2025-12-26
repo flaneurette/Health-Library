@@ -1,6 +1,6 @@
 # Surprising sources of pathogens in food.
 
-This list contains surpirsing causes of bacteria and pathons in common food most people think is safe, while it isn't.
+This list contains surprising causes of bacteria and pathogens in common food most people think is safe, while it isn't.
 
 > Meat is the number one carrier of pathogens, bacteria and even worms. Because bacteria, worms live inside the animals intestines and body. It is even worse on meat that has been processed: meat that have been grinded like hamburger meat have even more bacteria, because grinding meat spreads bacteria deep inside the meat , requiring even more heat to kill them.
 
