@@ -4,6 +4,19 @@ This list contains surprising causes of bacteria and pathogens in common food mo
 
 > Meat is the number one carrier of pathogens, bacteria and even worms. Because bacteria, worms live inside the animals intestines and body. It is even worse on meat that has been processed: meat that have been grinded like hamburger meat have even more bacteria, because grinding meat spreads bacteria deep inside the meat , requiring even more heat to kill them.
 
+# General advice
+- Avoid meat, fish and poultry if you can. i.e. eat plant based diet.
+- If you use meats, poultry and fish: cook throroughly, the hotter the better.
+- Avoid meat that has been grinded, that includes vegan meats.
+- Avoid raw fish, and shellfish.
+- Wash fruits
+- Wash vegetables (baking soda might help, but uncertain)
+- Avoid fruits that has been cut and pre-packaged.
+- Avoid raw sprouts, or wash them very good.
+- Avoid prepackaged salads, buy whole, cut on demand.
+- Avoid unroasted nuts if possible. Roast them if you can.
+- Check expiration dates often.
+  
 # Surprising sources
 
 ### 1. Leafy greens grown in soil
