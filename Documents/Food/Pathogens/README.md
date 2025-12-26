@@ -83,6 +83,7 @@ Risk: Rare, but can carry Salmonella if not roasted or stored correctly. People 
 
 # Worm sources and types
 
+```
 | Worm Type                     | Common Species                            | Associated Meat/Fish                    | Notes / Health Impact                                                  |
 | ----------------------------- | ----------------------------------------- | --------------------------------------- | ---------------------------------------------------------------------- |
 | **Tapeworms (Cestodes)**      | *Taenia saginata*                         | Beef                                    | Can cause taeniasis; usually from undercooked beef.                    |
@@ -97,4 +98,4 @@ Risk: Rare, but can carry Salmonella if not roasted or stored correctly. People 
 |                               | *Opisthorchis spp.*                       | Freshwater fish                         | Can cause liver fluke infections; risk in raw/undercooked fish.        |
 | **Other Worms**               | *Heterophyidae* (small intestinal flukes) | Freshwater fish                         | Can cause gastrointestinal issues.                                     |
 |                               | *Spirometra spp.*                         | Fish, amphibians                        | Rare; can cause sparganosis if larvae ingested.                        |
-
+```
