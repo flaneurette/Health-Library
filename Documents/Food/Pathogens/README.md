@@ -1,4 +1,4 @@
-  # Surprising sources of pathogens in food.
+  # Sources of pathogens in food.
 
 This list contains surprising causes of bacteria and pathogens in common food most people think is safe, while it isn't.
 
