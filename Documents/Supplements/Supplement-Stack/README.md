@@ -26,9 +26,9 @@ The body constantly seeks homeostasis. Introducing a “beneficial” supplement
 
 The goal of supplementation should be to gently support the body’s natural processes-helping to reduce inflammation, manage free radicals, and assist in clearing senescent cells-not to replace proper nutrition or “structurally feed” the body with supplements.
 
-Always consult a medical professional before starting any supplement regimen.
-
 What we do know is: that caloric restriction and intermitted fasting is very good for our health.
+
+Always consult a medical professional before starting any supplement regimen.
 
 ## Supplement Stack
 
