@@ -7,6 +7,16 @@
 ##### ⚠️ More is not always better. i.e. Resveratrol works optimal at 100-250mg. Above it might give you nosebleeds. The same may apply for other vitamins or substances. The list is not conclusive.
 ---
 
+### Understanding nutraceutical risks and challenges
+
+"*Despite widespread use and assumed safety, emerging evidence challenges this assumption, revealing potential risks associated with nutraceuticals-particularly at high doses, during prolonged use, or in combination with other bioactive compounds. These risks arise through direct or indirect interactions with cellular systems, which may disrupt homeostasis, trigger oxidative stress, and dysregulate critical molecular pathways that can culminate in organ toxicity or metabolic dysfunction. In the United States, dietary supplements account for approximately 20% of drug-induced liver injuries, with nearly half attributed to combination products (49). Similarly, a Spanish registry documented herbal products as the cause of 2% of drug-induced liver injury cases (50), highlighting the need to evaluate nutraceutical safety through the lens of cellular and molecular interactions.*"
+
+
+> Source: The double-edged sword of nutraceuticals: comprehensive review of protective agents and their hidden risks.
+> 
+> Authors: Sahand Ashrafpour, M. Ashrafpour
+
+
 ## Supplement Stack
 
 - Luteoline
