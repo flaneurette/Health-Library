@@ -28,6 +28,8 @@ The goal of supplementation should be to gently support the body’s natural pro
 
 Always consult a medical professional before starting any supplement regimen.
 
+What we do know is: that caloric restriction and intermitted fasting is very good for our health.
+
 ## Supplement Stack
 
 - Luteoline
