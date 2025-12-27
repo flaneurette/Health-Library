@@ -16,6 +16,17 @@
 > 
 > Authors: Sahand Ashrafpour, M. Ashrafpour
 
+## Supplement Use
+
+Good health is about balance-maintaining the body’s equilibrium without overtaxing it. Staying healthy is inherently difficult because it requires a delicate balance: applying just enough stress (such as exercise) to stimulate adaptation, without pushing the body into chronic inflammation.
+
+Supplementation follows the same principle. Supplements can be helpful, but they should be used cautiously to avoid unnecessary toxicity. Eating healthy is important, yet even there we must be mindful of excess exposure to toxins, pesticides, or pathogens. The truth is, we don’t fully understand how to balance all of this perfectly.
+
+The body constantly seeks homeostasis. Introducing a “beneficial” supplement can still disrupt that balance, even if it appears healthy in laboratory settings-curcumin is a good example. For this reason, a good rule of thumb is to use supplements in low doses: less is often better. Avoid prolonged, continuous use, and consider cycling supplements on and off.
+
+The goal of supplementation should be to gently support the body’s natural processes-helping to reduce inflammation, manage free radicals, and assist in clearing senescent cells-not to replace proper nutrition or “structurally feed” the body with supplements.
+
+Always consult a medical professional before starting any supplement regimen.
 
 ## Supplement Stack
 
