@@ -1,6 +1,6 @@
 # Creating a Healthy Breakfast
 
-A breakfast built around steel-cut oats, seeds, nuts, fruit, and clean protein is among the healthiest daily choices. It minimizes chemical exposure while maximizing nutrients, steady energy, and long-term metabolic health.
+A breakfast built around oats, seeds, nuts, fruit, and clean protein is among the healthiest daily choices. It minimizes chemical exposure while maximizing nutrients, steady energy, and long-term metabolic health.
 
 > Many supermarket breads and pastries contain chemicals, binders, emulsifiers and hidden E-numbers that are questionable. Some even have E-numbers that are derived from animals without mentioning it, so vegetarians and vegans are not safe here, and it is also not Kosher or Halal. Some are hidden from the packaging if they are fresh breads or pastries. At the end of this document we show you how to create bread yourself. It is fairly easy.
 
@@ -21,9 +21,9 @@ A healthy breakfast should:
 
 ## The Foundation
 
-### Steel-Cut Oats
+### Oats
 
-Steel-cut oats [1] are minimally processed and digest more slowly than rolled or instant oats. *Dutch: havergrutten.*
+Cleaning: soak them before use to remove any residue, toxins or contaminants. If possible soak with lemon juice or citric acid, overnight, and filter the next day for use.
 
 **Benefits:**
 - High in soluble fiber
@@ -192,7 +192,7 @@ If you want home sourdough baguettes, here's the simple starter recipe:
 
 [1]
 ```
-English: Steel-cut oats, Irish oatmeal, pinhead oats, coarse oatmeal.
+English: oats, Irish oatmeal, pinhead oats, coarse oatmeal.
 
 Spanish: Avena troceada, avena irlandesa, avena cortada, or sometimes just "quaker" (brand) or "copos de avena"" (oat flakes, though less specific).
 
