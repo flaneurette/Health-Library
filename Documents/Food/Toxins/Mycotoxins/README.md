@@ -2,7 +2,7 @@
 
 A comprehensive list of common mycotoxins found in foods, drinks, and other products, along with their sources, associated foods, and health effects.
 
-> Note these lists are not complete and do not cover 100% of all foods with possible toxin traces. For more infomation, always refer to a dedicated article about the specific toxin in quenstion.
+> Note these lists are not complete and do not cover 100% of all foods with possible toxin traces. For more information, always refer to a dedicated article about the specific toxin in quenstion.
 
 ---
 
