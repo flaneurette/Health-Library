@@ -2,6 +2,8 @@
 
 A comprehensive list of common mycotoxins found in foods, drinks, and other products, along with their sources, associated foods, and health effects.
 
+> Note these lists are not complete.
+
 ---
 
 ### Common Mycotoxins
@@ -10,7 +12,7 @@ A comprehensive list of common mycotoxins found in foods, drinks, and other prod
 | Mycotoxin        | Major Sources                  | Primary Health Effects                        | Carcinogenic? (IARC)   |
 |------------------|--------------------------------|-----------------------------------------------|------------------------|
 | Aflatoxins       | Peanuts, corn, milk            | Liver cancer, acute liver failure             | Group 1                |
-| Ochratoxin A     | Coffee, wine, pork             | Kidney damage, possible cancer                | Group 2B               |
+| Ochratoxin A     | Coffee, wine, pork, licorice   | Kidney damage, possible cancer                | Group 2B               |
 | Fumonisins       | Corn, beer                     | Esophageal cancer, neural tube defects        | Group 2B               |
 | DON              | Wheat, barley, beer            | Vomiting, immune suppression                  | Group 3                |
 | Zearalenone      | Corn, wheat                    | Estrogenic effects, fertility issues          | Group 3                |
@@ -48,6 +50,9 @@ Commonly found in:
 - Dried fruits: Raisins, figs
 - Meat: Pork (from contaminated feed)
 - Spices: Black pepper, paprika
+- Licorice
+- Ginger
+- Ginseng
 
 Health Effects:
 - Nephrotoxic: Kidney damage (Balkan endemic nephropathy).
