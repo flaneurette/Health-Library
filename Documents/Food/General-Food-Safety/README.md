@@ -23,18 +23,18 @@ This guide covers practical ways to reduce exposure to the most concerning chemi
 - Organophosphates: Originally developed as nerve gases; now in pesticides, linked to lower IQ in children.
 
 ### How to Avoid:
-✅ Eat organic (prioritize [EWG’s Dirty Dozen](https://www.ewg.org/foodnews/dirty-dozen.php)):
+Eat organic (prioritize [EWG’s Dirty Dozen](https://www.ewg.org/foodnews/dirty-dozen.php)):
    - Strawberries, spinach, kale, grapes, apples, cherries, peaches, pears, nectarines, bell peppers, celery, tomatoes.
      
-✅ Wash produce with:
+Wash produce with:
    - Baking soda soak (1 tsp baking soda + 2 cups water, soak 15 mins).
    - Vinegar rinse (1:3 vinegar:water).
      
-✅ Peel non-organic produce (though some nutrients are lost).
+Peel non-organic produce (though some nutrients are lost).
 
-✅ Support regenerative farming (local CSAs, farmers markets-ask about pesticide use).
+Support regenerative farming (local CSAs, farmers markets-ask about pesticide use).
 
-✅ Filter tap water (pesticides like atrazine contaminate water; use reverse osmosis or activated carbon).
+Filter tap water (pesticides like atrazine contaminate water; use reverse osmosis or activated carbon).
 
 ---
 
@@ -45,17 +45,17 @@ This guide covers practical ways to reduce exposure to the most concerning chemi
 - Bioaccumulates (stays in your body for years).
 
 ### How to Avoid:
-✅ Avoid non-stick cookware (Teflon → use stainless steel, cast iron, or ceramic).
+Avoid non-stick cookware (Teflon → use stainless steel, cast iron, or ceramic).
 
-✅ Skip greasy fast food (PFAS leaches from packaging into food).
+Skip greasy fast food (PFAS leaches from packaging into food).
 
-✅ Filter drinking water (PFAS are in ~45% of U.S. tap water):
+Filter drinking water (PFAS are in ~45% of U.S. tap water):
    - Reverse osmosis (best for PFAS).
    - Berkey with PF-2 filters (certified for PFAS).
      
-✅ Choose PFAS-free dental floss (some brands use PFAS coatings).
+Choose PFAS-free dental floss (some brands use PFAS coatings).
 
-✅ Avoid waterproof/stain-resistant fabrics (raincoats, carpets, couches).
+Avoid waterproof/stain-resistant fabrics (raincoats, carpets, couches).
 
 ---
 
@@ -68,15 +68,15 @@ This guide covers practical ways to reduce exposure to the most concerning chemi
 - "BPA-free" isn’t safe → replacements (BPS, BPF) may be just as harmful.
 
 ### How to Avoid:
-✅ Avoid plastic food containers (use glass, stainless steel, or silicone).
+Avoid plastic food containers (use glass, stainless steel, or silicone).
 
-✅ Never microwave plastic (heat accelerates leaching).
+Never microwave plastic (heat accelerates leaching).
 
-✅ Choose fresh/frozen over canned foods (BPA is in many can linings; Eden Foods uses BPA-free cans).
+Choose fresh/frozen over canned foods (BPA is in many can linings; Eden Foods uses BPA-free cans).
 
-✅ Say no to receipts (thermal paper is coated in BPA-opt for digital).
+Say no to receipts (thermal paper is coated in BPA-opt for digital).
 
-✅ Use fragrance-free products (phthalates hide in "fragrance").
+Use fragrance-free products (phthalates hide in "fragrance").
 
 ---
 
@@ -87,11 +87,11 @@ This guide covers practical ways to reduce exposure to the most concerning chemi
 - Toxic to plants; long-term human effects unknown but concerning.
 
 ### How to Avoid:
-✅ Filter water (reverse osmosis removes TFA).
+Filter water (reverse osmosis removes TFA).
 
-✅ Avoid ultra-processed foods (some artificial sweeteners and packaging may contain PFAS precursors).
+Avoid ultra-processed foods (some artificial sweeteners and packaging may contain PFAS precursors).
 
-✅ Support policies banning PFAS (they’re the main source of TFA).
+Support policies banning PFAS (they’re the main source of TFA).
 
 ---
 
@@ -109,15 +109,15 @@ This guide covers practical ways to reduce exposure to the most concerning chemi
 ```
 
 ### How to Avoid:
-✅ Eat whole, unprocessed foods (fewer ingredients = fewer additives).
+Eat whole, unprocessed foods (fewer ingredients = fewer additives).
 
-✅ Avoid artificial colors (especially E102, E129, E110).
+Avoid artificial colors (especially E102, E129, E110).
 
-✅ Skip processed meats (opt for nitrate-free or fresh meat).
+Skip processed meats (opt for nitrate-free or fresh meat).
 
-✅ Use natural sweeteners (stevia, monk fruit > E951, E955).
+Use natural sweeteners (stevia, monk fruit > E951, E955).
 
-✅ Check EU labels for E-numbers (U.S. uses names like "FD&C Red No. 40").
+Check EU labels for E-numbers (U.S. uses names like "FD&C Red No. 40").
 
 ---
 
