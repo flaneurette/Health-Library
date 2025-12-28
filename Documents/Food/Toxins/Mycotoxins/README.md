@@ -1,10 +1,10 @@
 # Mycotoxins
 
-### A comprehensive list of common mycotoxins found in foods, drinks, and other products, along with their sources, associated foods, and health effects.
+A comprehensive list of common mycotoxins found in foods, drinks, and other products, along with their sources, associated foods, and health effects.
 
 ---
 
-# Common Mycotoxins
+### Common Mycotoxins
 
 ```
 | Mycotoxin        | Major Sources                  | Primary Health Effects                        | Carcinogenic? (IARC)   |
