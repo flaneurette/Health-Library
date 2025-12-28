@@ -23,7 +23,7 @@ A healthy breakfast should:
 
 ### Oats
 
-Cleaning: soak them before use to remove any residue, toxins or contaminants. If possible soak with lemon juice or citric acid, overnight, and filter the next day for use.
+> Cleaning: soak them before use to remove any residue, toxins or contaminants. If possible soak with lemon juice or citric acid, overnight, and filter the next day for use.
 
 **Benefits:**
 - High in soluble fiber
