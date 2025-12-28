@@ -347,7 +347,7 @@ If you suspect chronic mycotoxin exposure (e.g., from moldy homes or diet), thes
 - Milk thistle (silymarin) – protects liver cells.
 - NAC (N-acetylcysteine) – boosts glutathione (detox antioxidant).
 - Dandelion root & artichoke – support bile flow.
-- Turmeric (curcumin) – anti-inflammatory & liver-protective.
+- Turmeric (curcumin) – anti-inflammatory & liver-protective. ( with caution as high doses can become toxic)
 
 ### 3. Gut Health (Mycotoxins Disrupt Microbiome)
 - Probiotics (*Lactobacillus rhamnosus*, *Saccharomyces boulardii*) – degrade some mycotoxins.
