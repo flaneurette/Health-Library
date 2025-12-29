@@ -38,7 +38,7 @@ $$\text{Room Volume (m³)} = \text{Length (m)} \times \text{Width (m)} \times \t
 
 Example: 5 m × 4 m × 2.5 m → Volume = 50 m³
 
-💡 Tip: For irregular rooms, break them into rectangular sections and add the volumes together.
+Tip: For irregular rooms, break them into rectangular sections and add the volumes together.
 
 ---
 
@@ -101,7 +101,7 @@ $$\text{Cost per day} = 0.4 \times 0.50 = €0.20$$
 - Monthly cost (30 days): €0.20 × 30 ≈ €6.00
 - Annual cost: €0.20 × 365 ≈ €73.00
 
-💰 Running 24/7 costs: If running continuously at 50W, multiply by 3 (24h ÷ 8h) → ~€18/month or €219/year
+Running 24/7 costs: If running continuously at 50W, multiply by 3 (24h ÷ 8h) → ~€18/month or €219/year
 
 ---
 
