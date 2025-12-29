@@ -6,6 +6,8 @@
 - Formula: CADR (m³/h) = Room Volume (m³) × ACH
 - Power estimate: 0.1-0.5 W per m³/h of CADR
 
+> TIP: To achieve optimal air purification, aim for an air purifier with a CADR roughly twice the size of your room. For example, if your room is 25 m², choose a purifier rated for 50 m². This ensures the purifier lasts longer, uses less energy, is less affected by obstacles or poor airflow, and keeps your air consistently cleaner. Always aim for a larger margin than the actual room size.
+
 ---
 
 ## Why You Need a HEPA Purifier
