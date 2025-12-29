@@ -48,10 +48,10 @@ ACH represents how many times per hour the purifier should completely filter all
 
 | Use Case | Recommended ACH |
 |----------|----------------|
-| General indoor air quality | 2–4 |
-| Allergies / asthma | 4–6 |
-| Smoke / heavy pollution | 6–8 |
-| Medical/immunocompromised | 8–12 |
+| General indoor air quality | 2-4 |
+| Allergies / asthma | 4-6 |
+| Smoke / heavy pollution | 6-8 |
+| Medical/immunocompromised | 8-12 |
 
 Choosing your ACH: Start with 4 ACH for most residential applications. Increase to 6 if you have allergies or pets.
 
@@ -75,14 +75,14 @@ Unit conversion:
 
 ### Step 4: Estimate Power Consumption
 
-$$\text{Power (W)} \approx 0.1\text{–}0.5 \times \text{CADR (m³/h)}$$
+$$\text{Power (W)} \approx 0.1\text{-}0.5 \times \text{CADR (m³/h)}$$
 
-Example: CADR = 200 m³/h → Power ≈ 20–100 W
+Example: CADR = 200 m³/h → Power ≈ 20-100 W
 
 Typical power draw by speed:
-- Low speed: 20–40 W (quiet, good for sleeping)
-- Medium speed: 40–60 W (balanced performance)
-- High speed: 60–100 W (maximum filtration)
+- Low speed: 20-40 W (quiet, good for sleeping)
+- Medium speed: 40-60 W (balanced performance)
+- High speed: 60-100 W (maximum filtration)
 
 ---
 
