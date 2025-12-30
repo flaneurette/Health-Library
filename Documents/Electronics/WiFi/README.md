@@ -1,6 +1,6 @@
 # Wi-Fi Risks and mitigation strategies
 
-> For just about 8-10 euros you can buy a pretty good ethernet cable, that can mitigate any possible WiFi risks. Personally, I am not willing to wait before the science settles, and I take precautionary action.
+> For just about 8-10 euros you can buy a pretty good ethernet cable, that can mitigate any possible WiFi risk. Personally, I am not willing to wait before the science settles, and I take precautionary action.
 
 ## 1. Potential health risks
 
