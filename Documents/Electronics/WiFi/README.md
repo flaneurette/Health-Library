@@ -94,6 +94,6 @@ Key point: Exposure risk depends heavily on signal strength and proximity.
 > By combining wired connections and controlled Wi-Fi use, you maximize performance and minimize potential RF exposure, aligning both with technical and health-conscious goals.
 
 
-[1] https://www.semanticscholar.org/paper/Biological-and-pathological-effects-of-2.45-GHz-on-Wilke/8393d078e62a37133561ccec637cab2ec8ff60f3
+[1] https://www.wirelesseducationaction.org/wp-content/uploads/2018/09/WilkeWi-Fi2018.pdf
 
-[2] https://www.semanticscholar.org/paper/Wi-Fi-is-an-important-threat-to-human-health.-Pall/f3bb6b525955c462440a250ef18e5757c6bcbfa0
+[2] https://pubmed.ncbi.nlm.nih.gov/29573716/
