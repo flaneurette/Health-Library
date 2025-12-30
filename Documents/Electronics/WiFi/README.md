@@ -2,7 +2,7 @@
 
 Practical advise.
 
-# Why Choose Ethernet Over Wi-Fi
+# Why choose ethernet over Wi-Fi
 
 For just about **€8–€10**, you can buy a good Ethernet cable that:
 
