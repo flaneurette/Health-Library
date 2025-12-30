@@ -25,7 +25,7 @@ This guide explains how to block different types of radio and light waves using 
 | Wi-Fi 2.4 GHz           | 2.4 GHz      | 0.125 m                              | ≤ 1.25 cm                             
 | Wi-Fi 5 GHz             | 5 GHz        | 0.06 m                               | ≤ 0.6 cm                              
 | Li-Fi (Visible Light)   | 430-750 THz  | 400-700 nm                           | ≤ 40-70 nm (practically solid surface) 
-| Infrared                | 430-300 THz  | 700 nm - 1 µm                        | ≤ 70 nm-100 µm (solid surface needed)  
+| Infrared                | 300-430 THz  | 700 nm - 1 µm                        | ≤ 70 nm-100 µm (solid surface needed)  
 ```
 
 > Rule of thumb: hole size ≤ λ/10 for effective shielding, small is even better. Like: ≤ λ/20.
