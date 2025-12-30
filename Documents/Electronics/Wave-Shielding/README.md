@@ -112,6 +112,3 @@ This guide explains how to block different types of radio and light waves using 
 - Good materials: copper > aluminum > steel (conductivity and corrosion resistant)
 - Mesh rule: holes ≤ λ/10
 - Continuity matters: all metal pieces must touch for shielding to work
-
-> Faraday cages are effective, but full-home RF shielding is impractical for everyday life. Wired networking and selective Wi-Fi use are a much simpler way to minimize exposure.
-
