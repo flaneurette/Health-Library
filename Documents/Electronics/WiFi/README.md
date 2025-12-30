@@ -1,10 +1,31 @@
 # Wi-Fi Risks and mitigation strategies
 
-> For just about 8-10 euros you can buy a pretty good ethernet cable, that can mitigate any possible WiFi risk. Personally, I am not willing to wait before the science settles, and I take precautionary action.
+Practical advise.
 
-> Be sure to disable Wi-Fi on the router itself.
+# Why Choose Ethernet Over Wi-Fi
 
-> Benefits: less hacking attempts, less packet sniffing, possible good health benefits.
+For just about **€8–€10**, you can buy a good Ethernet cable that:
+
+- Provides stable, high-speed connections  
+- Eliminates or greatly reduces any potential Wi-Fi risks
+
+Personally, I’m **not willing to wait for the science to fully settle**-taking precautionary action makes sense.
+
+---
+
+## Key recommendations
+
+- **Disable Wi-Fi on your router** when using wired connections  
+- Connect critical devices (PC, laptop) via Ethernet
+
+---
+
+## Benefits of wired networking
+
+- **Security:** fewer hacking attempts and less packet sniffing  
+- **Performance:** stable, full-speed internet without drops  
+- **Health:** potential reduction in RF exposure, especially from 2.4 GHz Wi-Fi  
+- **Professional setup:** more reliable and controlled network environment
 
 ## 1. Potential health risks
 
