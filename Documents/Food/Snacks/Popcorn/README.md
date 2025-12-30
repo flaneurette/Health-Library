@@ -14,9 +14,15 @@ Bottom line: Pan-popped or air-popped popcorn with minimal added fat and salt is
 
 # Microwaving Popcorn
 
+What you need:
+
+- 1/3 to 1/2 cup popcorn kernels
+  
+- Food grade cotton bag (I used a cotton bread bag: preferably one that resists high temperature)
+  
 I found that using a medium sized cotton bag, works very well for microwaving kernels and it is eco-friendly, because it can be reused. I used a food grade bread bag. I put the kernels inside the large cotton bag and tie it with string, then microwave it until there is 10 seconds of popping left between kernels.
 
-Do not use plastic containers
+Do not use plastic containers, nor metals.
 
 > A few things to keep in mind for safety:
 Make sure the bag is 100% cotton with no synthetic fibers, metal threads, or decorative elements that could spark or melt in the microwave. Natural, unbleached cotton is safest.
