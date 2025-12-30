@@ -54,7 +54,7 @@ Shingles Vaccine (2 doses, ~€400)
 - Risk increases significantly after 50
 - *Action: Schedule for when you turn 50, or ask your doctor if earlier makes sense given your health*
 
-**Pneumococcal Vaccine (PCV20 or PPSV23)**
+Pneumococcal Vaccine (PCV20 or PPSV23)
 - Protects against pneumonia, meningitis, and bloodstream infections
 - Risk increases with age; often recommended 50+ or 65+
 - May be covered if you have chronic conditions (heart/lung disease, diabetes, weakened immune system)
