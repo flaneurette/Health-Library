@@ -28,7 +28,7 @@ This guide explains how to block different types of radio and light waves using 
 | Infrared                | 430-300 THz  | 700 nm - 1 µm                        | ≤ 70 nm-100 µm (solid surface needed)  
 ```
 
-> Rule of thumb: hole size ≤ λ/10 for effective shielding
+> Rule of thumb: hole size ≤ λ/10 for effective shielding, small is even better. Like: ≤ λ/20.
 
 # Full table
 
