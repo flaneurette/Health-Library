@@ -2,6 +2,8 @@
 
 A schedule for people **over 48 years of age**.
 
+> Costs: set aside at least a 750 to a 1000 euro's to cover all vaccinations costs. If you don't start saving money right now.
+
 ```
 | Vaccine                                  | Benefit / Why Now                                                                        | Priority                                                                                 
 | -----------------------------------------| ---------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------------
