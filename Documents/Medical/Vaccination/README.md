@@ -18,8 +18,6 @@ A schedule for people **over 48 years of age**.
 
 # Vaccination Priority Guide for Adults Over 48
 
-Based on your table, here's a prioritized approach:
-
 ## Tier 1: Get These Soon 
 
 Td/Tdap (Tetanus/Diphtheria/Pertussis)
