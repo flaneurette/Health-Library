@@ -23,34 +23,37 @@ This guide explains how to block different types of radio and light waves using 
 |-------------------------|--------------|--------------------------------------|--------------------------------------
 | FM Radio                | 88-108 MHz   | 3.0-2.78 m                           | ≤ 30 cm                               
 | Wi-Fi 2.4 GHz           | 2.4 GHz      | 0.125 m                              | ≤ 1.25 cm                             
-| Wi-Fi 5 GHz             | 5 GHz        | 0.06 m                               | ≤ 0.6 cm                              
+| Wi-Fi 5 GHz             | 5 GHz        | 5.8–6 cm                             | ≤ 0.6 cm                              
 | Li-Fi (Visible Light)   | 430-750 THz  | 400-700 nm                           | ≤ 40-70 nm (practically solid surface) 
-| Infrared                | 300-430 THz  | 700 nm - 1 µm                        | ≤ 70 nm-100 µm (solid surface needed)  
 ```
 
 > Rule of thumb: hole size ≤ λ/10 for effective shielding, small is even better. Like: ≤ λ/20.
 
 # Full table
 
-> Wavelength (λ) is calculated from frequency (f) by λ = c / f (where c ≈ 3×10⁸ m/s).  
+> Wavelength (λ) is calculated from frequency (f) by λ = c / f (where c ≈ 3×10⁸ m/s).
+ 
 > To block a frequency effectively, a Faraday shield or mesh should have holes significantly smaller than λ, typically ≲ λ/10.
 
-| *Band* | *Freq range* | *Approx λ range* | *Recommended max hole size (≈λ/10)* | *Shielding notes* |
-|---|---|---|---|---|
-| ELF (extremely low freq) | 3 Hz - 30 Hz | ~100,000 km - 10,000 km | impractical | requires solid metal shielding; field effects dominate at low f
-| VLF (very low freq) | 3 kHz - 30 kHz | ~100 km - 10 km | impractical | needs large continuous grounded metal sheets
-| LF (low freq / long wave) | 30 kHz - 300 kHz | ~10 km - 1 km | impractical | effectively impossible to block at home
-| MF (medium freq / AM radio) | 300 kHz - 3 MHz | ~1 km - 100 m | ≲100 m | massive enclosure or building‑wide shield
-| HF (shortwave) | 3 MHz - 30 MHz | ~100 m - 10 m | ≲10 m | still very large; not practically meshable
-| VHF (FM radio) | 30 MHz - 300 MHz | ~10 m - 1 m | ≲1 m | large mesh or sheet would be needed 
-| UHF (TV / cell / Wi‑Fi lower) | 300 MHz - 3 GHz | ~1 m - 10 cm | ≲10 cm | common wireless like Bluetooth, some LTE 
-| SHF (Wi‑Fi / Wi‑Fi5 GHz) | 3 GHz - 30 GHz | ~10 cm - 1 cm | ≲1 cm | typical fine mesh or solid sheet blocks these well
-| EHF / mmWave (5G mmWave) | 30 GHz - 300 GHz | ~1 cm - 1 mm | ≲1 mm | requires *very fine mesh* or solid plating
-| Infrared (IR) | ~300 GHz - 430 THz | ~1 mm - 700 nm | ≲100 nm | practically solid metal; mesh holes must be *much smaller*
-| Visible light | ~430 THz - 750 THz | ~700 nm - 400 nm | ≲40 nm | far too fine for mesh; requires continuous opaque surface 
-| Ultraviolet (UV) | ~750 THz - 30 PHz | ~400 nm - 10 nm | ≲40 nm | metal film or solid shielding
-| X‑rays | ~30 PHz - 30 EHz | ~10 nm - 0.01 nm | ≲1 nm | Faraday cage concept doesn’t apply; need dense absorber (e.g., lead)
-| Gamma rays | >~30 EHz | <0.01 nm | ≲0.001 nm | require nuclear shielding, not simple mesh
+> Always calculate the numbers yourself to be certain, typos may occur!
+
+| Band | Frequency Range | Wavelength (λ) | Max Hole Size (λ/10) | Practical Mesh Example | Shielding Notes |
+|------|----------------|----------------|---------------------|----------------------|----------------|
+| ELF | 3 Hz – 30 Hz | 100,000 km – 10,000 km | impractical | N/A | Requires massive continuous metal, impossible at home |
+| VLF | 3 kHz – 30 kHz | 100 km – 10 km | impractical | N/A | Huge grounded metal sheets needed |
+| LF | 30 kHz – 300 kHz | 10 km – 1 km | impractical | N/A | Effectively impossible to shield at home |
+| MF (AM radio) | 300 kHz – 3 MHz | 1 km – 100 m | ≲100 m | Large metal cage | Massive enclosure required |
+| HF (Shortwave) | 3 MHz – 30 MHz | 100 m – 10 m | ≲10 m | Large metal mesh | Very large, not practical for home |
+| VHF (FM radio) | 30 MHz – 300 MHz | 10 m – 1 m | ≲1 m | Chicken wire (~1–2 cm holes) | Large mesh or sheet attenuates FM well |
+| UHF (TV / lower Wi-Fi / Cell) | 300 MHz – 3 GHz | 1 m – 0.1 m | ≲10 cm | Fine chicken wire or copper mesh | Good shielding if mesh small enough |
+| SHF (Wi-Fi 2.4 GHz) | 2.4 GHz | 12.5 cm | 1.25 cm | Fine copper/aluminum mesh | Mesh must be ≲1.2 cm holes |
+| SHF (Wi-Fi 5 GHz) | 5 GHz | 6 cm | 0.6 cm | Very fine mesh (~6 mm holes) | Chicken wire (~1 cm) only partially attenuates |
+| EHF / mmWave (5G mmWave) | 30 GHz – 300 GHz | 1 cm – 1 mm | ≲1 mm | Specialized fine metal mesh | Very fine mesh or solid plating needed |
+| Infrared (IR) | 300 GHz – 430 THz | 1 mm – 700 nm | ≲100 µm – 70 nm | Solid sheet or very fine foil | Depends on IR subband; mesh generally impractical |
+| Visible Light (Li-Fi) | 430 THz – 750 THz | 700 nm – 400 nm | ≲40–70 nm | Solid opaque shield | Mesh ineffective; requires continuous surface |
+| Ultraviolet (UV) | 750 THz – 30 PHz | 400 nm – 10 nm | ≲40 nm | Solid metal / film | Must be solid sheet or coating |
+| X-Rays | 30 PHz – 30 EHz | 10 nm – 0.01 nm | ≲1 nm | Dense absorber (lead, concrete) | Faraday cage concept doesn’t apply |
+| Gamma Rays | >30 EHz | <0.01 nm | ≲0.001 nm | Nuclear shielding | Only dense atomic nuclei materials work |
 
 ---
 
