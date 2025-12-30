@@ -35,11 +35,11 @@ Studies, including a 2018 review [1] and [2], suggest that prolonged exposure to
 - Impacts on brain function
 - Adverse effects on learning and behavior
 
-> Note: The evidence is not universally conclusive, but over 100 studies have reported similar findings, making it reasonable to take precautionary measures.
+> 1. Note: The evidence is not universally conclusive, but over 100 studies have reported similar findings, making it reasonable to take precautionary measures.
 
 Key point: Exposure risk depends heavily on signal strength and proximity.
 
-> Repeated Wi-Fi studies show that Wi-Fi causes oxidative stress, sperm/testicular damage, neuropsychiatric effects including EEG changes, apoptosis, cellular DNA damage, endocrine changes, and calcium overload. 
+> 2. Repeated Wi-Fi studies show that Wi-Fi causes oxidative stress, sperm/testicular damage, neuropsychiatric effects including EEG changes, apoptosis, cellular DNA damage, endocrine changes, and calcium overload. 
 ---
 
 ## 2. Factors Affecting Exposure
