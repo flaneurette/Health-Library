@@ -29,7 +29,7 @@ Personally, I’m **not willing to wait for the science to fully settle**-taking
 
 ## 1. Potential health risks
 
-Studies, including a 2018 review [1], suggest that prolonged exposure to 2.4 GHz Wi-Fi may be associated with:
+Studies, including a 2018 review [1] and [2], suggest that prolonged exposure to 2.4 GHz Wi-Fi may be associated with:
 
 - Reproductive system effects
 - Impacts on brain function
@@ -95,3 +95,5 @@ Key point: Exposure risk depends heavily on signal strength and proximity.
 
 
 [1] https://www.semanticscholar.org/paper/Biological-and-pathological-effects-of-2.45-GHz-on-Wilke/8393d078e62a37133561ccec637cab2ec8ff60f3
+
+[2] https://www.semanticscholar.org/paper/Wi-Fi-is-an-important-threat-to-human-health.-Pall/f3bb6b525955c462440a250ef18e5757c6bcbfa0
