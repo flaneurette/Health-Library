@@ -63,7 +63,7 @@ This guide explains how to block different types of radio and light waves using 
 | Aluminum                | High            | Cheap, lightweight                          | Softer, harder to maintain contact 
 | Steel / Iron            | Moderate        | Strong, cheap                               | Lower conductivity, may rust 
 | Silver                  | Extremely high  | Best conductivity                           | Very expensive 
-| Mesh vs Solid           | —               | Mesh lighter, ventilated                    | Needs correct hole size; solid gives full shielding 
+| Mesh vs Solid           | -               | Mesh lighter, ventilated                    | Needs correct hole size; solid gives full shielding 
 ```
 
 ---
