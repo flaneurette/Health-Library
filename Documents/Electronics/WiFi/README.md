@@ -2,6 +2,10 @@
 
 > For just about 8-10 euros you can buy a pretty good ethernet cable, that can mitigate any possible WiFi risk. Personally, I am not willing to wait before the science settles, and I take precautionary action.
 
+> Be sure to disable Wi-Fi on the router itself.
+
+> Benefits: less hacking attempts, less packet sniffing, possible good health benefits.
+
 ## 1. Potential health risks
 
 Studies, including a 2018 review [1], suggest that prolonged exposure to 2.4 GHz Wi-Fi may be associated with:
@@ -60,7 +64,7 @@ Key point: Exposure risk depends heavily on signal strength and proximity.
 
 ## 4. Practical Recommendations
 
-1. Connect your PC via Ethernet and disable Wi-Fi for it  
+1. Connect your PC via Ethernet and disable Wi-Fi on the router!
 2. Measure speed via cable to confirm full line utilization  
 3. Use short, high-quality cables (Cat6/Cat6a or better, 100% copper)  
 4. Enable Wi-Fi only for mobile devices when needed  
