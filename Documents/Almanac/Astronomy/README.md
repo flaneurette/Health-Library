@@ -452,5 +452,3 @@
 |  v = H₀ × d  | Hubble's Law | v = recession velocity, H₀ ≈ 70 km/s/Mpc, d = distance |
 
 ---
-
- End of Space & Astronomy Almanac 
