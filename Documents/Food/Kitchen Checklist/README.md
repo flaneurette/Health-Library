@@ -1,4 +1,4 @@
--# Kitchen and Pantry Checklist
+# Kitchen and Pantry Checklist
 
 ### How to avoid Hymenolepis diminuta Infection
 
