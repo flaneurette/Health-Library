@@ -85,7 +85,7 @@ This guide covers common kitchen pests, their risks, and practical measures to p
 
 ### Prevention
 - Store grains and flour in airtight containers.  
-- Freeze new flour for 24 days to kill larvae.  
+- Freeze new flour for 2-4 days to kill larvae.  
 - Inspect grains and cereals regularly for insects.  
 - Sift flour before use to remove debris and insects.  
 - Keep storage areas clean and dry.
