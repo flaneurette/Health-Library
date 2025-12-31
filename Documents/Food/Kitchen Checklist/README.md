@@ -13,7 +13,7 @@ Hymenolepis diminuta (rat tapeworm, mouse, beetles, roaches) can infect humans t
 - Wash fruits: Especially dried fruits, to remove potential contamination.  
 - Cook or heat grains/cereals: Precooked or thoroughly cooked grains are safer.  
 - Sift flour: Use a fine sieve to remove insects or debris before baking.  
-- Freeze flour (optional but effective): 2–4 days at \-18°C kills insects and larvae.
+- Freeze flour (optional but effective): 24 days at -18°C kills insects and larvae.
 
 ---
 
@@ -85,7 +85,7 @@ This guide covers common kitchen pests, their risks, and practical measures to p
 
 ### Prevention
 - Store grains and flour in airtight containers.  
-- Freeze new flour for 2–4 days to kill larvae.  
+- Freeze new flour for 24 days to kill larvae.  
 - Inspect grains and cereals regularly for insects.  
 - Sift flour before use to remove debris and insects.  
 - Keep storage areas clean and dry.
