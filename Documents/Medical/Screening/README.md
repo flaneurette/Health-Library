@@ -1,5 +1,5 @@
 # Lifelong health checklist: screenings & vaccines by age
-*Based on CDC, USPSTF, AHA, ACS, and functional medicine guidelines. Customize with your doctor based on risk factors (family history, lifestyle, etc.).*
+*Based on CDC, USPSTF, AHA, ACS, and functional medicine guidelines. Customize with your doctor based on risk factors (family history, lifestyle, etc.). If you are younger than 18, seek medical advise from a health professional*
 
 | Age  | Screening/test               | Frequency               | Why it matters                                                                 | Notes                                                                                     |
 |----------|----------------------------------|-----------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
