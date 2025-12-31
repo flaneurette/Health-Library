@@ -12,7 +12,7 @@ Hymenolepis diminuta (rat tapeworm, mouse, beetles, roaches) can infect humans t
 - Inspect foods: Check for small insects in flour, grains, and cereals.  
 - Wash fruits: Especially dried fruits, to remove potential contamination.  
 - Cook or heat grains/cereals: Precooked or thoroughly cooked grains are safer.  
-- Sift flour: Use a fine sieve to remove insects or debris before baking.  
+- Sift flour: Use a fine sieve to remove insects or debris before baking. (does not remove eggs) 
 - Freeze flour (optional but effective): 2-4 days at -18°C kills insects and larvae. **most effective**
 
 ---
