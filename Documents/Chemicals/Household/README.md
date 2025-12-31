@@ -7,7 +7,7 @@
 |---------------|----------------------------------------------------------------------------|--------------------------------|
 | Acid      | Substance with pH < 7; donates H⁺ ions; corrosive.                         | Vinegar (acetic acid), lemon juice (citric acid) |
 | Base      | Substance with pH > 7; accepts H⁺ ions; slippery feel.                     | Baking soda (NaHCO₃), soap (NaOH) |
-| pH Scale  | Measures acidity/alkalinity (0–14); 7 = neutral.                           | pH 2: Lemon juice; pH 12: Bleach |
+| pH Scale  | Measures acidity/alkalinity (0-14); 7 = neutral.                           | pH 2: Lemon juice; pH 12: Bleach |
 | Oxidizer  | Causes combustion by releasing oxygen.                                    | Hydrogen peroxide (H₂O₂), bleach (NaOCl) |
 | Reducing Agent | Donates electrons; can prevent oxidation.                          | Vitamin C (ascorbic acid), sulfur dioxide (SO₂) |
 | Solvent   | Dissolves other substances.                                               | Water (H₂O), acetone (nail polish remover) |
