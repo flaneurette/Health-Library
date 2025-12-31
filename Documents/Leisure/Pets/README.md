@@ -1,4 +1,4 @@
-# Pet hygiene checklist (Outdoor cats & animals)
+# Pet hygiene checklist (outdoor cats & animals)
 
 This checklist helps reduce health risks when petting outdoor or neighbourhood animals.
 
