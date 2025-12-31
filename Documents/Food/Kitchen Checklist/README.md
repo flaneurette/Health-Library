@@ -1,6 +1,6 @@
 # Kitchen and Pantry Checklist
 
-# How to avoid Hymenolepis diminuta Infection
+### How to avoid Hymenolepis diminuta Infection
 
 Hymenolepis diminuta (rat tapeworm, mouse, beetles, roaches) can infect humans through contaminated grains and dried fruits. Here’s a comprehensive guide to reducing risk.
 
