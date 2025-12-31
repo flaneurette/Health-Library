@@ -6,7 +6,7 @@ Hymenolepis diminuta (rat tapeworm, mouse, beetles, roaches) can infect humans t
 
 ---
 
-## 1. Food Safety
+### 1. Food Safety
 
 - Store grains, cereals, and dried fruits properly: Use airtight containers to prevent insects from entering.  
 - Inspect foods: Check for small insects in flour, grains, and cereals.  
@@ -17,7 +17,7 @@ Hymenolepis diminuta (rat tapeworm, mouse, beetles, roaches) can infect humans t
 
 ---
 
-## 2. Pest Control
+### 2. Pest Control
 
 - Keep rodents out of storage areas: Rats and mice are hosts for the parasite.  
 - Control insect pests: Grain insects (beetles, weevils, flour moths) can carry larvae from rodent feces.  
@@ -25,14 +25,14 @@ Hymenolepis diminuta (rat tapeworm, mouse, beetles, roaches) can infect humans t
 
 ---
 
-## 3. Personal Hygiene
+### 3. Personal Hygiene
 
 - Wash hands after handling grains, cereals, or potentially contaminated foods.  
 - Avoid eating raw foods that may have been in contact with insects or rodents.
 
 ---
 
-## 4. General Prevention
+### 4. General Prevention
 
 - Regularly clean storage areas (pantries, cupboards) to reduce insect infestation.  
 - Check for rodent activity and remove sources of contamination immediately.  
@@ -40,7 +40,7 @@ Hymenolepis diminuta (rat tapeworm, mouse, beetles, roaches) can infect humans t
 
 ---
 
-## Summary
+### Summary
 
 - Infection is transmitted indirectly via grain insects that have eaten rodent feces.  
 - The key prevention steps are:  
@@ -54,7 +54,7 @@ Hymenolepis diminuta (rat tapeworm, mouse, beetles, roaches) can infect humans t
 
 ---
 
-# Kitchen Pest and Food Safety Guide
+# Other
 
 This guide covers common kitchen pests, their risks, and practical measures to prevent contamination and maintain food safety.
 
