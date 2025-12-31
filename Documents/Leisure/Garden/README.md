@@ -6,15 +6,15 @@ Gardening is generally safe and healthy, but soil, plants, and outdoor environme
 
 ---
 
-## 1. Soil-Related Risks
+### 1. Soil-Related Risks
 
-### Possible Risks
+###  Possible Risks
 - Bacteria and parasites naturally present in soil  
 - Animal droppings (cats, rodents, birds) contaminating soil  
 - Fungi that may enter through cuts or wounds  
 - Old or contaminated soil near buildings or sheds  
 
-### Safety Tips
+###  Safety Tips
 - Wear gardening gloves when handling soil or compost  
 - Avoid touching your face while gardening  
 - Cover cuts or scratches with waterproof bandages  
@@ -23,13 +23,13 @@ Gardening is generally safe and healthy, but soil, plants, and outdoor environme
 
 ---
 
-## 2. Compost & Fertilizer Safety
+### 2. Compost & Fertilizer Safety
 
-### Possible Risks
+###  Possible Risks
 - Compost may contain bacteria, fungi, or mold spores  
 - Animal manure can carry pathogens if not properly aged  
 
-### Safety Tips
+###  Safety Tips
 - Use well-composted material only  
 - Wear gloves when handling compost or manure  
 - Avoid breathing in compost dust  
@@ -38,14 +38,14 @@ Gardening is generally safe and healthy, but soil, plants, and outdoor environme
 
 ---
 
-## 3. Plant-Related Risks
+### 3. Plant-Related Risks
 
-### Possible Risks
+###  Possible Risks
 - Toxic plants (some ornamental plants are poisonous)  
 - Thorns, splinters, or sharp leaves  
 - Skin irritation from plant sap  
 
-### Safety Tips
+###  Safety Tips
 - Learn which plants in your garden are toxic  
 - Wear long sleeves when pruning or clearing plants  
 - Use proper tools instead of bare hands  
@@ -53,14 +53,14 @@ Gardening is generally safe and healthy, but soil, plants, and outdoor environme
 
 ---
 
-## 4. Insects & Animals
+### 4. Insects & Animals
 
-### Possible Risks
+###  Possible Risks
 - Insect bites or stings (bees, wasps, mosquitoes)  
 - Ticks in tall grass or wooded areas  
 - Rodents or burrowing animals contaminating soil  
 
-### Safety Tips
+###  Safety Tips
 - Wear long trousers and closed shoes  
 - Use insect repellent if needed  
 - Check skin for ticks after gardening  
@@ -69,13 +69,13 @@ Gardening is generally safe and healthy, but soil, plants, and outdoor environme
 
 ---
 
-## 5. Water & Irrigation
+### 5. Water & Irrigation
 
-### Possible Risks
+###  Possible Risks
 - Stagnant water attracting insects  
 - Contaminated water sources  
 
-### Safety Tips
+###  Safety Tips
 - Avoid standing water where possible  
 - Use clean water for irrigation  
 - Do not drink from garden hoses unless labeled potable  
@@ -83,13 +83,13 @@ Gardening is generally safe and healthy, but soil, plants, and outdoor environme
 
 ---
 
-## 6. Harvesting & Food Safety
+### 6. Harvesting & Food Safety
 
-### Possible Risks
+###  Possible Risks
 - Soil bacteria on vegetables and herbs  
 - Contamination from animals or insects  
 
-### Safety Tips
+###  Safety Tips
 - Wash all harvested produce thoroughly  
 - Peel or cook vegetables when appropriate  
 - Keep harvested food off the ground  
@@ -97,7 +97,7 @@ Gardening is generally safe and healthy, but soil, plants, and outdoor environme
 
 ---
 
-## 7. General Gardening Hygiene
+### 7. General Gardening Hygiene
 
 - Wash hands after gardening  
 - Keep tools clean and dry  
@@ -107,11 +107,11 @@ Gardening is generally safe and healthy, but soil, plants, and outdoor environme
 
 ---
 
-## A few other risks
+### A few other risks
 - Be careful with natural products, like reed or reed fences. Wasps and hornets can use this as building material and might surprise and sting you.
 - Be cautious of hiding places for mosquitoes. Turn empty pots upside down, don't let water sit in it.
 
-## Summary
+### Summary
 
 - Soil is a natural environment and contains microorganisms  
 - Simple hygiene measures greatly reduce risk  
