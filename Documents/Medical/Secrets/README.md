@@ -185,7 +185,6 @@ Most doctors **only test TSH**, but you need:
 |--------------------|-----------------------|-------------------------------|
 | LDCT (lung)        | Smokers/ex-smokers    | Reduces death by 20%          |
 | FIT test           | Colon cancer screening | More accurate than colonoscopy in some cases (but less profitable) |
-| Thermography       | Breast cancer         | No radiation, detects early inflammation (not FDA-approved as standalone) |
 
 ---
 
