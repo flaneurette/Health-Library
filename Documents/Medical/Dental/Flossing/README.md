@@ -18,7 +18,7 @@ Flossing is a cornerstone of oral hygiene, but its effects-both positive and neg
 
 ### 2. Prevents tooth loss & saves money
    - Flossing removes 40% of plaque that brushing misses, reducing cavities and gum recession.
-   - The ADA estimates that preventive flossing saves $500–$2,000/year in dental costs.
+   - The ADA estimates that preventive flossing saves $500-$2,000/year in dental costs.
 
 ### 3. Reduces bad breath (halitosis)
    - Food particles trapped between teeth rot and release sulfur compounds, causing chronic bad breath. Flossing eliminates this.
@@ -91,6 +91,31 @@ Flossing is a cornerstone of oral hygiene, but its effects-both positive and neg
 | Cost                                      | Very cheap                    | Higher upfront cost                                                      |
 | Portability                               | Very portable                 | Less portable (though some travel models exist)                          |
 | Environmental impact                      | Minimal                       | Uses water + device power                                                |
+
+### Safe use of water flossers
+
+Using a water flosser can be very effective for gum health, but improper use (too high pressure or prolonged exposure) can damage gum tissue or push bacteria deeper into tissue. Follow these guidelines for safe and effective use.
+
+---
+
+| Step | Recommendation | Notes |
+|------|----------------|-------|
+| 1. Start on low pressure | Begin with the lowest water pressure setting. | Even sensitive gums can adapt gradually. |
+| 2. Move along the gumline | Do not hold the stream in one spot for too long. | Keeps water flow gentle and avoids tissue damage. |
+| 3. Stop if painful or bleeding | Pain or persistent bleeding is a warning sign. | Reduce pressure or skip the area. |
+| 4. Gradually increase pressure | Increase only if comfortable and gums are healthy. | High pressure can cause tissue necrosis or vascular damage. |
+| 5. Use short daily sessions | About 1-2 minutes total for all teeth is enough. | Avoid prolonged exposure that can push bacteria deeper. |
+| 6. Maintain oral hygiene routine | Brush with a soft toothbrush and mild toothpaste. | Do not combine with aggressive brushing. |
+| 7. Check with your dentist | Especially if gums are inflamed or receding. | Professional advice ensures safe use and prevents complications. |
+
+---
+
+### Key Points
+- Low to medium pressure is safe for daily use.  
+- High pressure or direct stream on inflamed gums may damage collagen and blood/lymph vessels.  
+- Damaged or inflamed gum tissue is at risk of bacteria being pushed deeper, potentially into the bloodstream.  
+- Safe water flossing improves gum health without mechanical trauma if used carefully.  
+
 
 ## Final verdict: should you floss?
 Yes, but choose wisely.
