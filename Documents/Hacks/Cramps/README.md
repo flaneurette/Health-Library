@@ -14,6 +14,8 @@ Quick tips:
 
 ---
 
+# Various hacks
+
 ## 1. Micro-dorsiflexion (tiny toe curls while lying down)
 - Gently flex your toes toward your shin a few times before the cramp starts.  
 - Primes the calf muscles and nerves, preventing rogue contractions.  
