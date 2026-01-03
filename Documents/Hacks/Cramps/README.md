@@ -4,7 +4,7 @@ Sometimes you can feel leg a cramp coming. Here are some subtle early-warning te
 
 > Quick tip: when you sense a cramp coming, shake with your legs quickly and randomly in little bursts. This overrides the cramp signal. Result: Cramp might never hit.
 
-> When this does not work, and the leg/calf is locked up, immediately curl your toes inward. (practice before doing it). When you curl your toes inward, which requires practice, you disturb the cramp signal. This should unlock the cramp rapidly: within 2 seconds, so that the cramp lasts about 1-2 seconds instead of a maxmium of 30 seconds. Greatly reducing pain.
+> When this does not work, and the leg/calf is locked up, immediately curl your toes inward. (practice before doing it). When you curl your toes inward, which requires practice, you disturb the cramp signal. This should unlock the cramp rapidly: within 2 seconds, so that the cramp lasts about 1-2 seconds instead of a maxmum of 30 seconds (although some rare cramps can last minutes!). Greatly reducing pain.
 
 *Note: Leg cramps can become much more common as you age.*
 
