@@ -1,4 +1,4 @@
-# Night-Time Leg Cramp Prevention Tricks
+# Night-time leg cramp prevention tricks
 
 Sometimes you can feel leg a cramp coming. Here are some subtle early-warning techniques to prevent it before it fully hits. Yes, you can prevent the cramp from hitting you and locking up your leg/calf.
 
