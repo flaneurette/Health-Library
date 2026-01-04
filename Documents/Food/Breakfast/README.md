@@ -38,7 +38,7 @@ A healthy breakfast should:
 **Safety guideline steps to follow**
 
 1. Buy high-quality oats from reputable brands (tested and regulated in EU).
-2. Store properly: airtight container, cool, dry place. This prevents molds -> toxins.
+2. Store properly: airtight container, cool, dry place. This prevents molds -> toxins. (for long term: freeze them)
 3. Avoid oats with any smell, clumping, or discoloration -> toxins.
 4. Rotate and consume oats within a reasonable timeframe - don’t keep raw oats for years.
 5. Before using oats, soak them in boiling water from a **watercooker** for a few minutes, about 2-3 min.
