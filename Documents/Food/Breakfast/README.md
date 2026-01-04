@@ -35,6 +35,23 @@ A healthy breakfast should:
 - Simmer 15-25 minutes
 - Avoid added sugars
 
+**Safety guideline steps to follow**
+
+1. Buy high-quality oats from reputable brands (tested and regulated in EU).
+2. Store properly: airtight container, cool, dry place. This prevents molds -> toxins.
+3. Avoid oats with any smell, clumping, or discoloration -> toxins.
+4. Rotate and consume oats within a reasonable timeframe - don’t keep raw oats for years.
+5. Before using oats, soak them in boiling water from a **watercooker** for a few minutes, about 2-3 min.
+6. Then use a sieve to remove the water, removes any fine debris, some bacteria, eggs, cells, and perhaps a few toxins (not much)
+7. Add new boiling water, fill bowl to the brim
+8. Add a pinch of lemon juice or citric acid to neutralize
+9. Stir well
+10. Let it cool for 10-15 minutes
+
+Then add seeds, fruits, nuts, sweetners or anything else.
+
+Serve and and enjoy.
+
 ---
 
 ### Seeds
