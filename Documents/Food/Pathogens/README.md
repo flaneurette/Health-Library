@@ -73,7 +73,7 @@ This list contains surprising causes of bacteria and pathogens in common food mo
 ```
 | Rank | Food Item                           | Common Mold Types                     | Toxin/Health Risk                | Safety Guidelines & Notes                                                    |
 | ---- | ----------------------------------- | --------------------------------------| -------------------------------- | ---------------------------------------------------------------------------- |
-| 1    | Peanuts & peanut butter             | Aspergillus flavus/parasiticus| Aflatoxins (carcinogenic)                | Discard if moldy - aflatoxins are highly toxic and heat-resistant.           |
+| 1    | Peanuts & peanut butter             | Aspergillus flavus/parasiticus        | Aflatoxins (carcinogenic)        | Discard if moldy - aflatoxins are highly toxic and heat-resistant.           |
 | 2    | Corn & corn products                | Aspergillus, Fusarium                 | Aflatoxins, fumonisins (cancer)  | Discard moldy corn - toxins persist even after cooking.                      |
 | 3    | Grains (wheat, rice, oats)          | Aspergillus, Fusarium, Penicillium    | Aflatoxins, ochratoxin A         | Discard if moldy - mycotoxins affect liver and kidneys.                      |
 | 4    | Tree nuts (almonds, walnuts)        | Aspergillus flavus                    | Aflatoxins (liver damage)        | Discard moldy nuts - especially risky for children.                          |
