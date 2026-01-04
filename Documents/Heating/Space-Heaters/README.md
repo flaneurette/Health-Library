@@ -13,7 +13,8 @@ Repeated or long-term exposure over months or years may lead to persistent skin 
 in rare cases, increase the risk of skin cancer.
 
 Prevention: Avoid prolonged direct heat on the skin, take breaks,
-and keep a safe distance from heat sources.
+and keep a safe distance from heat sources:
+about 1 meters from the device, if possible.
 ```
 
 Risk explaination: https://en.wikipedia.org/wiki/Erythema_ab_igne
