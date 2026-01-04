@@ -16,7 +16,7 @@ Prevention: Avoid prolonged direct heat on the skin, take breaks,
 and keep a safe distance from heat sources.
 ```
 
-Risk explanation: https://en.wikipedia.org/wiki/Erythema_ab_igne
+Risk explaination: https://en.wikipedia.org/wiki/Erythema_ab_igne
 
 
 ---
