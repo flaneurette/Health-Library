@@ -70,6 +70,7 @@ This list contains surprising causes of bacteria and pathogens in common food mo
 
 # Molds
 
+```
 | Rank | Food Item                           | Common Mold Types               | Toxin/Health Risk                | Safety Guidelines & Notes                                                    |
 | ---- | ----------------------------------- | ------------------------------- | -------------------------------- | ---------------------------------------------------------------------------- |
 | 1    | Peanuts & peanut butter             | *Aspergillus flavus/parasiticus*| Aflatoxins (carcinogenic)        | Discard if moldy - aflatoxins are highly toxic and heat-resistant.           |
@@ -97,6 +98,7 @@ This list contains surprising causes of bacteria and pathogens in common food mo
 | 23   | Hard salami & dry-cured meats       | *Penicillium nalgiovense* (safe)| Low - intentional mold           | Surface mold usually safe to wipe/scrub off - intentionally dried for safety.|
 | 24   | Jams & jellies (high sugar, sealed) | *Penicillium*, *Aspergillus*    | Low if high sugar content        | Can scrape off surface mold if thick jam layer remains - sugar preserves.    |
 | 25   | Hard cured sausages (pepperoni)     | *Penicillium* (white mold)      | Low - beneficial mold            | Surface mold safe to wipe off - low moisture prevents deep growth.           |
+```
 
 **Most Dangerous Mycotoxins:**
 
