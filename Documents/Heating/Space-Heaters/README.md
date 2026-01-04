@@ -3,7 +3,7 @@
 Space heaters are convenient for warming small areas, but they can pose health and safety risks if used improperly. This guide highlights the main risks and how to mitigate them.
 
 ```
-WARNING: Prolonged, close-range heat exposure from space heaters, heating pads, electric blankets,
+WARNING: Prolonged, close-range heat exposure from space heaters, heating pads, electric blankets, laptops,
 or hot water bottles can cause erythema ab igne (“toasted skin syndrome”).
 
 This appears as a characteristic net-like skin pattern. In early stages,
