@@ -19,7 +19,7 @@ This list contains surprising causes of bacteria and pathogens in common food mo
 - Avoid unpasturized milks and cheeses.
 - Avoid soft cheeses if possible.
 
-# List of common sources.
+# Pathogens
 
 ```
 | Rank | Food / Drink                                | Risk        | Notes & Tips                                                            |
@@ -49,7 +49,7 @@ This list contains surprising causes of bacteria and pathogens in common food mo
         
 ```
 
-# Worm sources and types
+# Worms
 
 ```
 | Worm Type                     | Common Species                          | Associated Meat/Fish                    | Notes / Health Impact                                                  |
@@ -68,7 +68,66 @@ This list contains surprising causes of bacteria and pathogens in common food mo
 |                               | Spirometra spp.                         | Fish, amphibians                        | Rare; can cause sparganosis if larvae ingested.                        |
 ```
 
-# Surprising sources
+# Molds
+
+| Rank | Food Item                           | Common Mold Types               | Toxin/Health Risk                | Safety Guidelines & Notes                                                    |
+| ---- | ----------------------------------- | ------------------------------- | -------------------------------- | ---------------------------------------------------------------------------- |
+| 1    | Peanuts & peanut butter             | *Aspergillus flavus/parasiticus*| Aflatoxins (carcinogenic)        | Discard if moldy - aflatoxins are highly toxic and heat-resistant.           |
+| 2    | Corn & corn products                | *Aspergillus*, *Fusarium*       | Aflatoxins, fumonisins (cancer)  | Discard moldy corn - toxins persist even after cooking.                      |
+| 3    | Grains (wheat, rice, oats)          | *Aspergillus*, *Fusarium*, *Penicillium* | Aflatoxins, ochratoxin A    | Discard if moldy - mycotoxins affect liver and kidneys.                      |
+| 4    | Tree nuts (almonds, walnuts)        | *Aspergillus flavus*            | Aflatoxins (liver damage)        | Discard moldy nuts - especially risky for children.                          |
+| 5    | Soft cheeses (cottage, ricotta)     | *Penicillium*, *Mucor*, *Rhizopus* | Various mycotoxins, allergies | Discard entire container - mold penetrates easily throughout.                |
+| 6    | Soft fruits (berries, peaches)      | *Botrytis*, *Penicillium*, *Rhizopus* | Respiratory issues, allergies | Discard moldy fruit - mold spreads rapidly through soft flesh.               |
+| 7    | Bread & baked goods                 | *Penicillium*, *Aspergillus*, *Rhizopus* | Mycotoxins, allergic reactions | Discard entire loaf - mold roots invisible throughout porous structure.      |
+| 8    | Yogurt & sour cream                 | *Mucor*, *Penicillium*          | GI distress, allergies           | Discard entire container - indicates widespread contamination.               |
+| 9    | Cooked leftovers (pasta, meat)      | *Penicillium*, *Aspergillus*, *Alternaria* | Various mycotoxins        | Discard all - protein-rich environment promotes dangerous mold growth.       |
+| 10   | Shredded, crumbled, sliced cheese   | *Penicillium*, *Cladosporium*   | Mycotoxins, allergies            | Discard all - high surface area allows deep penetration.                     |
+| 11   | Tomatoes & tomato products          | *Alternaria alternata*          | Allergies, respiratory issues    | Discard if moldy - Alternaria toxins can be harmful.                         |
+| 12   | Jams & jellies (low sugar)          | *Penicillium*, *Aspergillus*    | Patulin (immunosuppressive)      | Discard if moldy - modern low-sugar varieties lack preservation.             |
+| 13   | Apple juice & cider                 | *Penicillium expansum*          | Patulin (kidney/liver damage)    | Buy pasteurized; discard if cloudy or moldy apples used.                     |
+| 14   | Lunch meats & hot dogs              | *Penicillium*, *Aspergillus*    | Mycotoxins + Listeria risk       | Discard - mold indicates spoilage and bacterial contamination.               |
+| 15   | Soft vegetables (cucumbers, peppers)| *Alternaria*, *Rhizopus*, *Pythium* | Allergies, GI issues         | Discard - high moisture allows deep mold penetration.                        |
+| 16   | Cream cheese & soft spreads         | *Penicillium*, *Geotrichum*     | Mycotoxins, digestive issues     | Discard entire package - easily contaminated throughout.                     |
+| 17   | Cake, muffins, pastries             | *Penicillium*, *Aspergillus*    | Respiratory allergies, toxins    | Discard - moisture allows deep invisible mold growth.                        |
+| 18   | Dried fruits (raisins, dates)       | *Aspergillus*, *Penicillium*    | Aflatoxins, ochratoxin           | Discard if moldy - concentrated sugars don't prevent toxin production.       |
+| 19   | Coffee beans                        | *Aspergillus*, *Penicillium*    | Ochratoxin A (kidney damage)     | Buy fresh, store properly - roasting reduces but doesn't eliminate toxins.   |
+| 20   | Firm vegetables (carrots, cabbage)  | *Alternaria*, *Botrytis*        | Generally low toxin risk         | Cut away moldy area (1+ inch margin) if surface mold only.                   |
+| 21   | Firm fruits (apples, pears)         | *Penicillium*, *Alternaria*     | Patulin (in apples)              | Cut off mold (1 inch margin) if small spot; discard if extensive.           |
+| 22   | Hard cheese (cheddar, parmesan)     | *Penicillium* (various species) | Low risk if properly handled     | Safe to cut off mold (1 inch around & below) - dense texture prevents spread.|
+| 23   | Hard salami & dry-cured meats       | *Penicillium nalgiovense* (safe)| Low - intentional mold           | Surface mold usually safe to wipe/scrub off - intentionally dried for safety.|
+| 24   | Jams & jellies (high sugar, sealed) | *Penicillium*, *Aspergillus*    | Low if high sugar content        | Can scrape off surface mold if thick jam layer remains - sugar preserves.    |
+| 25   | Hard cured sausages (pepperoni)     | *Penicillium* (white mold)      | Low - beneficial mold            | Surface mold safe to wipe off - low moisture prevents deep growth.           |
+
+**Most Dangerous Mycotoxins:**
+
+1. **Aflatoxins** (*Aspergillus*) - Highly carcinogenic; damage liver; found in nuts, corn, grains
+2. **Ochratoxin A** (*Aspergillus*, *Penicillium*) - Kidney damage, carcinogenic; found in grains, coffee, dried fruits
+3. **Patulin** (*Penicillium*) - Immunosuppressive, neurotoxic; found in apples and apple products
+4. **Fumonisins** (*Fusarium*) - Linked to cancer; found in corn
+5. **Trichothecenes** (*Fusarium*) - Immune suppression, GI damage; found in grains
+6. **Zearalenone** (*Fusarium*) - Hormonal disruption; found in corn and grains
+
+**High-Risk Groups:**
+- Pregnant women
+- Infants and children
+- Immunocompromised individuals
+- People with respiratory conditions (mold allergies/asthma)
+
+**Safe/Intentional Molds:**
+- *Penicillium roqueforti* - Blue cheese, Gorgonzola
+- *Penicillium camemberti* - Brie, Camembert
+- *Penicillium nalgiovense* - Salami casings
+- *Aspergillus oryzae* - Soy sauce, miso, sake
+
+**Storage Tips to Prevent Mold:**
+- Keep refrigerator below 4°C (40°F)
+- Store foods in airtight containers
+- Use foods before expiration dates
+- Keep storage areas clean and dry
+- Don't sniff moldy food (inhaling spores is harmful)
+
+
+# Surprising sources of pathogens
 
 ### 1. Leafy greens grown in soil
 
