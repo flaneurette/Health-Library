@@ -5,7 +5,6 @@ Space heaters are convenient for warming small areas, but they can pose health a
 ```
 WARNING: Prolonged, close-range heat exposure from space heaters, heating pads, electric blankets,
 or hot water bottles can cause erythema ab igne (“toasted skin syndrome”).
-https://en.wikipedia.org/wiki/Erythema_ab_igne
 
 This appears as a characteristic net-like skin pattern. In early stages,
 it is usually reversible once heat exposure stops.
@@ -16,6 +15,9 @@ in rare cases, increase the risk of skin cancer.
 Prevention: Avoid prolonged direct heat on the skin, take breaks,
 and keep a safe distance from heat sources.
 ```
+
+Risk explanation: https://en.wikipedia.org/wiki/Erythema_ab_igne
+
 
 ---
 
