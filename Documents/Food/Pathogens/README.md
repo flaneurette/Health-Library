@@ -93,7 +93,8 @@ Risk: Rare, but can carry Salmonella if not roasted or stored correctly. People 
 | 12   | Cream-filled pastries & bakery items        | Medium      | Salmonella, Listeria. Eat fresh; avoid unrefrigerated storage.      
 | 13   | Ice cubes / ice machines                    | Low-Medium  | E. coli, Listeria. Use clean water and clean machines.              
 | 14   | Packaged nuts & seeds                       | Low         | Rare Salmonella. Store dry and sealed; check expiration.              
-| 15   | Homemade fermented foods (kimchi, kombucha) | Low         | Usually safe; risk if contaminated during fermentation.                 
+| 15   | Homemade fermented foods (kimchi, kombucha) | Low         | Usually safe; risk if contaminated during fermentation.
+| 16   | Ice cream (dairy based?)                    | Medium      | High               
 ```
 
 # Worm sources and types
