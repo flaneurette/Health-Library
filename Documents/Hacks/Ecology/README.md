@@ -47,7 +47,7 @@ heatloss, noise, smells, and insects crawling into your house.
 - Use every part of produce: Broccoli stems, beet greens, carrot tops are edible-reduces waste and stretches your budget.
 - Meal planning to reduce spoilage: Cook what you have before buying more-prevents food waste.
 - Ferment or pickle surplus produce: Extends shelf life without refrigeration.
-- Use foograde cotton bag to microwave popcorn (no more waste)
+- Use food-grade cotton bag to microwave popcorn (no more waste)
 
 ---
 
