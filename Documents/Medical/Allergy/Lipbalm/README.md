@@ -31,7 +31,7 @@ Pure petroleum jelly or beeswax products (no sunscreen)
 
 ```
 
-## DIY SPF30 lip balm Lipbalm
+## DIY SPF30 lip balm
 
 Useful, if you are allergic to most cremes, balms etc.
 
