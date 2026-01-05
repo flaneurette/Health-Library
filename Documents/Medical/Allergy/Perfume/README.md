@@ -4,7 +4,7 @@
 
 Peru balsam allergy is a contact allergy (Type IV hypersensitivity). You're not actually allergic to the tree or its fruits, but to specific chemical compounds found in the resin of the *Myroxylon balsamum* tree.
 
-> Quick advise: avoid all perfume, perfume compounds, addatives and skin care products with parfume chemicals.
+> Quick advise: avoid all perfume, perfume compounds, additives and skin care products with parfume chemicals.
 
 
 ### Important Points:
