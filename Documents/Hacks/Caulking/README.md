@@ -14,6 +14,11 @@
    
 ---
 
+### Caution
+
+> Always use fireproof caulking agents or foams. If in doubt, use cement-type caulks. (harder to remove though)
+> Be extra careful around central heaters. Only use a special caulk for this, because not every caulk can be used, even if it is fireproof! If in doubt, use glasswool instead.
+
 ### Where to caulk/seal:
 - Around pipes entering/exiting walls (especially under sinks, behind radiators, or where plumbing passes between units)
 - Electrical outlets and switch plates on exterior walls
