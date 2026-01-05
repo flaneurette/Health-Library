@@ -42,16 +42,18 @@ This is a simple, effective SPF30 lip balm recipe using minimal ingredients: a b
 ## Ingredients (for ~15 ml)
 
 ```
-| Ingredient                                 | Amount    | Function                    |
-| ------------------------------------------ | --------- | --------------------------- |
-| Petroleum jelly (Vaseline) or Cocoa Butter | 8 g       | Base / smooth application   |
-| Beeswax (optional for firmness)            | 2 g       | Structure / hardness        |
-| Jojoba or Sunflower Oil                    | 2 g       | Extra smoothness            |
-| Zinc Oxide (non-nano, powder)              | 3 g       | SPF30 UV filter             |
-| Vitamin E                                  | 2-3 drops | Antioxidant, preserves oils |
+| Ingredient                                         | Amount    | Function                    |
+| ---------------------------------------------------| --------- | --------------------------- |
+| Petroleum jelly (Vaseline) or Cocoa Butter         | 8 g       | Base / smooth application   |
+| Beeswax (optional for firmness)                    | 2 g       | Structure / hardness        |
+| Jojoba or Sunflower Oil                            | 2 g       | Extra smoothness            |
+| Zinc Oxide (non-nano, uncoated zinc oxide powder)  | 3 g       | SPF30 UV filter             |
+| Vitamin E                                          | 2-3 drops | Antioxidant, preserves oils |
 ```
 
 > Tip: 3 g of zinc oxide in 15 ml gives roughly SPF30-35. More zinc oxide increases SPF but reduces spreadability.
+
+> Zinc Oxide **must be** non-nano, uncoated zinc oxide powder. (not all zinc oxide is the same)
 
 ---
 
