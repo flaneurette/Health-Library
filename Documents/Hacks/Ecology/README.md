@@ -18,7 +18,8 @@
 - Use lids on pots when cooking: Saves gas/electricity and reduces cooking time.
 - Microwave / toaster oven vs full oven: Heat less volume, less energy.
 - LED lighting: Obvious, but still one of the most effective small swaps.
-- Caulk small holes, also pipes from neighbours (with fireproof caulking) this reduces: heatloss, noise, smells, and insects crawling into your house.
+- Caulk small holes, also pipes from neighbours (with fireproof caulking) this reduces: 
+heatloss, noise, smells, and insects crawling into your house.
   
 ---
 
