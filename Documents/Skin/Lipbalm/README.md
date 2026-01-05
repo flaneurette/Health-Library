@@ -6,7 +6,7 @@ Lips are very sensitive to UV rays and have no natural melanin protection. Alway
 
 > ⚠️ Always check the ingredients of each product, it might contain other substances that you might be allergic too.
 
-> Always wipe off the lipbalm after two hours with a tissue, and reapply a new coat. (to prevent photogegradation and possible toxicity)
+> Always wipe off the lipbalm after two hours with a tissue, and reapply a new coat. (to prevent photo-degradation and possible phototoxicity)
 
 > Never lick your lips if applied, if so, spit it out. That also applies to zinc oxide balms and other mineral based ones.
 
