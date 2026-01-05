@@ -13,7 +13,6 @@ Good known SPF 30+ lipbalms (not extensive list, these received many good review
 - Hipi Faible Tinted Lip Balm SPF30
 - Uriage Bariesun Moisturizing Lipstick SPF30
 - Aesop Protective Lip Balm SPF30 (warning: some natural oils, check it first)
-- Minimalist SPF30 Lip Balm 
 
 Safe alternatives for lip care:
 
