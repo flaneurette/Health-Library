@@ -64,7 +64,8 @@ heatloss, noise, smells, and insects crawling into your house.
 - Buy secondhand or swap: Thrift stores, online marketplaces, or clothing swaps with friends.
 - Wash clothes less often: Most items (jeans, sweaters) don't need washing after every wear.
 - Use natural fibers when possible: Cotton, wool, linen biodegrade better than synthetics and shed fewer microplastics.
-
+- Use enzyme cleaner to soak clothes at 60C water temperature: skip washing machine.
+  
 ---
 
 ### 8. Cleaning & household products
