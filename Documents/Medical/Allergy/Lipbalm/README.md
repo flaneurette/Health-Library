@@ -31,6 +31,72 @@ Pure petroleum jelly or beeswax products (no sunscreen)
 
 ```
 
+## DIY SPF30 lip balm Lipbalm
+
+Useful, if you are allergic to most cremes, balms etc.
+
+This is a simple, effective SPF30 lip balm recipe using minimal ingredients: a base, zinc oxide for UV protection, and optional antioxidant.
+
+---
+
+## Ingredients (for ~15 ml)
+
+```
+| Ingredient                                 | Amount    | Function                    |
+| ------------------------------------------ | --------- | --------------------------- |
+| Petroleum jelly (Vaseline) or Cocoa Butter | 8 g       | Base / smooth application   |
+| Beeswax (optional for firmness)            | 2 g       | Structure / hardness        |
+| Jojoba or Sunflower Oil                    | 2 g       | Extra smoothness            |
+| Zinc Oxide (non-nano, powder)              | 3 g       | SPF30 UV filter             |
+| Vitamin E                                  | 2-3 drops | Antioxidant, preserves oils |
+```
+
+> Tip: 3 g of zinc oxide in 15 ml gives roughly SPF30-35. More zinc oxide increases SPF but reduces spreadability.
+
+---
+
+### Instructions
+
+1. **Melt the base**
+
+   * Combine petroleum jelly, beeswax, and oil in a heatproof bowl.
+   * Melt using a **double boiler** (bowl over simmering water), do not heat directly on flame.
+
+2. **Add antioxidants**
+
+   * Once melted, let the mixture cool slightly (<60°C) and stir in vitamin E.
+
+3. **Add zinc oxide**
+
+   * Slowly add zinc oxide powder while stirring continuously.
+   * Ensure a **smooth, uniform mixture without clumps**.
+
+4. **Pour and set**
+
+   * Pour into a small jar or lip balm tube.
+   * Let it solidify at room temperature or in the fridge for 10-15 minutes.
+
+5. **Usage**
+
+   * Apply a thin layer to lips.
+   * Reapply every 2 hours or after eating/drinking.
+
+---
+
+### Tips for Best Results
+
+* Use **non-nano zinc oxide** for safe, physical UV protection.
+* Avoid adding fragrances to prevent allergic reactions.
+* Store in a sealed container at room temperature; shelf life ~6 months.
+
+---
+
+Optional: For ultra-simple sensitive skin version, you can use just **petroleum jelly + zinc oxide + vitamin E**. This eliminates all other ingredients for maximum safety.
+
+---
+
+## List other commercial balms.
+
 ### Laboratoires de Biarritz Lip Balm SPF30
 - Simple & effective
 - Good price-quality ratio
