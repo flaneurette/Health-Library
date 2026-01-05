@@ -17,6 +17,7 @@
 ### Caution
 
 > Always use fireproof caulking agents or foams. If in doubt, use cement-type caulks. (harder to remove though)
+
 > Be extra careful around central heaters. Only use a special caulk for this, because not every caulk can be used, even if it is fireproof! If in doubt, use glasswool instead.
 
 ### Where to caulk/seal:
