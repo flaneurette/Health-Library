@@ -2,7 +2,9 @@
 
 Lips are very sensitive to UV rays and have no natural melanin protection. Always choose a lip balm with UVA and UVB blocking properties (SPF 30+) when possible to protect against sun damage, premature aging, and skin cancer. If possible, avoid chemical sun protection, unperfumed, and use **mineral** based lipbalms to minimize risks.
 
-> ⚠️ Always check the ingredients of each product, it might contain other chemicals that you might be allergic too.
+> Note: "natural" substances does not automatically mean "safe".
+
+> ⚠️ Always check the ingredients of each product, it might contain other substances that you might be allergic too.
 
 > Quick reference list:
 
