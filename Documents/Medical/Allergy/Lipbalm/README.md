@@ -44,7 +44,7 @@ Pure petroleum jelly or beeswax products (no sunscreen)
 ### Uriage Bariesun Moisturizing Lipstick SPF30
 - Moisturizing formula
 - Medical-grade sun protection
-- Fragrance-free
+- Some perfume!
 
 ### Aesop Protective Lip Balm SPF30
 - ⚠️ Warning: Contains some natural oils
