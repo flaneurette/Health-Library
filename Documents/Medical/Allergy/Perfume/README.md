@@ -7,7 +7,7 @@ Peru balsam allergy is a contact allergy (Type IV hypersensitivity). You're not 
 > Quick advise: avoid all perfume, perfume compounds, additives and skin care products with parfume chemicals.
 
 
-### Important Points:
+### Important points:
 - It's a contact allergy - works through skin contact, not through eating
 - You're allergic to individual chemical compounds that can be found in many products
 - These compounds can be synthetic or naturally occurring in other plants
