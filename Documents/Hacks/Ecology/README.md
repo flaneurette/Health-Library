@@ -73,7 +73,8 @@ heatloss, noise, smells, and insects crawling into your house.
 - Reusable cleaning cloths: Old t-shirts or towels instead of paper towels.
 - Bar soap over liquid: Less packaging, lasts longer (for hands, body, even dishes).
 - Refill stations: Some stores let you refill detergents, shampoos, etc. in your own containers.
-
+- Clean toilet bowl with Citric Acid. Cheap, and cleans all stains instantly.
+  
 ---
 
 ### 9. Digital & tech habits
