@@ -7,7 +7,7 @@ Always check the ingredients of each product, it might contain other chemicals t
 > Quick reference list:
 
 ```
-Good known SPF 30+ lipbalms
+Good known SPF 30+ lipbalms (not extensive list, these received many good reviews)
 
 - Laboratoires de Biarritz Lip Balm SPF30
 - Hipi Faible Tinted Lip Balm SPF30
