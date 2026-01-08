@@ -34,7 +34,7 @@ Wattage saved: 20–50 W
 Yearly energy: ~175–438 kWh
 Environmental friendly: Very.
 Fire risk reduced: Yes.
-Exceptions: Router, NAS, Fridge, freezer, Smoke alarms, Medical devices.
+Exceptions: Router, NAS, fridge, freezer, smoke alarms, medical devices.
 ```
 
 ### Coffeeshop vists
