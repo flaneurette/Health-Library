@@ -4,6 +4,19 @@ A pinch-penny is someone who is extremely careful with money, often to the point
 
 The classic pinch-penny worries about every small expense, clips coupons religiously, reuses items until they're completely worn out, and thinks twice before spending even modest sums. They might be the person who brings lunch from home every day, buys generic brands exclusively, or drives across town to save a few cents per gallon on gas.
 
+By following this guide below, you could practically save lots of money:
+
+1. Low estimate: ~€5,000/year
+2. High estimate: ~€10,000/year
+
+> That’s roughly €400-€800 per month, just from being strategic about small but frequent expenses.
+
+> Debt avoidance and early payoff savings would add thousands more.
+
+Over 10 years, this amounts to **€100.000 euro.** - enough money for a serious downpayment on a house.
+
+> Extra bonus: you help save the environment.
+
 ---
 
 # Practical penny pinching
@@ -212,4 +225,84 @@ Achieving specific goals: When saving for a down payment on a house, a wedding, 
 
 The key distinction is often between being a pinch-penny by necessity or strategy versus by personality. When it's a deliberate choice with clear goals, penny-pinching becomes a powerful financial tool rather than a limiting mindset. The most successful approach is usually being strategic about where to cut, focusing on high-frequency, low-value expenses while still investing in things that genuinely improve quality of life, health, or earning potential.
 
+
+
+---
+
+# Potential savings a year.
+
+## Estimated Yearly Savings from Penny-Wise Tips
+
+```
+| Tip                                         | Savings (€ / year)  | Notes                                                                              |
+| ------------------------------------------- | ------------------- | ---------------------------------------------------------------------------------- |
+| Pay off debt faster                         | Variable / indirect | Biggest “savings” is interest avoided; depends on debt. Not included in total.     |
+| Disable Wi-Fi on router                     | 8–39                | Depends on bands disabled                                                          |
+| Disable energy vampires                     | 52–131              | Via power strip/master switch                                                      |
+| Quit cloud backup                           | 50–150              | Using a cheap VPS instead of paid cloud                                            |
+| Quit coffee shop visits                     | 750–1,250           | 1 coffee/day                                                                       |
+| DIY water heating                           | ~12                 | Using kettle instead of microwave                                                  |
+| Quit machine washing / handwash clothes     | 330–500             | Electricity + water + appliance wear                                               |
+| Eco-friendly cleaning                       | negligible          | Cost savings minor (maybe €10–30/year)                                             |
+| Go refurbished                              | 100–1,000           | Depends on purchases avoided                                                       |
+| Monitor auctions                            | 100–500             | Occasional discounts                                                               |
+| Meal prep & home cooking                    | 1,500–3,000         | Replaces lunches / dining out                                                      |
+| Avoid impulse purchases                     | 500–1,000           | Wait 24h rule                                                                      |
+| Buy high-quality, durable items             | 100–500             | Replacement avoidance                                                              |
+| Optimize home energy use                    | 50–300              | Efficient lights, insulation, etc.                                                 |
+| Reuse, repair, repurpose                    | 100–500             | Avoided purchases                                                                  |
+```
+
+---
+
+### Step 1: Low-end estimate
+
+* Wi-Fi: 8
+* Energy vampires: 52
+* Cloud backup: 50
+* Coffee: 750
+* Water heating: 12
+* Handwashing clothes: 330
+* Cleaning: 10
+* Refurbished: 100
+* Auctions: 100
+* Meal prep: 1,500
+* Impulse purchases: 500
+* Durable items: 100
+* Home energy: 50
+* Reuse/repair: 100
+
+Low-end total: €4,762/year
+
+---
+
+### Step 2: High-end estimate
+
+* Wi-Fi: 39
+* Energy vampires: 131
+* Cloud backup: 150
+* Coffee: 1,250
+* Water heating: 12
+* Handwashing clothes: 500
+* Cleaning: 30
+* Refurbished: 1,000
+* Auctions: 500
+* Meal prep: 3,000
+* Impulse purchases: 1,000
+* Durable items: 500
+* Home energy: 300
+* Reuse/repair: 500
+
+High-end total: €9,882/year
+
+---
+
+### Summary
+
+* Low estimate: ~€4,700/year
+* High estimate: ~€9,900/year
+
+> That’s roughly €400–€800 per month, just from being strategic about small but frequent expenses.
+
+---
 
