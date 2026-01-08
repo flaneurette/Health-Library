@@ -151,9 +151,9 @@ Enzyme cleaners: clean all stains, bacterial biofilms on glassware. Can clean ga
 Environmental friendly: Very.
 ```
 
-### Go refursbished
+### Go refurbished
 
-Refursbished appliances often work just as well as new ones, some have still warranty on it
+Refurbished appliances often work just as well as new ones, some have still warranty on it
 
 ```
 Savings: Varies, perhaps €100-€1000/year
