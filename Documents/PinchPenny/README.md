@@ -107,6 +107,35 @@ Table of costs.
 | Gas Stove (natural gas)       | 40-45%             | 0.207-0.233 kWh equivalent (~0.019-0.022 m³) | €0.019-€0.022 | 5-6 min     | Cheapest in energy cost, but efficiency low; heat lost to air; CO₂ emitted |
 ```
 
+### Quit machine washing.
+
+Start doing manual handwashing of cloths at 60°C temperature. Benefits: cheaper, clothes last much longer (sometimes decades) and it is eco-friendly if you use enzyme cleaner.
+Use the sink, or a plastic bucket to hand soak, wash and rotate water.
+
+> TIP: Use enzyme cleaner, such as Biotex brand. Safer for clothes, eco-friendly (enzymes) and cheaper.
+
+```
+Savings: roughly €330-410/year up to €500 (if any repairs)
+Electricity: €150-180 per year
+Water: €180-230 per year
+Machine costs, parts, replacement: €500-3000
+Environmental friendly: Very.
+```
+
+# Other tips
+
+### Cleaning
+
+Instead of using dangerous cleaning chemicals for the enviroment (cloor/chloric acid, perfumes, chemicals) start using eco-friendly ones.
+
+```
+Citric acid: cheap, and clean very difficult stains/films: toilet bowls
+Vinegar: can clean windows, surfaces.
+Regular soap: can clean many things.
+Enzyme cleaners: clean all stains, bacterial biofilms on glassware. Can clean garden tiles, stone and wood.
+Environmental friendly: Very.
+```
+
 ### Meal prep & home cooking
 
 ```
