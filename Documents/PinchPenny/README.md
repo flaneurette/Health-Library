@@ -239,20 +239,20 @@ The key distinction is often between being a pinch-penny by necessity or strateg
 | Tip                                         | Savings (€ / year)  | Notes                                                                              |
 | ------------------------------------------- | ------------------- | ---------------------------------------------------------------------------------- |
 | Pay off debt faster                         | Variable / indirect | Biggest “savings” is interest avoided; depends on debt. Not included in total.     |
-| Disable Wi-Fi on router                     | 8–39                | Depends on bands disabled                                                          |
-| Disable energy vampires                     | 52–131              | Via power strip/master switch                                                      |
-| Quit cloud backup                           | 50–150              | Using a cheap VPS instead of paid cloud                                            |
-| Quit coffee shop visits                     | 750–1,250           | 1 coffee/day                                                                       |
+| Disable Wi-Fi on router                     | 8-39                | Depends on bands disabled                                                          |
+| Disable energy vampires                     | 52-131              | Via power strip/master switch                                                      |
+| Quit cloud backup                           | 50-150              | Using a cheap VPS instead of paid cloud                                            |
+| Quit coffee shop visits                     | 750-1,250           | 1 coffee/day                                                                       |
 | DIY water heating                           | ~12                 | Using kettle instead of microwave                                                  |
-| Quit machine washing / handwash clothes     | 330–500             | Electricity + water + appliance wear                                               |
-| Eco-friendly cleaning                       | negligible          | Cost savings minor (maybe €10–30/year)                                             |
-| Go refurbished                              | 100–1,000           | Depends on purchases avoided                                                       |
-| Monitor auctions                            | 100–500             | Occasional discounts                                                               |
-| Meal prep & home cooking                    | 1,500–3,000         | Replaces lunches / dining out                                                      |
-| Avoid impulse purchases                     | 500–1,000           | Wait 24h rule                                                                      |
-| Buy high-quality, durable items             | 100–500             | Replacement avoidance                                                              |
-| Optimize home energy use                    | 50–300              | Efficient lights, insulation, etc.                                                 |
-| Reuse, repair, repurpose                    | 100–500             | Avoided purchases                                                                  |
+| Quit machine washing / handwash clothes     | 330-500             | Electricity + water + appliance wear                                               |
+| Eco-friendly cleaning                       | negligible          | Cost savings minor (maybe €10-30/year)                                             |
+| Go refurbished                              | 100-1,000           | Depends on purchases avoided                                                       |
+| Monitor auctions                            | 100-500             | Occasional discounts                                                               |
+| Meal prep & home cooking                    | 1,500-3,000         | Replaces lunches / dining out                                                      |
+| Avoid impulse purchases                     | 500-1,000           | Wait 24h rule                                                                      |
+| Buy high-quality, durable items             | 100-500             | Replacement avoidance                                                              |
+| Optimize home energy use                    | 50-300              | Efficient lights, insulation, etc.                                                 |
+| Reuse, repair, repurpose                    | 100-500             | Avoided purchases                                                                  |
 ```
 
 ---
@@ -304,7 +304,7 @@ High-end total: €9,882/year
 * Low estimate: ~€4,700/year
 * High estimate: ~€9,900/year
 
-> That’s roughly €400–€800 per month, just from being strategic about small but frequent expenses.
+> That’s roughly €400-€800 per month, just from being strategic about small but frequent expenses.
 
 ---
 
