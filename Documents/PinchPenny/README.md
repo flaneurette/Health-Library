@@ -72,7 +72,7 @@ Notes: You'll also learn how to install and maintain a VPS, backups and learn li
 
 > TIP: instead of just doing unencrypted cloud backups (standard), collect all data first, zip it and then encrypt the zip properly before making the cloud backup. Good schedule: every quarter make a manual encrypted cloud backup. 
 
-### Quit coffeeshop vists
+### Quit coffeeshop visits
 
 Daily coffee shop visits at €5 a coffee
 
