@@ -16,11 +16,11 @@ Humans are often poor at intuitively understanding interest and how debt compoun
 Benefits:
 
 ```
-Saved money on interest can be used to INVEST or make a durable item purchase.
-Reduces interest paid significantly
-Frees up future cash flow
-Reduces financial stress
-Improves credit score
+- Reduces interest paid significantly
+- Frees up future cash flow
+- Reduces financial stress
+- Improves credit score
+- Saved money on interest can be used to INVEST or make a durable item purchase.
 ```
 
 > Tip: Treat debt like a fire - the longer it burns, the more damage it does. Quick action is always the cheapest and safest path.
