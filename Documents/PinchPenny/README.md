@@ -45,6 +45,9 @@ If you use both WiFi bands, which can be default, you can save 39 euros. For tha
 
 
 ### Disable energy vampires
+
+Disable all standby appliances at night or when not in use: buy a powerstrip with a on/off switch, and make it a habit.
+
 ```
 Savings: ~€52-€131/year
 Standby devices OFF via master switch (via electric strip)
