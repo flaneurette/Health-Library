@@ -29,10 +29,10 @@ If you use both WiFi bands, which can be default, you can save 39 euros. For tha
 
 ### Disable energy vampires
 ```
-Savings: ~€52–€131/year
+Savings: ~€52-€131/year
 Standby devices OFF via master switch (via electric strip)
-Wattage saved: 20–50 W
-Yearly energy: ~175–438 kWh
+Wattage saved: 20-50 W
+Yearly energy: ~175-438 kWh
 Environmental friendly: Very.
 Fire risk reduced: Yes.
 Exceptions: Router, NAS, fridge, freezer, smoke alarms, medical devices.
@@ -61,17 +61,17 @@ Table of costs.
 ```
 | Appliance                     | Typical Efficiency | Energy Used                                  | Cost per L    | Approx Time | Notes                                                                      |
 | ----------------------------- | ------------------ | -------------------------------------------- | ------------- | ----------- | -------------------------------------------------------------------------- |
-| Electric Kettle               | 85%                | 0.11 kWh                                     | €0.033        | 3–4 min     | Fast, minimal loss, uses almost all energy to heat water                   |
-| Microwave                     | 60%                | 0.155 kWh                                    | €0.047        | 5–6 min     | Slower, less efficient, energy lost in oven cavity                         |
-| Induction Cooktop (1 kW)      | 70–75%             | 0.124–0.133 kWh                              | €0.037–0.040  | 4–5 min     | Very efficient for pots; faster than traditional electric stove            |
-| Electric Stove / Hotplate     | 60–65%             | 0.143–0.155 kWh                              | €0.043–0.047  | 6–7 min     | Energy lost to heating plate and air; slower                               |
-| Gas Stove (natural gas)       | 40–45%             | 0.207–0.233 kWh equivalent (~0.019–0.022 m³) | €0.019–€0.022 | 5–6 min     | Cheapest in energy cost, but efficiency low; heat lost to air; CO₂ emitted |
+| Electric Kettle               | 85%                | 0.11 kWh                                     | €0.033        | 3-4 min     | Fast, minimal loss, uses almost all energy to heat water                   |
+| Microwave                     | 60%                | 0.155 kWh                                    | €0.047        | 5-6 min     | Slower, less efficient, energy lost in oven cavity                         |
+| Induction Cooktop (1 kW)      | 70-75%             | 0.124-0.133 kWh                              | €0.037-0.040  | 4-5 min     | Very efficient for pots; faster than traditional electric stove            |
+| Electric Stove / Hotplate     | 60-65%             | 0.143-0.155 kWh                              | €0.043-0.047  | 6-7 min     | Energy lost to heating plate and air; slower                               |
+| Gas Stove (natural gas)       | 40-45%             | 0.207-0.233 kWh equivalent (~0.019-0.022 m³) | €0.019-€0.022 | 5-6 min     | Cheapest in energy cost, but efficiency low; heat lost to air; CO₂ emitted |
 ```
 
 ### Meal prep & home cooking
 
 ```
-Savings: €1,500–€3,000/year
+Savings: €1,500-€3,000/year
 Action: Cook at home and bring lunch to work.
 Notes: Healthier, more control over ingredients, and huge cumulative savings.
 Environmental friendly: Very.
@@ -80,7 +80,7 @@ Environmental friendly: Very.
 ### Avoid impulse purchases
 
 ```
-Savings: €500–€1,000/year
+Savings: €500-€1,000/year
 Action: Wait 24 hours before buying non-essential items.
 Notes: Reduces emotional spending; you often realize you don’t need it.
 Environmental friendly: Very.
@@ -97,7 +97,7 @@ Environmental friendly: Very.
 
 ### Optimize home energy use
 ```
-Savings: €50–€300/year
+Savings: €50-€300/year
 Action: Turn off lights in empty rooms, use efficient appliances, insulate well.
 Notes: Includes smart thermostats, LED lights, and efficient heating.
 Environmental friendly: Very.
@@ -105,7 +105,7 @@ Environmental friendly: Very.
 
 ### Reuse, repair, repurpose
 ```
-Savings: €100–€500/year
+Savings: €100-€500/year
 Action: Repair broken items instead of discarding; reuse containers.
 Notes: Good for wallet and environment; fosters creativity.
 Environmental friendly: Very.
