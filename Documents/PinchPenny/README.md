@@ -16,7 +16,7 @@ Humans are often poor at intuitively understanding interest and how debt compoun
 Benefits:
 
 ```
-interest rates can be used to INVEST or make a durable item purchase.
+Saved money on interest can be used to INVEST or make a durable item purchase.
 Reduces interest paid significantly
 Frees up future cash flow
 Reduces financial stress
