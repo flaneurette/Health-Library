@@ -8,6 +8,21 @@ The classic pinch-penny worries about every small expense, clips coupons religio
 
 # Practical penny pinching
 
+### Pay off any debt quick.
+
+Number one rule: pay off debt as fast as possible, and avoid taking on new debt unless it’s an absolute emergency.
+Humans are often poor at intuitively understanding interest and how debt compounds. Even small balances can grow rapidly if left unchecked, and the cost over time is often far higher than expected.
+
+Benefits:
+
+```
+interest rates can be used to INVEST or make a durable item purchase.
+Reduces interest paid significantly
+Frees up future cash flow
+Reduces financial stress
+Improves credit score
+```
+
 ### Disable WiFi on your Router
 
 Saves about a minimum of 8 euro's a year, to a maximum of 39 euros a year.
