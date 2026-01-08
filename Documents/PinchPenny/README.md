@@ -24,7 +24,7 @@ Reduced health risk: possible.
 ```
 
 > If you use 2.4Ghz only, you can buy a premium CAT7 cable and wire the desktop for the same price and save 8 euro's a year. For that money, you can run a cheap VPS for hobby projects (12 euros a year)
-If you use both WiFi bands, which can be default, you can save 39 euros. For that money could buy 4 high quality CAT7 cables and wire all devices, including smartphone (converter exists for just 5 euros)
+If you use both WiFi bands, which can be default, you can save 39 euros. For that money could buy 4 high quality CAT7 cables and wire all devices, including smartphone (USBC to RJ45 converters exists, for just 5 euros)
 
 
 ### Disable energy vampires
