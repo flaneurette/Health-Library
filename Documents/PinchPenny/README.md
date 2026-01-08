@@ -29,7 +29,7 @@ Improves credit score
 
 Saves about a minimum of 8 euro's a year, to a maximum of 39 euros a year.
 You can buy a premium CAT7 cable for the same amount, and wire the desktop/laptop and even your phone with cheap converter: retro, safe and very stable connections.
-There also might be health benefits, as some scientific research indicate serious health risks with prolonged exposure to WiFi, uncertain yet, but better be safe than sorry.
+There also might be health benefits, as some scientific research indicate *serious health risks* with prolonged indoor exposure to WiFi, uncertain yet, but better be safe than sorry.
 
 ```
 Savings: ~€39/year
