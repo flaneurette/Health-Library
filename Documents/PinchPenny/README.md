@@ -43,7 +43,7 @@ Exceptions: Router, NAS, fridge, freezer, smoke alarms, medical devices.
 Daily coffee shop visits at €5 a coffee
 
 ```
-Savings: ~€€750-1,250/year
+Savings: ~€750-1,250/year
 Environmental friendly: Very.
 ```
 
