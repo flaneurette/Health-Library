@@ -125,7 +125,7 @@ Table of costs.
 ### Quit machine washing.
 
 Start doing manual handwashing of cloths at 60°C temperature. Benefits: cheaper, clothes last much longer (sometimes decades) and it is eco-friendly if you use enzyme cleaner.
-Use the sink, or a plastic bucket to hand soak, wash and rotate water.
+Use the sink, or a plastic bucket to hand soak, wash, rotate and gently wring water. It's easy!
 
 > TIP: Use enzyme cleaner, such as Biotex brand. Safer for clothes, eco-friendly (enzymes) and cheaper.
 
