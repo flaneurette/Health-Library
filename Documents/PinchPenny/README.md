@@ -142,7 +142,7 @@ Environmental friendly: Very.
 
 ### Cleaning
 
-Instead of using dangerous cleaning chemicals for the enviroment (chloor/chloric acid, perfumes, chemicals) start using eco-friendly ones:
+Instead of using dangerous cleaning chemicals for the environment (chloor/chloric acid, perfumes, chemicals) start using eco-friendly ones:
 
 ```
 Citric acid: cheap, and clean very difficult stains/films: toilet bowls
