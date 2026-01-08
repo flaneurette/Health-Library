@@ -42,7 +42,7 @@ Exceptions: Router, NAS, fridge, freezer, smoke alarms, medical devices.
 
 Some cloud backup may seem free, but comes at a very high cost: loss of privacy, rights and so on. For more private backups, you often pay premium. About €5-€15 /month.
 
-A cheap VPS costs about : €12-€15/year - see: https://lowendbox.com for cheap VPS.
+Cheap alternative: A cheap VPS costs about €12-€15/year - see: https://lowendbox.com for cheap VPS.
 
 ```
 Savings: €50-€150/year, plus very good privacy! (immeasurable costs?)
