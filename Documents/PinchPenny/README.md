@@ -23,6 +23,8 @@ Reduces financial stress
 Improves credit score
 ```
 
+> Tip: Treat debt like a fire - the longer it burns, the more damage it does. Quick action is always the cheapest and safest path.
+
 ### Disable WiFi on your Router
 
 Saves about a minimum of 8 euro's a year, to a maximum of 39 euros a year.
