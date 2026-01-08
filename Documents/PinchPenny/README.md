@@ -11,7 +11,7 @@ By following this guide below, you could practically save lots of money:
 
 > That’s roughly €400-€800 per month, just from being strategic about small but frequent expenses.
 
-> Debt avoidance and early payoff savings would add thousands more.
+> Debt avoidance and early payoff savings would add thousands more. (not added in estimate!)
 
 Over 10 years, this amounts to **€100.000** if maximum frugality is applied. That is enough money for a serious downpayment on a house.
 
