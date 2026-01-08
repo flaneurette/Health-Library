@@ -15,7 +15,7 @@ By following this guide below, you could practically save lots of money:
 
 Over 10 years, this amounts to **€100.000** if maximum frugality is applied. That is enough money for a serious downpayment on a house.
 
-> Extra bonus: you help save the environment.
+> ♻️ Extra bonus: you help save the environment.
 
 ---
 
