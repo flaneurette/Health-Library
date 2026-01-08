@@ -130,10 +130,11 @@ Use the sink, or a plastic bucket to hand soak, wash and rotate water.
 > TIP: Use enzyme cleaner, such as Biotex brand. Safer for clothes, eco-friendly (enzymes) and cheaper.
 
 ```
-Savings: roughly €330-410/year up to €500 (if any repairs)
+Savings: roughly €330-410/year up to €1200 (if any repairs, and clothes last longer)
 Electricity: €150-180 per year
 Water: €180-230 per year
 Machine costs, parts, replacement: €500-3000
+Clothes last longer: €500-€1000/yearly
 Environmental friendly: Very.
 ```
 
