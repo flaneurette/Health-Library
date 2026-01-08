@@ -136,6 +136,25 @@ Enzyme cleaners: clean all stains, bacterial biofilms on glassware. Can clean ga
 Environmental friendly: Very.
 ```
 
+### Go refursbished
+
+Refursbished appliances often work just as well as new ones, some have still warranty on it
+
+```
+Savings: Varies, perhaps €100-€1000/year
+Example: last years smartphone, instead of brand new.
+Environmental friendly: Very.
+```
+
+### Monitor auctions
+
+Many online auctions list store product returns, packages that have been returned with little damage (like only box damage). Sometimes giving 50% discount.
+
+```
+Savings: 30%-50% discount, Varies, perhaps €100-€500/year
+Environmental friendly: Very.
+```
+
 ### Meal prep & home cooking
 
 ```
