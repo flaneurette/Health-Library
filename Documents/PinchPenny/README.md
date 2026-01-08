@@ -245,7 +245,7 @@ The key distinction is often between being a pinch-penny by necessity or strateg
 | Quit coffee shop visits                     | 750-1,250           | 1 coffee/day                                                                       |
 | DIY water heating                           | ~12                 | Using kettle instead of microwave                                                  |
 | Quit machine washing / handwash clothes     | 330-500             | Electricity + water + appliance wear                                               |
-| Eco-friendly cleaning                       | negligible          | Cost savings minor (maybe €10-30/year)                                             |
+| Eco-friendly cleaning                       | negligible          | Cost savings minor, but very eco friendly!                                         |
 | Go refurbished                              | 100-1,000           | Depends on purchases avoided                                                       |
 | Monitor auctions                            | 100-500             | Occasional discounts                                                               |
 | Meal prep & home cooking                    | 1,500-3,000         | Replaces lunches / dining out                                                      |
