@@ -4,7 +4,7 @@ A pinch-penny is someone who is extremely careful with money, often to the point
 
 The classic pinch-penny worries about every small expense, clips coupons religiously, reuses items until they're completely worn out, and thinks twice before spending even modest sums. They might be the person who brings lunch from home every day, buys generic brands exclusively, or drives across town to save a few cents per gallon on gas.
 
-By following this guide below, you could practically save lots of money:
+By following this guide below, you could practically save lots of money with little effort:
 
 1. Low estimate: ~€5,000/year
 2. High estimate: ~€10,000/year
@@ -16,6 +16,8 @@ By following this guide below, you could practically save lots of money:
 Over 10 years, this amounts to **€100.000** if maximum frugality is applied. That is enough money for a serious downpayment on a house.
 
 > ♻️ Extra bonus: you help save the environment.
+
+Most tips can be started or accomplished, in just a day of work.
 
 ---
 
