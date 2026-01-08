@@ -85,6 +85,8 @@ Environmental friendly: Very.
 
 Using a electric kettle can save you money.
 
+Electricity maybe cheaper than gas, if tax on gas is high, expected in the future because of emission/green taxes on gas.
+
 ```
 Savings: varies, maybe €12/year
 Environmental friendly: Very.
