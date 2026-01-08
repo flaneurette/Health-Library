@@ -65,7 +65,7 @@ Free backup software: Nextcloud, Seafile, or similar
 
 ```
 Savings: €50-€150/year, plus very good privacy! (immeasurable costs?)
-Action: Get a cheap VPS, 30+ GB storage, install free "backup cloud software". 
+Action: Get a cheap VPS, 30+ GB storage, install "free backup cloud software". 
 Action: Disable default cloud backups from your phone, install free app to use your VPS server instead.
 Notes: You'll also learn how to install and maintain a VPS, backups and learn linux security, good skills to have!
 ```
