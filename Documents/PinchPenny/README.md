@@ -34,7 +34,7 @@ There also might be health benefits, as some scientific research indicate seriou
 ```
 Savings: ~€39/year
 Wi-Fi on both bands
-Wattage: 15 W
+Wattage: 7-15 W
 Yearly energy: ~131 kWh
 Environmental friendly: Yes.
 Reduced health risk: possible.
