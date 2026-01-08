@@ -38,7 +38,7 @@ Fire risk reduced: Yes.
 Exceptions: Router, NAS, fridge, freezer, smoke alarms, medical devices.
 ```
 
-### Coffeeshop vists
+### Quit coffeeshop vists
 
 Daily coffee shop visits at €5 a coffee
 
