@@ -42,7 +42,6 @@ Priority: Survival essentials
 | Pasta (5kg) | Lidl/Aldi | €7 | Various shapes |
 | Canned beans (12 cans) | Jumbo/AH | €12 | Kidney, white, chickpeas |
 | Canned tomatoes (12 cans) | Lidl | €9 | Peeled/chopped |
-| Canned tuna (12 cans) | Action/Lidl | €15 | In water/oil |
 | Cooking oil (2L) | Aldi | €6 | Sunflower/canola |
 | Salt (3kg) | Jumbo | €3 | Infinite shelf life |
 | Sugar (3kg) | Lidl | €4 | Baking + preservation |
