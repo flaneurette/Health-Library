@@ -2,7 +2,7 @@
 
 €100/month budget, The Netherlands-focused, Inflation-optimized.
 
-In as little as 10 years, you could earn at least a €1,000 to €3,000 euro's by dodging inflation and smart buying, and following this guide.
+In as little as 2 to 10 years, you could earn at least a €1,000 to €3,000 euro's by dodging inflation and smart buying, and following this guide.
 
 ## 10-YEAR SAVINGS
 
