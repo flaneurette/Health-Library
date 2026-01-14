@@ -1,6 +1,8 @@
 # 24-Month Strategic Stockpile Building Plan
 
-€100/month budget, Netherlands-focused, Inflation-optimized
+€100/month budget, Netherlands-focused, Inflation-optimized.
+
+In 10 years time, inflation can rise to about 25%. In short: buying early could give you 25% discount.
 
 In as little as 2 to 10 years, you could save €900 to €7,000 by dodging inflation through smart buying and following this guide.
 

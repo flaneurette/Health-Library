@@ -4,6 +4,8 @@ For inflation protection, scarcity preparedness, and emergency readiness
 
 Sometimes, buying things in bulk is very cheap. Especially if inflation rises year by year. The cost may be relatively high upfront, but you save a lot of money drawn out over years, or even a decade. Making it a very good investment that yields 100%.
 
+In 10 years time, inflation can rise to about 25%. In short: buying early could give you 25% discount.
+
 ---
 
 ## 1. Food & Water Essentials
