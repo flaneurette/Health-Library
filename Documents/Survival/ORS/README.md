@@ -69,10 +69,6 @@ Instructions:
 
 ---
 
-Alright, let's break it down carefully. We'll estimate how long a person could survive on just sugar, salt, water, basically using a crude ORS setup. I'll go step by step.
-
----
-
 ### 1. Calories from sugar
 
 * 1 teaspoon of sugar ≈ 4 grams ≈ 16 kcal
