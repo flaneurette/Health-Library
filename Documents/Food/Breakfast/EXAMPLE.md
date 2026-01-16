@@ -58,7 +58,7 @@ Dinner total: ~1,285 mg
 
 ---
 
-### Evening Snack (10:00 PM)
+### Evening Snack (9:00 - 10:00 PM)
 
 Helps to overcome a 8 hour long fast (sleeping)
 
@@ -67,12 +67,12 @@ Helps to overcome a 8 hour long fast (sleeping)
 
 Evening total: 125-335 mg
 
-### 30–60 min before bed:
+### 30-60 min before bed:
 
 * 2 walnuts (to prevent stommach upset during the night)
-* Magnesium glycinate (200–300 mg)
+* Magnesium glycinate (200-300 mg)
 * Zinc picolinate (if you choose ZMA combo)
-* L‑theanine (100–200 mg) or regular tea.
+* L‑theanine (100-200 mg) or regular tea.
 * Optional: a herbal tea like green tea, chamomile, valerian.
 * Optional: cup of water + tiny pinch of salt. (especially in summer, or when very tired or sweating)
 
