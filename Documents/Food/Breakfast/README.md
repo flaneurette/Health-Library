@@ -52,10 +52,10 @@ Then add seeds, fruits, nuts, sweetners or anything else.
 
 Serve and and enjoy.
 
-Step 5-6: Physical removal of surface contaminants without nutrient loss
-Step 7: Heat pasteurization (kills bacteria, parasites, eggs if somehow present)
-Step 8: Phytic acid reduction for better mineral absorption
-Step 10: Makes it edible and protects heat-sensitive additions
+> Step 5-6: Physical removal of surface contaminants without nutrient loss (cold water, no leeching)
+> Step 7: Heat pasteurization (kills bacteria, parasites, eggs if somehow present)
+> Step 8: Phytic acid reduction for better mineral absorption
+> Step 10: Makes it edible and protects heat-sensitive additions
 
 ---
 
