@@ -16,6 +16,8 @@ All mg's are potassium.
 
 Breakfast total: ~480 mg
 
+> TIP: After the walnuts, take a small vitamin stack that requires fat soluble vitamins, like resveratrol.
+
 ---
 
 ### Mid-Morning Snack (optional, 10:30 AM)
