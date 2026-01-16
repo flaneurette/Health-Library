@@ -74,7 +74,7 @@ Evening total: 125-335 mg
 * Zinc picolinate (if you choose ZMA combo)
 * L‑theanine (100–200 mg) or regular tea.
 * Optional: a herbal tea like green tea, chamomile, valerian.
-* Optional: cup of water + tiny pinch of salt.
+* Optional: cup of water + tiny pinch of salt. (especially in summer, or when very tired or sweating)
 
 Drinking close before bedtime is very good as **sleep fasting** can dehydrate someone.
 
