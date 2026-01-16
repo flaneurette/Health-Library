@@ -41,16 +41,21 @@ A healthy breakfast should:
 2. Store properly: airtight container, cool, dry place. This prevents molds -> toxins. (for long term: freeze them)
 3. Avoid oats with any smell, clumping, or discoloration -> toxins.
 4. Rotate and consume oats within a reasonable timeframe - don’t keep raw oats for years.
-5. Before using oats, soak them in boiling water from a **watercooker** for a few minutes, about 2-3 min.
-6. Then use a sieve to remove the water, removes any fine debris, some bacteria, eggs, cells, and perhaps a few toxins (not much)
-7. Add new boiling water, fill bowl to the brim
-8. Add a pinch of lemon juice or citric acid to neutralize
+5. Before using oats, wash them in cold water for a few minutes, about 2-3 min.
+6. Then use a sieve to remove the water, it removes any fine debris, some bacteria, eggs, cells, and perhaps a few toxins (not much)
+7. Add them in a bowl, then add boiling water from a **watercooker**, fill bowl to the brim (kills any remaining bacteria, cells, eggs and so on.)
+8. Add a pinch of lemon juice or citric acid to remove phytic acid in oats.
 9. Stir well
 10. Let it cool for 10-15 minutes
 
 Then add seeds, fruits, nuts, sweetners or anything else.
 
 Serve and and enjoy.
+
+Step 5-6: Physical removal of surface contaminants without nutrient loss
+Step 7: Heat pasteurization (kills bacteria, parasites, eggs if somehow present)
+Step 8: Phytic acid reduction for better mineral absorption
+Step 10: Makes it edible and protects heat-sensitive additions
 
 ---
 
