@@ -71,7 +71,7 @@ Evening total: 125-335 mg
 
 * 2 walnuts (to prevent stommach upset during the night)
 * Magnesium glycinate (200–300 mg)
-* Zinc (if you choose ZMA combo)
+* Zinc picolinate (if you choose ZMA combo)
 * L‑theanine (100–200 mg) or regular tea.
 * Optional: a herbal tea like green tea, chamomile, valerian.
 * Optional: cup of water + tiny pinch of salt.
