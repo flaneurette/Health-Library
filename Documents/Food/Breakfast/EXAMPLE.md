@@ -69,11 +69,10 @@ Evening total: 125-335 mg
 
 ### 30-60 min before bed:
 
-* 2 walnuts (to prevent stommach upset during the night)
+* 2 walnuts (to prevent stommach upset during the night, stabilize blood sugar)
 * Magnesium glycinate (200-300 mg)
-* Zinc picolinate (if you choose ZMA combo)
+* Zinc picolinate (or choose ZMA combo)
 * L‑theanine (100-200 mg) or regular tea.
-* Optional: Vitamin D3
 * Optional: a herbal tea like green tea, chamomile, valerian.
 * Optional: cup of water + tiny pinch of salt. (especially in summer, or when very tired or sweating)
 
