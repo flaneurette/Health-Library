@@ -2,6 +2,8 @@
 
 A full-day vegetarian + cheese plan designed to naturally hit a 3,000+ mg potassium target (healthy target)
 
+> No need of extra (potassium) supplements.
+
 ---
 
 ### Breakfast (8:00 AM)
