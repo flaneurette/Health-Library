@@ -4,6 +4,8 @@ A full-day vegetarian + cheese plan designed to naturally hit a 3,000+ mg potass
 
 > No need of extra (potassium) supplements.
 
+All mg's are potassium.
+
 ---
 
 ### Breakfast (8:00 AM)
@@ -61,14 +63,14 @@ Helps to overcome a 8 hour long fast (sleeping)
 * Handful of walnuts -> 125 mg
 * Optional: half banana -> +210 mg
 
-Evening total: 125–335 mg
+Evening total: 125-335 mg
 
 ---
 
 ### Daily Total
 
-* Without the optional half banana: ~3,000 mg 
-* With optional half banana: ~3,200–3,300 mg 
+* Without the optional half banana: ~3,000 mg potassium
+* With optional half banana: ~3,200-3,300 mg potassium
 
 ---
 
