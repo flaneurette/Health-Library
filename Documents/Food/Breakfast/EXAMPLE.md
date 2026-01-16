@@ -67,6 +67,17 @@ Helps to overcome a 8 hour long fast (sleeping)
 
 Evening total: 125-335 mg
 
+### 30–60 min before bed:
+
+* 2 walnuts (to prevent stommach upset during the night)
+* Magnesium glycinate (200–300 mg)
+* Zinc (if you choose ZMA combo)
+* L‑theanine (100–200 mg) or regular tea.
+* Optional: a herbal tea like green tea, chamomile, valerian.
+* Optional: cup of water + tiny pinch of salt.
+
+Drinking close before bedtime is very good as **sleep fasting** can dehydrate someone.
+
 ---
 
 ### Daily Total
