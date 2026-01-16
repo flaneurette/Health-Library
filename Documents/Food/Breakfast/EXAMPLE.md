@@ -58,11 +58,11 @@ Dinner total: ~1,285 mg
 
 ---
 
-### Evening Snack (9:00 - 10:00 PM)
+### Evening Snack (9:00 PM)
 
 Helps to overcome a 8 hour long fast (sleeping)
 
-* Handful of walnuts -> 125 mg
+* Handful of walnuts or popcorn -> 125 mg
 * Optional: half banana -> +210 mg
 
 Evening total: 125-335 mg
