@@ -2,6 +2,10 @@
 
 ORS stands for Oral Rehydration Solution. It's a simple, life-saving mixture used to treat dehydration, especially from diarrhea, vomiting, or heat-related illness. It replaces water, salts, and sugar in the right proportions so the body can absorb them efficiently.
 
+For full overview, consult this document: 
+
+https://emergencycarebc.ca/clinical_resource/clinical-summary/oral-rehydration-for-adults-treatment/
+
 ---
 
 ### How it works
