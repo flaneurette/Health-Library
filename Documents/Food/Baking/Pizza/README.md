@@ -167,7 +167,7 @@ Day 1 (30 min active time):
 
 Day 2 (15 min active per pizza):
 - Remove from fridge: 2 hours before
-- Preheat oven: 1 hour
+- Preheat oven: 15 min to 1 hour
 - Shape and bake: 10 min per pizza
 
 ---
