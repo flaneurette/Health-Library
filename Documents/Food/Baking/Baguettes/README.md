@@ -86,6 +86,3 @@ If you want home sourdough baguettes, here's the simple starter recipe:
 - Bake as usual at 230 °C, with steam for a crisp crust
 
 ---
-
-Italian: Fiocchi d'avena (oat flakes, often used generally for oatmeal
-```
