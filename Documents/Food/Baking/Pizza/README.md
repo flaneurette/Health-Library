@@ -1,6 +1,6 @@
 # Authentic Neapolitan Pizza (Napoli Method)
 
-## Ingredients (makes 4 pizzas, ~30 cm diameter)
+### Ingredients (makes 4 pizzas, ~30 cm diameter)
 
 ### For the Dough
 
