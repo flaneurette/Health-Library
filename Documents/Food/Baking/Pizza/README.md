@@ -28,7 +28,7 @@ Note: No oil in the dough. Authentic Neapolitan uses only these four ingredients
 
 | Ingredient                                   | Amount                     |
 | -------------------------------------------- | -------------------------- |
-| San Marzano DOP tomatoes (whole, canned)     | 200 g                      |
+| San Marzano DOP tomatoes (whole, canned)     | 100-200 g                  |
 | Fior di latte or buffalo mozzarella          | 80-100 g per pizza         |
 | Fresh basil leaves                           | 3-4 leaves per pizza       |
 | Extra virgin olive oil                       | for drizzling              |
