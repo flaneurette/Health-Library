@@ -28,6 +28,7 @@ Note: No oil in the dough. Authentic Neapolitan uses only these four ingredients
 
 ## Equipment
 
+- An oven that goes up to 400-450 degrees celsius. (lower temps doesn't really work, sorry.)
 - Large mixing bowl
 - Kitchen scale (essential for accuracy)
 - Dough scraper
