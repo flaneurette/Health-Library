@@ -140,7 +140,7 @@ Note: No oil in the dough. Authentic Neapolitan uses only these four ingredients
 | Fermentation         | 2h room temp optional cold   | 18-24h cold (mandatory)          |
 | Oil in dough         | Often included               | Never                            |
 | Basil timing         | Before baking                | After baking                     |
-| Baking time          | 7-10 minutes                 | 5-7 minutes (or less with heat)  |
+| Baking time          | 7-10 minutes                 | 3-4 minutes                      |
 | Sauce                | Sometimes pre-cooked         | Always raw, hand-crushed         |
 
 ---
