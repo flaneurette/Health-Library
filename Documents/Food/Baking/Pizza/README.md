@@ -181,7 +181,7 @@ Crust doesn't puff:
 - Oven not hot enough, or dough was rolled with a pin (destroys air bubbles).
 
 Bottom is pale:
-- Stone/steel wasn't preheated long enough. Preheat for 1+ hours.
+- Stone/steel wasn't preheated long enough. Preheat for 15min to 1+ hours.
 
 Toppings are soggy:
 - Too much sauce or mozzarella. Use less than you think you need.
