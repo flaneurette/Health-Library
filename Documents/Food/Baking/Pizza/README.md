@@ -14,6 +14,16 @@
 
 Note: No oil in the dough. Authentic Neapolitan uses only these four ingredients.
 
+###  Ingredients (makes 2 pizzas, ~30 cm diameter)
+
+| Ingredient           | Amount                                   |
+| -------------------- | ---------------------------------------- |
+| Tipo 00 flour        | 250 g                                    |
+| Water (room temp)    | 162.5 ml (≈163 ml) (65% hydration)       |
+| Fine sea salt        | 5 g                                      |
+| Fresh yeast          | 0.5 g                                    |
+| Dry yeast            | 0.15 g (if using instead of fresh yeast) |
+
 ### For the Topping (classic Margherita)
 
 | Ingredient                                   | Amount                     |
