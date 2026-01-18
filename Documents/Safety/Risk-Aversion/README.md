@@ -38,6 +38,7 @@
 
 * Many people underestimate low-height falls-stumble from a chair, roof edge, or ladder.
 * Often treated lightly until it causes serious internal injuries.
+* Fall from a truck
 
 ### 8. Accidental suffocation
 
