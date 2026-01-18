@@ -22,7 +22,7 @@ Aspiration can cause serious health complications, including lung infections (as
 
 ### 3. Reducing the Risk
 
-To lower the risk of pill aspiration, it is often safer—when the medication allows it—to:
+To lower the risk of pill aspiration, it is often safer-when the medication allows it-to:
 
 * Crush or crumble tablets
 * Mix the medication into a soft or semi-solid food such as yogurt, applesauce, or another suitable carrier
