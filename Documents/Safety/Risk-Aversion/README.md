@@ -2,6 +2,84 @@
 
 ---
 
+## Seemingly vague or unexpected everyday killers
+
+### 1. Falls
+
+* Could be a slip in the bathroom, tripping over a rug, or even a stair misstep.
+* One of the leading causes of accidental death, especially in older adults.
+
+### 2. Choking
+
+* Food, small objects, or even dental appliances.
+* Happens more often than most realize—especially in elderly or small children.
+
+### 3. Poisoning (including medication errors)
+
+* Overdose, mislabeling, household chemicals, or even mixing meds.
+* Often completely silent until it’s too late.
+
+### 4. Drowning in minimal water
+
+* Bathtubs, buckets, or even heavy rain puddles.
+* “You know how to swim” doesn’t always save you.
+
+### 5. Carbon monoxide poisoning
+
+* From heaters, gas stoves, or faulty furnaces.
+* Invisible, odorless, deadly.
+
+### 6. Fires (non-obvious causes)
+
+* Electrical faults, candles, cooking accidents.
+* People die in their sleep or while distracted—seems mundane until it’s fatal.
+
+### 7. Falls of less than 10 feet
+
+* Many people underestimate low-height falls—stumble from a chair, roof edge, or ladder.
+* Often treated lightly until it causes serious internal injuries.
+
+### 8. Accidental suffocation
+
+* Plastic bags, bedding, or even small children trapped under pillows.
+* Silent and fast.
+
+### 9. Heatstroke / hypothermia in everyday scenarios
+
+* Leaving someone in a hot car, exposure during mild weather, or forgetting hydration.
+* People underestimate the danger in “normal” weather conditions.
+
+### 10. Vehicle incidents not involving collisions
+
+* Being pinned by a car door, backing accidents in driveways, or parking lot mishaps.
+* Happens surprisingly often and feels minor until it’s fatal.
+
+### 11. Medical complications from minor events
+
+* Blood clots after long sitting, minor infections turning septic, or heart arrhythmias triggered by stress.
+* These feel vague and random but are deadly.
+
+### 12. Falls from slippery or “normal” surfaces
+
+* Wet floors, ice patches, bathroom tiles.
+* Low probability individually, but common statistically.
+
+### 13. Suffocation by food or small items during sleep
+
+* Pill aspiration, gum, or even small toy pieces.
+* Rarely expected, but surprisingly frequent in young children.
+
+### 14. Household appliance accidents
+
+* Washing machines, lawn mowers, power tools—even vacuum cords can trip or entangle.
+
+### 15. Struck by objects in the home
+
+* Falling shelves, cabinets, or furniture tipping over.
+* Very common in children and older adults.
+
+---
+
 ### 1. Driving (cars)
 
 * Why it seems safe: Most people drive daily without incident.
