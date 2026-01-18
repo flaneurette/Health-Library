@@ -26,7 +26,7 @@
 
 ### 5. Carbon monoxide poisoning
 
-* From heaters, gas stoves, or faulty furnaces.
+* From heaters, gas stoves, indoor charcoal, or faulty furnaces.
 * Invisible, odorless, deadly.
 
 ### 6. Fires (non-obvious causes)
