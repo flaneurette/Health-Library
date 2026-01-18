@@ -7,7 +7,7 @@
 ### 1. Falls
 
 * Could be a slip in the bathroom, tripping over a rug, or even a stair misstep.
-* One of the leading causes of accidental death, especially in older adults.
+* One of the leading causes of accidental death (tens of thousands), especially in older adults.
 
 ### 2. Choking
 
