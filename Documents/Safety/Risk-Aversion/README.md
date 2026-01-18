@@ -81,6 +81,8 @@
 
 ---
 
+# Common every day risks
+
 ### 1. Driving (cars)
 
 * Why it seems safe: Most people drive daily without incident.
