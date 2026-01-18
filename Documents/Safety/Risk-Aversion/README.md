@@ -120,13 +120,13 @@
 ### 7. Climbing ladders or rooftops
 
 * Why it seems safe: “It’s just a quick fix.”
-* Reality: Falls from even 10–15 feet can cause serious injury or death.
+* Reality: Falls from even 10-15 feet can cause serious injury or death.
 
 ### 8. Contact sports (football, hockey, MMA)
 
 * Why it seems safe: Regular training and helmets give confidence.
 * Reality: Concussions, torn ligaments, and fractures are extremely common.
-* Stat: ~1.6–3.8 million sports-related concussions in the U.S. each year.
+* Stat: ~1.6-3.8 million sports-related concussions in the U.S. each year.
 
 ### 9. Taking medications incorrectly or mixing with alcohol
 
