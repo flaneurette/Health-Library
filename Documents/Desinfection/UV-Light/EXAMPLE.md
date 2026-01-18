@@ -40,3 +40,18 @@ Where:
 
 ---
 
+### Memory jog of basic inverse square law:
+
+$$
+I(d) = \frac{I_0}{d^2}
+$$
+
+Or: I(d) = I0 / (d^2)
+
+Where:
+
+- I(d) = intensity at distance d
+
+- I0 = intensity at reference distance (e.g., 1 m)
+
+- d = distance from the source (same units as I0 reference)
