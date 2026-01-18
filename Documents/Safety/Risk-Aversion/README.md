@@ -12,7 +12,7 @@
 ### 2. Choking
 
 * Food, small objects, or even dental appliances.
-* Happens more often than most realize—especially in elderly or small children.
+* Happens more often than most realize-especially in elderly or small children.
 
 ### 3. Poisoning (including medication errors)
 
@@ -32,11 +32,11 @@
 ### 6. Fires (non-obvious causes)
 
 * Electrical faults, candles, cooking accidents.
-* People die in their sleep or while distracted—seems mundane until it’s fatal.
+* People die in their sleep or while distracted-seems mundane until it’s fatal.
 
 ### 7. Falls of less than 10 feet
 
-* Many people underestimate low-height falls—stumble from a chair, roof edge, or ladder.
+* Many people underestimate low-height falls-stumble from a chair, roof edge, or ladder.
 * Often treated lightly until it causes serious internal injuries.
 
 ### 8. Accidental suffocation
@@ -71,7 +71,7 @@
 
 ### 14. Household appliance accidents
 
-* Washing machines, lawn mowers, power tools—even vacuum cords can trip or entangle.
+* Washing machines, lawn mowers, power tools-even vacuum cords can trip or entangle.
 
 ### 15. Struck by objects in the home
 
