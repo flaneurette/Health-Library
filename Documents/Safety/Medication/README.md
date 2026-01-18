@@ -28,7 +28,7 @@ To lower the risk of pill aspiration, it is often safer-when the medication allo
 * Mix the medication into a soft or semi-solid food such as yogurt, applesauce, or another suitable carrier
 * Alternatively, suspend it in a thicker liquid if appropriate
 
-This helps the body process the medication similarly to food and reduces swallowing resistance.
+This helps the body process the medication similarly to food and reduces swallowing resistance. (pill dysphagia)
 
 ---
 
