@@ -14,7 +14,7 @@ Pill aspiration is surprisingly common in elderly individuals, but it can also o
 
 * Pills are large or smooth
 * Swallowing reflexes are slowed
-* There is hesitation or difficulty swallowing pills
+* There is hesitation or difficulty swallowing pills (pill dysphagia)
 
 Aspiration can cause serious health complications, including lung infections (aspiration pneumonia) and acute choking.
 
