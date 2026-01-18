@@ -1,5 +1,7 @@
 ## Using Medication (and vitamins) Safely
 
+> Not all medications are safe to crush or alter (e.g. extended-release or enteric-coated tablets). Always consult a pharmacist or healthcare provider before changing how a medication is taken.
+
 ### 1. Pill Aspiration Risk
 
 Pill aspiration occurs when a pill enters the airway instead of the esophagus. This can prevent the pill from being swallowed properly and, in severe cases, may block the airway or enter the lungs.
@@ -43,7 +45,4 @@ The same precautions apply to daily vitamins and supplements, which are often la
 Not all medications are safe to crush or alter (e.g. extended-release or enteric-coated tablets).
 Always consult a pharmacist or healthcare provider before changing how a medication is taken.
 
----
 
-
-Just tell me the intended audience.
