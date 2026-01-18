@@ -4,6 +4,8 @@ On average, a **36 watt bulb** (12 watts real UVC emmision) is **minimally** req
 
 Required UV dose: 5,000 µJ/cm² for proper desinfection.
 
+As you can see in the table below, the **inverse square law** says that intensity drops dramatically as the distance increases. Hence the requirement of high wattage to cover adequate space.
+
 ---
 
 ### UVC Surface Disinfection - 36 W Lamp (12.2 W UVC Output)
