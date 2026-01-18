@@ -1,8 +1,8 @@
 # Room treatment
 
-On average, a **36 watt bulb** (12 watts real UVC emmision) is **minimally** required to treat a small to average room. More wattage, means more effectiveness.
+On average, a **36 watt bulb** (~12 watts real UVC emission) is **minimally** required to treat a small to average room. More wattage, means more effectiveness.
 
-Required UV dose: 5,000 µJ/cm² for proper desinfection.
+Required UV dose: 5,000 µJ/cm² for proper disinfection.
 
 As you can see in the table below, the **inverse square law** says that intensity drops dramatically as the distance increases. Hence the requirement of high wattage to cover adequate space.
 
