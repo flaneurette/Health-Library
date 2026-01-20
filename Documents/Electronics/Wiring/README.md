@@ -77,6 +77,8 @@ Remove all sockets, switches, lamp outlets in **one room**. (per room is easier)
 
 Estimated: ~2-3 minutes per socket if you’re organized.
 
+After checking and switching, get a **neon polarity checker** (if you have one). Put it in the right pin. It should light up. (double confirmation)
+
 ## US sockets
 
 * Switch off the mains at the house breaker.
@@ -99,6 +101,8 @@ Estimated: ~2-3 minutes per socket if you’re organized.
 * Turn mains back on.
 
 Estimated: ~2-3 minutes per socket if you’re organized.
+
+After checking and switching, get a **neon polarity checker** (if you have one). Put it in the right pin. It should light up. (double confirmation)
 
 ---
 
