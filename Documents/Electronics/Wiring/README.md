@@ -47,6 +47,11 @@ Why this is effective
 ---
 
 
+### Important
+
+The following **assumes** that if the main-board wiring is correct, the wires should be also be connected like this in sockets. Sadly, this is not always the case. Sometimes, wires seem to go to sockets, but split off in other sections before they reach the socket where the wires are **already reversed**. It **can happen** that the wire color is already switched in another box, like in switches, lamp outlets. If that is the case, all our work could be useless. It is therefore advices to also remove all switches and lamp sockets and inspect an entire room. Remove all sockets, switches, lamp outlets in **one room**. (per room is easier)
+
+
 ## EU sockets
 
 > TIP: some EU sockets can be reversed/inversed (flipped around) Check if it's possible. This makes it easier to switch the socket 180 degrees, so that the wire-color is similar as to the table below. This prevents tearing wires if they are inserted very strongly, or screwed too tightly. Making it a very EASY FIX: Just flip the socket around so that the colors align as indicated below.
