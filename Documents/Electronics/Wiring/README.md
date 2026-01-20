@@ -49,7 +49,9 @@ Why this is effective
 
 ### Important
 
-The following **assumes** that if the main-board wiring is correct, the wires should follow the same principle through the entire room or house. Sadly, this is not always the case. Sometimes, wires seem to go to sockets, but split off in other sections before they reach the socket where the wires are **already reversed**. It **can happen** that the wire color is already switched in another box, like in switches, lamp outlets. If that is the case, all our work could be useless. It is therefore advices to also remove all switches and lamp sockets and inspect an entire room. Remove all sockets, switches, lamp outlets in **one room**. (per room is easier)
+The following **assumes** that if the main-board wiring is correct, the wires should follow the same principle through the entire room or house. Sadly, this is not always the case. Sometimes, wires seem to go to sockets, but split off in other sections before they reach the socket where the wires are **already reversed**. It **can happen** that the wire color is already switched in another box, like in switches, lamp outlets. If that is the case, all our work could be useless. It is therefore adviced to also remove all switches and lamp sockets and inspect an entire room. 
+
+Remove all sockets, switches, lamp outlets in **one room**. (per room is easier) to inspect all wires and connections.
 
 
 ## EU sockets
