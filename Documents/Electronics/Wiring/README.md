@@ -4,7 +4,11 @@ Humans make mistakes. If wires are not connected properly, devices may malfuncti
 
 You could buy a simple device/gadget that checks this, but cheap ones may not be very good. Especially if sockets miss ground. The best way is to inspect visually.
 
-Before checking sockets, check the main switchingboard. **be very carefull here**. Don't touch anything here. Just look and notice if each channel is consistently wired (notice the color pairs) if it is, then you can check the order of the sockets.
+0. Wear gloves.
+1. Before checking sockets, check the main switchingboard. **be very carefull here**. Don't touch anything here. Just look and notice if each channel is consistently wired (notice the color pairs) if it is, then you can check the order of the sockets.
+2. Make a photograph of the main switching board, especially if you opened it (wire details are important). Store this photo, and keep it for reference.
+3. Look at the photo and make sure all wirepairs are equal for all groups.
+4. All color pairs, on each group, should be similarly wired. If it isn't, then consult a electro-technician, do not try to fix this yourself.
 
 ## EU sockets
 
