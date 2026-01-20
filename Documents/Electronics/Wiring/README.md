@@ -87,5 +87,5 @@ Tips:
 * If you see red, treat it like black (hot) unless you know it’s a switch leg.
 * Blue in US residential wiring is rare - usually control or multi-way switch traveler.
 * Always double-check with a multimeter if unsure.
-* if in doubt consult elctro-technician
+* if in doubt consult electro-technician
 ---
