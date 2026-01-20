@@ -12,7 +12,7 @@ The best way is to inspect **visually.**
 
 1. Wear insulated gloves before touching anything.
 
-2. Inspect the main switching board first
+2. Inspect the **main switching board** first
 
    * Do not touch any components or terminals.
    * Just look and notice the wiring: each circuit should have consistent color pairs (live and neutral) across all outlets in the same group.
