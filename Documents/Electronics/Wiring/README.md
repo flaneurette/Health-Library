@@ -2,13 +2,50 @@
 
 Humans make mistakes. If wires are not connected properly, devices may malfunction, have a shorter lifespan, or cause issues such having live wires on switches. While this is rare, it would be useful to check the wiring of sockets in the house.
 
-You could buy a simple device/gadget that checks this, but cheap ones may not be very good. Especially if sockets miss ground. The best way is to inspect visually.
+You could buy a simple device/gadget that checks this, but cheap ones may not be very good. Especially if sockets miss ground. 
 
-0. Wear gloves.
-1. Before checking sockets, check the main switchingboard. **be very carefull here**. Don't touch anything here. Just look and notice if each channel is consistently wired (notice the color pairs) if it is, then you can check the order of the sockets.
-2. Make a photograph of the main switching board, especially if you opened it (wire details are important). Store this photo, and keep it for reference.
-3. Look at the photo and make sure all wirepairs are equal for all groups.
-4. All color pairs, on each group, should be similarly wired. If it isn't, then consult a electro-technician, do not try to fix this yourself.
+The best way is to inspect **visually.**
+
+---
+
+## Safe Socket Pre-Check Workflow
+
+1. Wear insulated gloves before touching anything.
+
+2. Inspect the main switching board first
+
+   * Do not touch any components or terminals.
+   * Just look and notice the wiring: each circuit should have consistent color pairs (live and neutral) across all outlets in the same group.
+   * Look for neat, clearly connected wires — no loose strands or discoloration.
+
+3. Document the switching board
+
+   * Take a clear photograph of the wiring, especially if you opened the panel.
+   * Store the photo safely; it will be invaluable for reference if you remodel or troubleshoot later.
+
+4. Verify consistency of wire pairs
+
+   * Compare all circuits in the group.
+   * Ensure each color pair (e.g., brown/blue in EU, black/white in US) is connected the same way.
+   * Any discrepancy is a warning sign.
+
+5. If wiring is inconsistent
+
+   * Do not attempt to fix it yourself.
+   * Call a licensed electro-technician.
+
+6. Once verified, you can move on to checking individual sockets.
+
+---
+
+Why this is effective
+
+* Helps prevent accidents before opening sockets.
+* Ensures you don’t accidentally test a miswired or dangerous circuit.
+* Creates a visual record for future work or remodeling.
+
+---
+
 
 ## EU sockets
 
