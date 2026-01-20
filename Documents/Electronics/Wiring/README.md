@@ -49,7 +49,7 @@ Why this is effective
 
 ## EU sockets
 
-> TIP: some sockets can be reversed (check if it's possible) this makes it easier to switch the socket 90 degrees, so that the wire-color is similar as to the table below. This prevents tearing wires if they are inserted very strongly, or screwed too tightly. Making it an EASY FIX: Just flip the socket around so that the colors align as indicated below.
+> TIP: some sockets can be reversed/inversed (flipped around) Check if it's possible. This makes it easier to switch the socket 90 degrees, so that the wire-color is similar as to the table below. This prevents tearing wires if they are inserted very strongly, or screwed too tightly. Making it a very EASY FIX: Just flip the socket around so that the colors align as indicated below.
 
 * Switch off the mains at the house breaker.
 * Double-check with a multimeter that the socket is not live - even though the breaker is off, safety first.
