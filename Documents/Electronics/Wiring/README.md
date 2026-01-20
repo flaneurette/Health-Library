@@ -4,6 +4,13 @@ Humans make mistakes. If wires are not connected properly, devices may malfuncti
 
 You could buy a simple device/gadget that checks this, but cheap ones may not be very good. Especially if sockets miss ground. 
 
+You could use these tools:
+
+- Neon polarity checker
+- LED polarity checker
+
+But they might not always be conclusive, or fail (risky) or won't work because **ground** is missing. etc. It is best to use them as double confirmation.
+
 The best way is to inspect **visually.**
 
 ---
