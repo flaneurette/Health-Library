@@ -55,9 +55,9 @@ Why this is effective
 * Double-check with a multimeter that the socket is not live - even though the breaker is off, safety first.
 * Wear insulated gloves (optional but adds a safety margin).
 * Unscrew the socket cover.
-* Inspect the wiring:
+* Inspect the wiring POSITION **important**:
   
-| Color                | Purpose             | Typical Connection / Notes | Position front view |
+| Color                | Purpose             | Typical Connection / Notes | POSITION front view |
 | ---------------------| ------------------- | -------------------------- |---------------------
 | Brown                | Live / Phase (L)    | Right screw / live pin     | RIGHT
 | Blue                 | Neutral (N)         | Left screw / neutral pin   | LEFT
