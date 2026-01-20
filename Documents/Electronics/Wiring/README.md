@@ -1,6 +1,6 @@
 # Detect if sockets are installed correctly.
 
-Humans make mistakes. If wires are not connected properly, devices may malfunction or cause issues such having live wires on switches. While this is rare, it would be useful to check the wiring of sockets in the house.
+Humans make mistakes. If wires are not connected properly, devices may malfunction, have a shorter lifespan, or cause issues such having live wires on switches. While this is rare, it would be useful to check the wiring of sockets in the house.
 
 Before checking sockets, check the main switchingboard. **be very carefull here**. Don't touch anything here. Just look and notice if each channel is consistently wired (notice the color pairs) if it is, then you can check the order of the sockets.
 
