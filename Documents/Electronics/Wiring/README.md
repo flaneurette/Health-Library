@@ -2,6 +2,8 @@
 
 Humans make mistakes. If wires are not connected properly, devices may malfunction, have a shorter lifespan, or cause issues such having live wires on switches. While this is rare, it would be useful to check the wiring of sockets in the house.
 
+You could but a simple device/gadget that checks this, but cheap ones may not be very good. Especially if sockets miss ground. The best way is to inspect visually.
+
 Before checking sockets, check the main switchingboard. **be very carefull here**. Don't touch anything here. Just look and notice if each channel is consistently wired (notice the color pairs) if it is, then you can check the order of the sockets.
 
 ## EU sockets
