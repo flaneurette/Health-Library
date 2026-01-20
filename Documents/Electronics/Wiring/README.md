@@ -16,7 +16,7 @@ The best way is to inspect **visually.**
 
    * Do not touch any components or terminals.
    * Just look and notice the wiring: each circuit should have consistent color pairs (live and neutral) across all outlets in the same group.
-   * Look for neat, clearly connected wires — no loose strands or discoloration.
+   * Look for neat, clearly connected wires - no loose strands or discoloration.
 
 3. Document the switching board
 
