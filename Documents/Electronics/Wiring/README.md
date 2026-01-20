@@ -57,11 +57,11 @@ Why this is effective
 * Unscrew the socket cover.
 * Inspect the wiring:
   
-| Color                | Purpose             | Typical Connection / Notes |
-| ---------------------| ------------------- | -------------------------- |
-| Brown                | Live / Phase (L)    | Right screw / live pin     |
-| Blue                 | Neutral (N)         | Left screw / neutral pin   |
-| Yellow/Green striped | Ground / Earth (PE) | Middle or top, protective  |
+| Color                | Purpose             | Typical Connection / Notes | Position front view |
+| ---------------------| ------------------- | -------------------------- |---------------------
+| Brown                | Live / Phase (L)    | Right screw / live pin     | RIGHT
+| Blue                 | Neutral (N)         | Left screw / neutral pin   | LEFT
+| Yellow/Green striped | Ground / Earth (PE) | Middle or top, protective  | MIDDLE/TOP
 
 * Make a note or quick sketch of where the wires come from and which pipes (useful for later remodeling or troubleshooting) and store this in a notebook or file. If later on you need to pull more wires, you'll know the pipe layout! (which saves time later on)
 * Check connections are tight, no exposed copper outside clamps.
