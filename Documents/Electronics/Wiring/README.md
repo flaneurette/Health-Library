@@ -7,7 +7,7 @@ You could buy a simple device/gadget that checks this, but cheap ones may not be
 You could use these tools:
 
 - Neon polarity checker
-- LED polarity checker
+- Mains outlet polarity checker with simple LEDS
 
 But they might not always be conclusive, or fail (risky) or won't work because **ground** is missing. etc. It is best to use them as double confirmation.
 
