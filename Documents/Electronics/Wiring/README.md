@@ -1,6 +1,6 @@
 # Detect if sockets are installed correctly.
 
-Humans make mistakes. If wires are not connected properly, devices may malfunction, have a shorter lifespan, or cause issues. While this is rare, it would be useful to check the wiring of sockets in the house and uniformaly connect them according to standards.
+Humans make mistakes. If wires are not connected properly, devices may malfunction, have a shorter lifespan, or cause issues. While this is rare, it would be useful to check the wiring of sockets in the house and uniformly connect them according to standards.
 
 You could buy a simple device/gadget that checks this, but cheap ones may not be very good. Especially if sockets miss ground. 
 
