@@ -15,6 +15,45 @@ The best way is to inspect **visually.**
 
 ---
 
+### Benefits of Visually Inspecting Wall Sockets
+
+1. **Detect loose components**
+
+   * Screws, terminals, and cable connections can loosen over time.
+   * Loose connections can cause overheating or sparks.
+
+2. **Check polarity**
+
+   * You can see if live, neutral, and ground wires are connected correctly.
+   * Some gadgets check polarity electrically, but seeing it yourself ensures confidence.
+
+3. **Check cleanliness and debris**
+
+   * Dust, dirt, insects, tape, strange materials present, or small objects in sockets can **cause fire hazards**.
+
+4. **Assess wiring layout**
+
+   * You can sometimes determine how wires and pipes are routed in walls, ceilings, or floors - useful for renovations or repairs.
+
+5. **Verify grounding and wire standards**
+
+   * Ensure the ground connection is actually present.
+   * Check that wire colors follow **standard conventions** (L = brown/black, N = blue, PE = green/yellow in Europe).
+
+6. **Maintenance**
+   
+   * Fasten screws that have loosened over the years.
+   * Preventive tightening can avoid future problems.
+
+---
+
+### Important Note
+
+* A **simple socket polarity tester** only verifies electrical polarity; it **cannot detect loose screws, debris, or poor grounding**.
+* Use such gadgets **to confirm your visual inspection**, not replace it.
+
+---
+
 ## Safe Socket Pre-Check Workflow
 
 1. Wear insulated gloves before touching anything.
