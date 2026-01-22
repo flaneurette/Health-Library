@@ -112,19 +112,28 @@ Note: No oil in the dough. Authentic Neapolitan uses only these four ingredients
     - Never use a rolling pin - it destroys the air bubbles.
 
 14. Assemble:
-    - Transfer dough to a well-floured pizza peel.
+
+**For best results; assemble pizza on very well floured countertop, then lift it on one side, and slide pizza peel under it. Then quickly transfer to oven (under 3-4 seconds)**
+
+Another technique:
+
+     **Work quickly, no more than 20 seconds!**
+    
+    - Transfer dough to a well-floured pizza peel. **use semolina, sticks less!**
     - Spread 3-4 tablespoons of crushed tomato in the center, leaving the edge bare.
     - Distribute mozzarella pieces evenly (don't overload).
     - Drizzle with a thin stream of olive oil.
     - Do **not** add basil yet.
 
-15. Bake:
+    If pizza sticks to your peel, you worked too slow or used little semolina. Be generous with the semolina, and work faster. 
+
+16. Bake:
     - Shake the peel to ensure pizza slides freely.
     - Slide pizza onto the preheated stone/steel.
     - Bake for 3-5 minutes, rotating halfway through if needed.
     - The crust should be puffy, with dark leopard spots, and the bottom should be crisp with char marks.
 
-16. Finish:
+17. Finish:
     - Remove pizza from oven.
     - Immediately add fresh basil leaves - the heat will wilt them slightly and release their aroma.
     - Drizzle with a little more olive oil if desired.
