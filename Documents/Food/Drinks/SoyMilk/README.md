@@ -2,7 +2,7 @@
 
 Making soy milk at home is about 50% cheaper than the lowest commercial brand price. Plus, you'll get more protein and less fillers.
 
-Cost:  ≈ ~€0.40-0.60 per liter.
+Cost:  ≈ ~€0.40-0.50 per liter.
 
 > TIP: Buy bio-organic soybeans, better for health and environment.
 
@@ -79,7 +79,7 @@ Cost:  ≈ ~€0.40-0.60 per liter.
 * High protein: ~3-4 g per 100 ml (vs 1 g in cheap soymilk)
 * No fillers or gums - fully natural
 * Eco-friendly: uses only soybeans and water, pulp is reused
-* Cost-effective: 100 g soybeans ≈ ~€0.40-0.60/L
+* Cost-effective: 100 g soybeans ≈ ~€0.40-0.50/L
 
 ---
 
