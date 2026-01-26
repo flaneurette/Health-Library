@@ -1,4 +1,4 @@
-# Soymilk recipe
+# SoyMilk recipe
 
 Making soymilk at home is about 50% cheaper than the lowest commerical brand price. Plus, you'll get more protein and less fillers.
 
