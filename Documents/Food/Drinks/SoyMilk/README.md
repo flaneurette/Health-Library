@@ -12,7 +12,7 @@ Making soymilk at home is about 50% cheaper than the lowest commercial brand pri
 
 * 100 g dry soybeans
 * 1 liter fresh water (plus extra for soaking)
-* Optional: pinch of salt, sweetener (dates, maple syrup), or vanilla
+* Optional: pinch of salt, sweetener (dates, maple syrup, agave, Bolero powder), or vanilla
 
 ---
 
