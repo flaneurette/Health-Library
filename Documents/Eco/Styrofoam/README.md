@@ -2,6 +2,8 @@
 
 Sometimes we get a pacakge that still contains styrofoam. I don't like tossing it away as it's bad for the environment. Here are a few hacks we can use to repurpose styrofoam endlessly.
 
+> TIP: Safety concern: styrofoam is flammable, so keep away from electricity and flammable items.
+
 ---
 
 ## 10+ Styrofoam Hacks / Reuse Ideas
