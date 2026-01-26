@@ -1,6 +1,6 @@
-# SoyMilk recipe
+# Soy Milk recipe
 
-Making soymilk at home is about 50% cheaper than the lowest commercial brand price. Plus, you'll get more protein and less fillers.
+Making soy milk at home is about 50% cheaper than the lowest commercial brand price. Plus, you'll get more protein and less fillers.
 
 > TIP: Buy bio-organic soybeans, better for health and environment.
 
