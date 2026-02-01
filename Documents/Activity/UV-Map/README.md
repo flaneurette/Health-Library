@@ -2,7 +2,7 @@
 
 ```
 UV Level
-High     ┤               ███████████  (10:00–16:00)
+High     ┤               ███████████  (10:00-16:00)
          │              ███████████████
          │            ██████████████████
 Moderate ┤       █████████
@@ -19,12 +19,12 @@ Low      ┤  ██
 
 ```
 UV Level
-High     ┤ Summer: 10am–4pm ███████████
-         │ Spring: 11am–3pm ████████
-         │ Fall: 11am–3pm ████████
-Moderate ┤ Summer: 8–10am / 4–6pm ████
-         │ Spring/Fall: 8–11am / 3–5pm ██
-Low      ┤ Winter: 10am–2pm ██
+High     ┤ Summer: 10am-4pm ███████████
+         │ Spring: 11am-3pm ████████
+         │ Fall: 11am-3pm ████████
+Moderate ┤ Summer: 8-10am / 4-6pm ████
+         │ Spring/Fall: 8-11am / 3-5pm ██
+Low      ┤ Winter: 10am-2pm ██
          │ Morning before 10am & late afternoon: very low
          └──────────────────────────────
           6am  8am 10am 12pm 2pm 4pm 6pm
@@ -54,15 +54,15 @@ Legend:
 █ = Average High
 ```
 
-# UV Per month
+# UV per month
 
 ---
 
-### Spring (April) – Moderate UV
+### Spring (April) - Moderate UV
 
 ```
 UV Level
-High     ┤           █████████   (11:00–15:00)
+High     ┤           █████████   (11:00-15:00)
          │         ███████████
          │       ████████████
 Moderate ┤     ████████
@@ -77,11 +77,11 @@ Low      ┤  ██
 
 ---
 
-### Summer (July) – High UV
+### Summer (July) - High UV
 
 ```
 UV Level
-High     ┤       ██████████████████  (10:00–16:00)
+High     ┤       ██████████████████  (10:00-16:00)
          │     ███████████████████
          │    ████████████████████
 Moderate ┤   ███████████
@@ -96,11 +96,11 @@ Low      ┤ ██
 
 ---
 
-### Autumn (October) – Moderate/Low UV
+### Autumn (October) - Moderate/Low UV
 
 ```
 UV Level
-High     ┤          ████████  (11:00–14:00)
+High     ┤          ████████  (11:00-14:00)
          │         █████████
          │       ██████████
 Moderate ┤     ███████
@@ -115,11 +115,11 @@ Low      ┤  ██
 
 ---
 
-### Winter (January) – Low UV
+### Winter (January) - Low UV
 
 ```
 UV Level
-High     ┤      ████  (12:00–13:00)
+High     ┤      ████  (12:00-13:00)
          │     ████
          │    ████
 Moderate ┤   ███
