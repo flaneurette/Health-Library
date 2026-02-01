@@ -5,12 +5,15 @@ A complete reference for temperature, UV, rain, storms, and lightning with formu
 ---
 
 ## Air Density
+
+```
 Useful for convection, buoyancy, storms
 ρ = P / (R * T)
 ρ = air density [kg/m³]
 P = pressure [Pa]
 T = temperature [K]
 R ≈ 287 J/(kg·K)
+```
 
 ---
 
@@ -30,20 +33,20 @@ Else:
 ## Dew Point & Humidity
 Predict fog, clouds, condensation
 
-# Saturation vapor pressure (Tetens)
+### Saturation vapor pressure (Tetens)
 e_s(T) = 6.112 * exp(17.67*T / (T + 243.5)) [hPa]
 
-# Actual vapor pressure
+### Actual vapor pressure
 e = (RH / 100) * e_s(T)
 
-# Dew point
+### Dew point
 T_d = 243.5 * ln(e/6.112) / (17.67 - ln(e/6.112))
 
 T = °C, RH = %
 
 ---
 
-## Wind Chill (cold)
+### Wind Chill (cold)
 
 ```
 T_wc = 13.12 + 0.6215*T - 11.37*v^0.16 + 0.3965*T*v^0.16
@@ -52,7 +55,7 @@ T = air temp [°C], v = wind speed [km/h]
 
 ---
 
-## Heat Index (hot & humid)
+### Heat Index (hot & humid)
 
 ```
 HI = -8.7847 + 1.6114*T + 2.3385*RH - 0.1461*T*RH 
@@ -63,7 +66,7 @@ T = °C, RH = %
 
 ---
 
-## Pressure vs Altitude
+### Pressure vs Altitude
 
 ```
 h = (T0 / L) * [1 - (P/P0)^(R*L/g)]
@@ -74,7 +77,7 @@ R = 287 J/kg·K, g = 9.81 m/s²
 
 ---
 
-## Convection & Storm Potential (CAPE)
+### Convection & Storm Potential (CAPE)
 
 ```
 CAPE = ∫ (LFC to EL) g * (T_parcel - T_env) / T_env dz
@@ -87,7 +90,7 @@ g = 9.81 m/s²
 
 ---
 
-## Rain / Cloud Formation (simplified)
+### Rain / Cloud Formation (simplified)
 
 ```
 If RH ≥ 100% -> condensation -> clouds
@@ -97,7 +100,7 @@ Combine with CAPE & wind shear -> thunderstorm likelihood
 
 ---
 
-## Weather Parameters
+### Weather Parameters
 
 ```
           Temp          Wind           Rain            Lightning
@@ -112,7 +115,7 @@ Legend:
 
 ---
 
-## Seasonal Weather Map
+### Seasonal Weather Map
 
 Months: Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
 
