@@ -12,5 +12,24 @@ Low      ┤  ██
          │ ██
          │██
          └──────────────────────────────
-         6am   8am   10am  12pm  2pm  4pm  6pm
+          6am   8am   10am  12pm  2pm  4pm  6pm
 ```
+
+# Seasonal map
+
+```
+UV Level
+High     ┤ Summer: 10am–4pm ███████████
+         │ Spring: 11am–3pm ████████
+         │ Fall: 11am–3pm ████████
+Moderate ┤ Summer: 8–10am / 4–6pm ████
+         │ Spring/Fall: 8–11am / 3–5pm ██
+Low      ┤ Winter: 10am–2pm ██
+         │ Morning before 10am & late afternoon: very low
+         └──────────────────────────────
+          6am  8am 10am 12pm 2pm 4pm 6pm
+```
+
+> Caveat: some very clear winter days can have much UV radiation. Do not underestimate it. Cloud cover is fine.
+
+> Caveat: snow and ice can increase radiation exposure due to reflection.
