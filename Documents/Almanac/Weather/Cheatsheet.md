@@ -30,6 +30,15 @@ Else:
     Probability low
 ```
 
+- Falling pressure = wet weather coming
+
+- Rising pressure = dry weather coming
+
+- Fast changes = stronger precipitation
+
+- Combine with temperature and humidity to distinguish rain vs snow
+
+
 ## Dew Point & Humidity
 Predict fog, clouds, condensation
 
