@@ -32,4 +32,4 @@ Low      ┤ Winter: 10am–2pm ██
 
 > Caveat: some very clear winter days can have much UV radiation. Do not underestimate it. Cloud cover is fine.
 
-> Caveat: snow and ice can increase radiation exposure due to reflection.
+> Caveat: water, snow and ice can increase radiation exposure due to reflection.
