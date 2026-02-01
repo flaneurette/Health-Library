@@ -24,7 +24,7 @@ P_change = current_pressure - previous_pressure [hPa]
 
 If P_change < -3 hPa in last 6 hours:
     Rain/Snow probability ~ 70–90%
-Elif P_change between -1 and -3 hPa:
+Else if P_change between -1 and -3 hPa:
     Probability ~ 30–50%
 Else:
     Probability low
