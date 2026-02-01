@@ -54,7 +54,7 @@ Legend:
 █ = Average High
 ```
 
-# Per month
+# UV Per month
 
 ---
 
