@@ -1,6 +1,6 @@
-# DIY Fruit Drink Powder (1 Liter)
+# DIY fruit drink powder (1 Liter)
 
-Without artificial ingredients.
+Without artificial ingredients, all natural!
 
 ### Ingredients (dry mix)
 
