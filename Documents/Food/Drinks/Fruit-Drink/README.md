@@ -75,7 +75,7 @@ You get a much more healthy fruit drink than softdrink, and it is slightly cheap
 | ------------------------------------| ------------------------------------------- | ------------------------------------------------------- | ----------------------------------- |
 | Sugar (g)                           | ~4.2 g (fruit) + 6 g xylitol > low GI        | ~0 g sugar                                               | ~100 g sugar                         |
 | Calories (kcal)                     | ~40-45 kcal                                 | ~5-10 kcal                                              | ~400 kcal                           |
-| Vitamin C (mg)                      | ~32 mg                                      | ~0.50mg                                                   | 0                                   |
+| Vitamin C (mg)                      | ~32 mg                                      | ~2mg                                                   | 0                                   |
 | Polyphenols / antioxidants (mg GAE) | 33-50 mg                                    | 0                                                       | 0                                   |
 | Sweetener type                      | Natural fruit + xylitol (prebiotic, low GI) | Artificial sweeteners (stevia, sucralose, acesulfame K) | Sugar (high GI)                     |
 | Dental impact                       | Protective (xylitol)                        | Neutral                                                 | Erosive (sugar + acid)              |
