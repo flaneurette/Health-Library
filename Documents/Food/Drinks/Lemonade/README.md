@@ -15,6 +15,7 @@ Without artificial ingredients, all natural!
 | Optional: pinch of salt           | <0.1 g                 | Enhances flavor                       |
 
 Total dry weight: ~20-22 g
+tsp = teaspoon
 ```
 
 > TIP: If you want to prepare more powder in advance, then simply multiply all ingredients.
