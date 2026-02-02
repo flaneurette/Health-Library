@@ -7,15 +7,13 @@ Without artificial ingredients, all natural!
 ```
 | Ingredient                        | Amount (per 1 L water) | Notes                                 |
 | --------------------------------- | ---------------------- | ------------------------------------- |
-| Xylitol                           | 12 g (~2½ tsp)         | Adjust to taste, safe and sweet       |
-| Freeze-dried fruit powder         | 7 g (~1½ tsp)          | Any berry/mango/mixed fruit           |
-| Citric acid                       | 0.8 g (~1/8 tsp)       | Adds tartness                         |
+| Xylitol                           | 6 g                    | Adjust to taste, safe and sweet       |
+| Freeze-dried fruit powder         | 3-5 g                  | Any berry/mango/mixed fruit           |
+| Citric acid                       | 0.5 g                  | Adds tartness                         |
 | Malic acid (optional)             | 0.2 g (pinch)          | Smooth apple-like tartness            |
 | Optional: xanthan gum or guar gum | 0.2 g (pinch)          | Improves mouthfeel, prevents settling |
 | Optional: pinch of salt           | <0.1 g                 | Enhances flavor                       |
 
-Total dry weight: ~20-22 g
-tsp = teaspoon
 ```
 
 > TIP: If you want to prepare more powder in advance, then simply multiply all ingredients.
