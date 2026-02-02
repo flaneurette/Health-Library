@@ -8,7 +8,7 @@ Without artificial ingredients, all natural!
 | Ingredient                        | Amount (per 1 L water) | Notes                                 |
 | --------------------------------- | ---------------------- | ------------------------------------- |
 | Xylitol                           | 6 g                    | Adjust to taste, safe and sweet       |
-| Freeze-dried fruit powder         | 3-5 g                  | Any (straw)berry/mango/mixed fruit    |
+| Freeze-dried fruit powder         | 5-7 g                  | Any (straw)berry/mango/mixed fruit    |
 | Citric acid                       | 0.5 g                  | Adds tartness                         |
 | Malic acid (optional)             | 0.2 g (pinch)          | Smooth apple-like tartness            |
 | Optional: xanthan gum or guar gum | 0.2 g (pinch)          | Improves mouthfeel, prevents settling |
