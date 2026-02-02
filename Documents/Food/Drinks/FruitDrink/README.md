@@ -71,7 +71,6 @@ You get a much more healthy fruit drink than softdrink, and it is slightly cheap
 
 # Comparison Table
 
-```
 | Feature                             | DIY Berry Drink                             | Bolero                                                  | Regular Soda                        |
 | ------------------------------------| ------------------------------------------- | ------------------------------------------------------- | ----------------------------------- |
 | Sugar (g)                           | ~4.2 g (fruit) + 6 g xylitol > low GI        | ~0 g sugar                                               | ~100 g sugar                         |
@@ -83,6 +82,5 @@ You get a much more healthy fruit drink than softdrink, and it is slightly cheap
 | Gut impact                          | Prebiotic fiber + xylitol                   | None                                                    | May feed harmful gut bacteria       |
 | Flavor                              | Real fruit, natural color                   | Artificial flavor                                       | Artificial flavor + color           |
 | Acidity                             | Mild, adjustable                            | Acidified (citric/malic)                                | Carbonated + phosphoric/citric acid |
-```
 
 ---
