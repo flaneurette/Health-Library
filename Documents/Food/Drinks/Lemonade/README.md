@@ -17,7 +17,7 @@ Without artificial ingredients, all natural!
 Total dry weight: ~20–22 g
 ```
 
-> TIP: If you want to prepare more powder in advance, then simply multiple all ingredients.
+> TIP: If you want to prepare more powder in advance, then simply multiply all ingredients.
 
 ---
 
