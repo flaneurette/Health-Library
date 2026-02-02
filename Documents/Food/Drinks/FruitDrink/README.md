@@ -20,6 +20,8 @@ tsp = teaspoon
 
 > TIP: If you want to prepare more powder in advance, then simply multiply all ingredients.
 
+> TIP: instead of dried powder, you can also blend berries, and filter them. But requires fresh fruit.
+
 ---
 
 ### Instructions
