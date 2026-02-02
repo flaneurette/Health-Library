@@ -22,6 +22,19 @@ Without artificial ingredients, all natural!
 
 ---
 
+# Cost
+
+| Component                       | Estimated cost   |
+| ------------------------------- | ---------------- |
+| Freeze-dried fruit powder (5 g) | ~€0.20–€0.40     |
+| Xylitol (6 g)                   | ~€0.08–€0.12     |
+| Citric/malic/others             | ~€0.02–€0.05     |
+| Total per liter (approx.)       | ~€0.40–€0.60     |
+
+You get a much more healthy fruit drink than softdrink, and it is slightly cheaper too.
+
+---
+
 ### Instructions
 
 1. Combine dry ingredients in a small bowl. Mix well.
