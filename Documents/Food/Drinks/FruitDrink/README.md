@@ -8,7 +8,7 @@ Without artificial ingredients, all natural!
 | Ingredient                        | Amount (per 1 L water) | Notes                                 |
 | --------------------------------- | ---------------------- | ------------------------------------- |
 | Xylitol                           | 6 g                    | Adjust to taste, safe and sweet       |
-| Freeze-dried fruit powder         | 3-5 g                  | Any berry/mango/mixed fruit           |
+| Freeze-dried fruit powder         | 3-5 g                  | Any (straw)berry/mango/mixed fruit    |
 | Citric acid                       | 0.5 g                  | Adds tartness                         |
 | Malic acid (optional)             | 0.2 g (pinch)          | Smooth apple-like tartness            |
 | Optional: xanthan gum or guar gum | 0.2 g (pinch)          | Improves mouthfeel, prevents settling |
@@ -35,6 +35,10 @@ Without artificial ingredients, all natural!
 ```
 
 You get a much more healthy fruit drink than softdrink, and it is slightly cheaper too.
+
+* 5 grams freeze-dried powder equals to about 33 grams of fresh fruit.
+
+* 1 L drink provides ~30 mg vitamin C -> about 35–40% of the daily recommended intake.
 
 ---
 
