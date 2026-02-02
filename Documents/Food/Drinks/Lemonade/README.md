@@ -14,7 +14,7 @@ Without artificial ingredients, all natural!
 | Optional: xanthan gum or guar gum | 0.2 g (pinch)          | Improves mouthfeel, prevents settling |
 | Optional: pinch of salt           | <0.1 g                 | Enhances flavor                       |
 
-Total dry weight: ~20–22 g
+Total dry weight: ~20-22 g
 ```
 
 > TIP: If you want to prepare more powder in advance, then simply multiply all ingredients.
@@ -27,8 +27,8 @@ Total dry weight: ~20–22 g
 2. Store in airtight container - this is your ready-to-use powder.
 3. To make 1 liter of drink:
 
-   * Dissolve the 20–22 g powder in 100–200 mL warm water first (helps xylitol dissolve).
-   * Then add 800–900 mL cold water. Stir or shake until fully mixed.
+   * Dissolve the 20-22 g powder in 100-200 mL warm water first (helps xylitol dissolve).
+   * Then add 800-900 mL cold water. Stir or shake until fully mixed.
 4. Chill or add ice if desired.
 
 ---
