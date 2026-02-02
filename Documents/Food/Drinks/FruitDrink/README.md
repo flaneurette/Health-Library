@@ -30,6 +30,7 @@ Without artificial ingredients, all natural!
 | Freeze-dried fruit powder (5 g) | ~€0.20-€0.40     |
 | Xylitol (6 g)                   | ~€0.08-€0.12     |
 | Citric/malic/others             | ~€0.02-€0.05     |
+|---------------------------------|------------------|
 | Total per liter (approx.)       | ~€0.40-€0.60     |
 ```
 
