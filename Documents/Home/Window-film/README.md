@@ -45,6 +45,8 @@ Make a spray bottle with 1 liter water with 2 drops of dreft/fairy dishwash soap
 
 #### 2. Desinfect
 
+Removes: old glue, oils, sticker/tape adhesives, invisible bacteria and mold spores. Very important for longevity.
+
 1. Pour some alcohol on microfiber cloth/kitchen paper, rub entire window or spots (usually tape or glue spots)
 2. Use razor again to removes debris, plastic, glue, tape, etc. Work in sections and cover entire window.
 3. Pour some alcohol on microfiber cloth, rub entire window or spots (usually tape or glue spots)
