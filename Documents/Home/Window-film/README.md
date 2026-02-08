@@ -21,6 +21,7 @@ This guide is for transparent GSW window film/foil, with adhesive layer. Blocks 
 11. 99% alcohol
 12. Kitchen paper
 13. Nitril gloves (3 pairs, one each step)
+14. Patience.
 
 # Steps
 
@@ -93,6 +94,8 @@ It's now important to remove 98% of all bubbles. Small bubbles will evaporate, y
 #### 6. Finalize
 
 Let it dry for at least 72 hours.
+
+The fumes from the adhesive might give you headaches, due to foil off-gassing. Especially on large windows. Ventilation is key, but don't let the room be too humid.
 
 In 3 weeks, depending on heat, you could check for bubbles. Some bubbles can be scored with a needle: just punch a hole in it. Hoever, if you rub the water out, the glue might leave white streaks! it's best to let the bubbles disolve naturally, which could take months.
 
