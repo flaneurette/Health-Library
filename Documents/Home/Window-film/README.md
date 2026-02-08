@@ -8,6 +8,8 @@ This guide is for transparent GSW window film/foil, with adhesive layer. Blocks 
 
 > TIP: It's harder than you think. Do a test piece first! (I ruined one entire window myself)
 
+> TIP: Be in shape, working against gravity on large windows is surprisingly tiresome.
+
 # Tools used.
 
 1. Reverse osmosis filtered water (or sterile water): 3 Liters. (prevents mineral streaks behind foil)
