@@ -108,3 +108,9 @@ In 3 weeks, depending on heat, you could check for bubbles. Some bubbles can be 
 
 Cleaning: with dishwash soap. No ammonia. 
 
+#### 7. Accept imperfections.
+
+Even after all this work and preventative measures, chanches are each window has an imperfection: an encased tiny speck of dust, a print, paint speckle, little hair, a water/air bubble that wont release and so on.
+
+Accept it. Do not try to remove it! you will fail and ruin it further.
+
