@@ -3,6 +3,7 @@
 This guide is for transparent GSW window film/foil, with adhesive layer. Blocks 99% of UV rays, up to 385nm, to create flawless window film without bubbles or air pockets.
 
 > TIP: use a small piece and try it out on a test window.
+
 > TIP: start on a less obvious window, so you can practice.
 
 # Tools used.
