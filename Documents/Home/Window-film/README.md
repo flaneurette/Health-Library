@@ -71,11 +71,11 @@ Leave it hanging!
 5. Quickly spray the exposed adhesive with soapy mixture.
 6. Press 20cm of foil length on the top part of the window (should stick)
 7. Spray outside foil with mixture.
-8. Then use ruler from the corner, to softly move 25cm down, few bubbles should remain (2 passes)
+8. Then use ruler from the corner, to softly move 19cm down, few bubbles should remain (2 passes) do not press hard.
 9. Peel another 15-20cm slowly.
 10. Lift foil, and spray the adhesive on **inside** (move hand/bottle between foil and window, very important)
 11. Spray outside foil with mixture.
-12. Then use ruler to softly move 25cm down, few bubbles should remain (2 passes)
+12. Then use ruler to softly move 19cm down, few bubbles should remain (2 passes) do not press hard.
 13. Peel another 15-20cm slowly.
 14. Lift foil, and spray the adhesive on **inside** (move hand/bottle between foil and window, very important)
 
