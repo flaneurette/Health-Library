@@ -20,10 +20,13 @@ This guide is for transparent GSW window film/foil, with adhesive layer. Blocks 
 10. Rubber window squeegee (20cm)
 11. 99% alcohol
 12. Kitchen paper
+13. Nitril gloves (3 pairs, one each step)
 
 # Steps
 
 #### 1. Clean
+
+Wear new pair of gloves on each step. Do not reuse. It prevents prints, oils and skin damage from adhesive.
 
 Make a spray bottle with 1 liter water with 2 drops of dreft/fairy dishwash soap.
 
@@ -54,10 +57,10 @@ Leave it hanging!
 #### 3. Prepare & Place
 
 1. Move hand behind the hanging foil, spray window generously with the soapy mixture.
-2. Peel a corner slowly: 15-20cm
-3. Quickly spray it with mixture.
-4. Peel other corner slowly: 15-20cm
-5. Quickly spray it with mixture.
+2. Peel a top corner slowly: 15-20cm
+3. Quickly spray the exposed adhesive with soapy mixture.
+4. Peel other top corner slowly: 15-20cm
+5. Quickly spray the exposed adhesive with soapy mixture.
 6. Press 20cm of foil length on the top part of the window (should stick)
 7. Spray outside foil with mixture.
 8. Then use ruler from the corner, to softly move 25cm down, few bubbles should remain (2 passes)
