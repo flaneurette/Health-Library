@@ -8,7 +8,7 @@ This guide is for transparent GSW window film/foil, with adhesive layer. Blocks 
 
 # Tools used.
 
-1. Reverse osmosis filtered water (or sterile water): 3 Liters. (prevents minereal streaks)
+1. Reverse osmosis filtered water (or sterile water): 3 Liters. (prevents mineral streaks behind foil)
 2. Dreft/fairy dishwash soap.
 3. Wooden or plastic ruler. 30CM. (I used plastic)
 4. Small breakable stanley knife.
@@ -22,7 +22,6 @@ This guide is for transparent GSW window film/foil, with adhesive layer. Blocks 
 12. Kitchen paper
 
 # Steps
-
 
 #### 1. Clean
 
@@ -41,27 +40,35 @@ Make a spray bottle with 1 liter water with 2 drops of dreft/fairy dishwash soap
 
 Let it dry few minutes, not too long: dust might settle!
 
+#### 2.1 Cut to size
+
+To prevent dust and scratches, we cant lay it flat and cut it. Too messy! We need to hang it, then cut it to size.
+
+1. Keep the foil/film in the box. 
+2. Place the box below the window.
+3. Pull foil up, and tape the edge to the top of the window pane, with 3x strips of painters tape.
+4. Use razor/stanley knife to cut all sides to size. (use 2cm-5cm extra on all sides for wiggle room, no window is 100% straight!)
+
+Leave it hanging!
+
 #### 3. Prepare & Place
 
-1. Spray window generously with mixture.
-2. Keep the foil/film in the box. 
-3. Place the box below the window.
-4. Get a ladder and raise the foil from the box.
-5. Peel a corner slowly: 15-20cm
-6. Quickly spray it with mixture.
-7. Peel other corner slowly: 15-20cm
-8. Quickly spray it with mixture.
-9. Place 25cm of foil length on the top part of the window (should stick)
-10. Spray outside foil with mixture.
-11. Then use ruler to softly move 25cm down, few bubbles should remain (2 passes)
-12. Peel another 15-20cm slowly.
-13. Lift foil, and spray the adhesive on backside (move between foil and window, very important)
-14. Spray outside foil with mixture.
-15. Then use ruler to softly move 25cm down, few bubbles should remain (2 passes)
-16. Peel another 15-20cm slowly.
-17. Lift foil, and spray the adhesive on backside (move between foil and window, very important)
+1. Move hand behind the hanging foil, spray window generously with the soapy mixture.
+2. Peel a corner slowly: 15-20cm
+3. Quickly spray it with mixture.
+4. Peel other corner slowly: 15-20cm
+5. Quickly spray it with mixture.
+6. Press 20cm of foil length on the top part of the window (should stick)
+7. Spray outside foil with mixture.
+8. Then use ruler from the corner, to softly move 25cm down, few bubbles should remain (2 passes)
+9. Peel another 15-20cm slowly.
+10. Lift foil, and spray the adhesive on **inside** (move hand/bottle between foil and window, very important)
+11. Spray outside foil with mixture.
+12. Then use ruler to softly move 25cm down, few bubbles should remain (2 passes)
+13. Peel another 15-20cm slowly.
+14. Lift foil, and spray the adhesive on **inside** (move hand/bottle between foil and window, very important)
 
-Repeat 10-12 until all foil is placed. Remember: everything should be as wet as possible.
+Repeat, until all foil is placed. Remember: everything should be as wet as possible.
 
 #### 4. Cut/Trim
 
