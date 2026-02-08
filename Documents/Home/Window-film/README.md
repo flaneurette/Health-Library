@@ -18,7 +18,7 @@ This guide is for transparent GSW window film/foil, with adhesive layer. Blocks 
 8. Sponge.
 9. Razor window scraper
 10. Rubber window squeegee (20cm)
-11. 99% alcolohol
+11. 99% alcohol
 12. Kitchen paper
 
 # Steps
