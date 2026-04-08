@@ -65,11 +65,11 @@ Key Culprits:
 ### Supplements for Acidity & Lactic Acid
 | Supplement       | Dose               | Benefit                              |
 |----------------------|------------------------|------------------------------------------|
-| Magnesium        | 300–400 mg/day         | Buffers acid, relaxes muscles.           |
-| Potassium        | 3,500–4,700 mg/day     | Counters sodium, supports kidneys.       |
+| Magnesium        | 300-400 mg/day         | Buffers acid, relaxes muscles.           |
+| Potassium        | 3,500-4,700 mg/day     | Counters sodium, supports kidneys.       |
 | Baking Soda      | ½ tsp in water (occasional) | Quick pH buffer (use sparingly!).    |
-| Probiotics       | 10–50 billion CFU      | Reduces gut fermentation (lactic acid).  |
-| Milk Thistle     | 200–400 mg/day         | Supports liver detox.                    |
+| Probiotics       | 10-50 billion CFU      | Reduces gut fermentation (lactic acid).  |
+| Milk Thistle     | 200-400 mg/day         | Supports liver detox.                    |
 
 ---
 
@@ -81,7 +81,7 @@ Key Culprits:
 
 ---
 
-## Further Reading
+## Further Reading / Alternative views
 - [NIH: Metabolic Acidosis](https://www.ncbi.nlm.nih.gov/books/NBK482146/)
 - [Lactic Acid and Exercise](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5537880/)
 - [Alkaline Diet Review](https://www.healthline.com/nutrition/the-alkaline-diet-myth)
