@@ -1,6 +1,6 @@
-# Everyday Metal Objects as Unintended Antennas: Physics, Risks, and Why It’s Ignored
+# Everyday Metal Objects as Unintended Antennas
 
-> *A guide to understanding how jewelry, clothing, and household items can act as antennas—and why this critical knowledge is overlooked.*
+> A guide to understanding how jewelry, clothing, and household items can act as antennas
 
 ---
 
@@ -8,7 +8,7 @@
 
 > In short: any metal wire, object, pole, disc, plate can act as an antenna for radio waves. From rings, to traintracks. Antennas receive, concentrate and re-radiate energy, which may cause unintended (health) effects which isn't studied very well.
 
-Most people don’t realize that everyday metal objects—bras with underwires, rings, necklaces, keys, even zippers—can act as unintended antennas. These objects resonate with electromagnetic fields (EMFs) from Wi-Fi, cell towers, and other wireless devices, potentially amplifying exposure near vital organs.
+Most people don’t realize that everyday metal objects-bras with underwires, rings, necklaces, keys, even zippers-can act as unintended antennas. These objects resonate with electromagnetic fields (EMFs) from Wi-Fi, cell towers, and other wireless devices, potentially amplifying exposure near vital organs.
 
 This document explains:
 
@@ -43,7 +43,7 @@ An antenna works best when its length is a fraction of the wavelength of the sig
   - A ring (2 cm diameter) can resonate with Wi-Fi/Bluetooth (λ = 12.5 cm → λ/4 ≈ 3.1 cm).
   - A necklace (30–50 cm) may resonate with FM radio (λ ≈ 3 m → λ/6 ≈ 50 cm). and acts as a loop antenna.
 
-> Key Point: These objects don’t just *reflect* signals—they actively receive and re-radiate them, often focusing energy near the body.
+> Key Point: These objects don’t just *reflect* signals-they actively receive and re-radiate them, often focusing energy near the body.
 
 Suggested fix: wax cords, threaded cords made from fabric.
 
@@ -90,7 +90,7 @@ Suggested fix: wax cords, threaded cords made from fabric.
 | Industry          | Why They Ignore This               | Example                          |
 |-----------------------|----------------------------------------|--------------------------------------|
 | Fashion/Lingerie  | Metal underwires are cheap and durable | Victoria’s Secret, Aerie use underwires in ~80% of bras |
-| Tech (Wi-Fi/5G)   | Antenna design is sacred—resonance is how they work | Router antennas are optimized; everyday objects aren’t considered |
+| Tech (Wi-Fi/5G)   | Antenna design is sacred-resonance is how they work | Router antennas are optimized; everyday objects aren’t considered |
 | Jewelry           | Aesthetics > EMF safety            | Titanium rings, gold chains are trendy, not "EMF-safe" |
 | Telecom           | Regulations focus on high-power sources | FCC/ICNIRP limits are based on thermal effects, not chronic low-level exposure |
 
