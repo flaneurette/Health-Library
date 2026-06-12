@@ -122,8 +122,8 @@ Suggested fix: wax cords, threaded cords made from fabric.
 ### 1. Jewelry
 | Item       | Risk                          | Solution                          |
 |----------------|-----------------------------------|---------------------------------------|
-| Necklaces  | Resonates with FM radio/Wi-Fi, near thyroid/lungs | Avoid long chains; use non-metal (e.g., silicone, wood) |
-| Rings      | Resonates with Wi-Fi/Bluetooth, near fingers/nerves | Switch to wood, ceramic, or titanium (avoid gold/silver) |
+| Necklaces  | Resonates with FM radio/Wi-Fi, near thyroid/lungs | Avoid long chains; use non-metal (e.g., thread, wax, wool.) |
+| Rings      | Resonates with Wi-Fi/Bluetooth, near fingers/nerves | avoid gold/silver |
 | Bracelets  | Can act as loop antennas, near wrist nerves | Use fabric or silicone bands |
 | Earrings   | Close to brainstem/inner ear  | Avoid metal; use acrylic or surgical steel (if unavoidable) |
 
@@ -136,14 +136,14 @@ Suggested fix: wax cords, threaded cords made from fabric.
 |----------------|-----------------------------------|---------------------------------------|
 | Bras with underwires | Resonates with cell signals (800–2500 MHz), near lungs/heart | Switch to wire-free bras |
 | Belts with metal buckles | Can act as λ/4 antennas, near abdomen | Use fabric belts or non-metal buckles |
-| Zippers/Buttons | Minor resonance, but cumulative | Avoid large metal zippers near torso |
+| Metal Zippers/Buttons | Minor resonance, but cumulative | Avoid large metal zippers near torso |
 
 ---
 ### 3. Household Items
 | Item               | Risk                          | Solution                          |
 |------------------------|-----------------------------------|---------------------------------------|
 | Keys in pocket     | Can interfere with Bluetooth  | Use a fabric keychain or RFID-blocking wallet |
-| Metal utensils     | Resonates with microwave leaks | Avoid metal in microwave (use glass) |
+| Metal utensils     | Resonates with microwave leaks, Wi-Fi, 4-5G, | Avoid metal in microwave (use glass), or wooden utensils |
 | Wireless chargers  | Strong EMF near body          | Keep 30+ cm away during use |
 | Smart home devices | Pulsed EMFs (e.g., Philips Hue) | Use Ethernet instead of Wi-Fi where possible |
 
